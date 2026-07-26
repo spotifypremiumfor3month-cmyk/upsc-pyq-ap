@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "BdaQpzwYsfT6BOieWfrbA"
+uri = "file://upsc-pyq-master.zip"
+type = "unspecified"
+title = "UPSC PYQ Master - Full Project"

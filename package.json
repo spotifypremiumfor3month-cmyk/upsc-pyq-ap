@@ -1,0 +1,26 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "workspaces": [
+    "artifacts/*",
+    "lib/*",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=@workspace/upsc-pyq",
+    "build": "npm run typecheck && npm run --workspaces --if-present build",
+    "typecheck:libs": "tsc --build",
+    "typecheck": "npm run typecheck:libs && npm run --workspaces --if-present typecheck",
+    "lint": "npm run typecheck"
+  },
+  "private": true,
+  "dependencies": {
+    "@replit/connectors-sdk": "^0.4.1",
+    "firebase": "^12.16.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.5",
+    "typescript": "~5.9.3"
+  }
+}

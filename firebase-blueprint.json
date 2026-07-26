@@ -1,0 +1,31 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "Registered user profile and site access log",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "lastLoginAt": { "type": "string", "format": "date-time" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "UserProgress": {
+      "title": "UserProgress",
+      "description": "Per-subject practice history and best score",
+      "type": "object",
+      "properties": {
+        "subjectSlug": { "type": "string" },
+        "attempts": { "type": "number" },
+        "bestScore": { "type": "number" },
+        "lastScore": { "type": "number" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["subjectSlug", "attempts", "bestScore"]
+    }
+  }
+}

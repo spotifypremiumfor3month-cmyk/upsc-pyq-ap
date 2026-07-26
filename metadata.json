@@ -1,0 +1,8 @@
+{
+  "name": "UPSC PYQ Master",
+  "description": "Comprehensive practice and testing web app for UPSC Previous Year Questions covering History, Geography, Polity, Economy, and General Science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

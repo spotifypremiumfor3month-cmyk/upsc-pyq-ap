@@ -1,0 +1,52 @@
+modules = ["nodejs-20", "web", "bash"]
+
+[deployment]
+deploymentTarget = "static"
+publicDir = "artifacts/upsc-pyq/dist/public"
+
+[deployment.build]
+args = ["sh", "-c", "PORT=5173 BASE_PATH=/ pnpm --filter @workspace/upsc-pyq run build"]
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "UPSC PYQ"
+
+[[workflows.workflow]]
+name = "UPSC PYQ"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "PORT=5173 BASE_PATH=/ pnpm --filter @workspace/upsc-pyq run dev"
+waitForPort = 5173
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[agent]
+stack = "PNPM_WORKSPACE"
+expertMode = true
+
+[postMerge]
+path = "scripts/post-merge.sh"
+timeoutMs = 20000
+
+[nix]
+channel = "stable-25_05"
+
+[[ports]]
+localPort = 5173
+externalPort = 80
+
+[userenv]
+
+[userenv.shared]
+GITHUB_TOKEN = "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"

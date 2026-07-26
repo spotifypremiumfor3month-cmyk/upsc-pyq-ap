@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "UPSC PYQ Master"
+version = "1.0.0"
+id = "artifacts/upsc-pyq"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19477
+
+[services.development]
+run = "pnpm --filter @workspace/upsc-pyq run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/upsc-pyq", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/upsc-pyq/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19477"
+BASE_PATH = "/"
