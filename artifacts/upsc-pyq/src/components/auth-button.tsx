@@ -9,7 +9,18 @@ export function AuthButton() {
   const { user, loading, signInWithGoogle, signOutUser, registeredUsersCount } = useAuth();
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
+  const [authError, setAuthError] = useState<string | null>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  const handleSignIn = async () => {
+    setAuthError(null);
+    try {
+      await signInWithGoogle();
+    } catch (err: any) {
+      const msg: string = err?.message || err?.code || String(err);
+      setAuthError(msg);
+    }
+  };
 
   const isAdmin = Boolean(user?.email && user.email.toLowerCase() === ADMIN_EMAIL.toLowerCase());
 
@@ -30,8 +41,13 @@ export function AuthButton() {
   if (!user) {
     return (
       <>
+        {authError && (
+          <div className="fixed bottom-4 left-1/2 -translate-x-1/2 z-[200] max-w-sm w-full mx-4 bg-red-50 dark:bg-red-950 border border-red-300 dark:border-red-700 rounded-xl px-4 py-3 text-xs text-red-700 dark:text-red-300 shadow-lg">
+            <strong>Sign-in error:</strong> {authError}
+          </div>
+        )}
         <button
-          onClick={signInWithGoogle}
+          onClick={handleSignIn}
           className="flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-primary hover:bg-primary/90 text-primary-foreground font-bold text-xs shadow-md transition-all active:scale-95"
           title="Sign in with Google / Gmail"
         >
