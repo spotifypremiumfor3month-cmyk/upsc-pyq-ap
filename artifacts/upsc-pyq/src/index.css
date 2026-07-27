@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800;900&family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap');
 @import 'tailwindcss';
 @import 'tw-animate-css';
 @plugin "@tailwindcss/typography";
@@ -41,7 +41,7 @@
   --color-destructive-border: var(--destructive-border);
 
   --font-sans: 'Outfit', var(--app-font-sans);
-  --font-serif: var(--app-font-serif);
+  --font-serif: 'Playfair Display', Georgia, serif;
   --font-mono: var(--app-font-mono);
 
   --radius-sm: calc(var(--radius) - 4px);
@@ -53,81 +53,83 @@
 @layer base {
   :root {
     --app-font-sans: 'Inter', sans-serif;
-    --app-font-serif: Georgia, serif;
+    --app-font-serif: 'Playfair Display', Georgia, serif;
     --app-font-mono: Menlo, monospace;
-    --radius: 0.5rem;
+    --radius: 0.375rem;
 
-    /* Light mode — white background, deep government blue accents */
-    --background: 216 33% 97%;
-    --foreground: 222 47% 11%;
+    /* Light mode — warm parchment background, deep navy text, antique gold accents */
+    --background: 38 35% 96%;
+    --foreground: 218 66% 12%;
 
-    --border: 214 32% 88%;
-    --input: 214 32% 88%;
-    --ring: 224 71% 40%;
+    --border: 36 22% 80%;
+    --input: 36 22% 80%;
+    --ring: 40 55% 50%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222 47% 11%;
-    --card-border: 214 32% 88%;
+    --card: 36 45% 99%;
+    --card-foreground: 218 66% 12%;
+    --card-border: 36 22% 83%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222 47% 11%;
-    --popover-border: 214 32% 88%;
+    --popover: 36 45% 99%;
+    --popover-foreground: 218 66% 12%;
+    --popover-border: 36 22% 80%;
 
-    --primary: 224 71% 40%;
-    --primary-foreground: 0 0% 100%;
+    /* Gold as primary */
+    --primary: 40 58% 48%;
+    --primary-foreground: 218 66% 10%;
 
-    --secondary: 214 89% 94%;
-    --secondary-foreground: 222 47% 20%;
+    --secondary: 38 30% 90%;
+    --secondary-foreground: 218 55% 18%;
 
-    --muted: 210 40% 94%;
-    --muted-foreground: 215 25% 42%;
+    --muted: 38 18% 91%;
+    --muted-foreground: 218 28% 38%;
 
-    --accent: 214 89% 90%;
-    --accent-foreground: 222 47% 20%;
+    --accent: 40 45% 86%;
+    --accent-foreground: 218 55% 15%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 36 45% 99%;
 
-    /* Interactive */
-    --elevate-1: rgba(30, 64, 175, 0.04);
-    --elevate-2: rgba(30, 64, 175, 0.09);
+    /* Interactive shadows */
+    --elevate-1: rgba(11, 29, 58, 0.04);
+    --elevate-2: rgba(11, 29, 58, 0.09);
   }
 
   .dark {
-    /* Dark mode — deep navy, bright blue accents */
-    --background: 222 47% 8%;
-    --foreground: 210 40% 95%;
+    /* Dark mode — deep navy background, warm ivory text, bright gold accents */
+    --background: 218 65% 9%;
+    --foreground: 40 55% 92%;
 
-    --border: 222 30% 20%;
-    --input: 222 30% 20%;
-    --ring: 213 93% 67%;
+    --border: 218 38% 20%;
+    --input: 218 38% 20%;
+    --ring: 42 72% 55%;
 
-    --card: 222 40% 11%;
-    --card-foreground: 210 40% 95%;
-    --card-border: 222 30% 20%;
+    --card: 218 60% 13%;
+    --card-foreground: 40 55% 92%;
+    --card-border: 218 38% 22%;
 
-    --popover: 222 40% 11%;
-    --popover-foreground: 210 40% 95%;
-    --popover-border: 222 30% 20%;
+    --popover: 218 60% 13%;
+    --popover-foreground: 40 55% 92%;
+    --popover-border: 218 38% 22%;
 
-    --primary: 213 93% 67%;
-    --primary-foreground: 222 47% 8%;
+    /* Brighter gold in dark mode */
+    --primary: 42 72% 55%;
+    --primary-foreground: 218 65% 9%;
 
-    --secondary: 222 40% 17%;
-    --secondary-foreground: 210 40% 90%;
+    --secondary: 218 48% 18%;
+    --secondary-foreground: 40 45% 88%;
 
-    --muted: 222 40% 14%;
-    --muted-foreground: 215 20% 62%;
+    --muted: 218 44% 15%;
+    --muted-foreground: 40 18% 58%;
 
-    --accent: 222 40% 20%;
-    --accent-foreground: 210 40% 90%;
+    --accent: 218 48% 21%;
+    --accent-foreground: 40 45% 88%;
 
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
+    --destructive: 0 55% 40%;
+    --destructive-foreground: 40 55% 92%;
 
-    /* Interactive */
-    --elevate-1: rgba(255, 255, 255, 0.04);
-    --elevate-2: rgba(255, 255, 255, 0.09);
+    /* Interactive shadows */
+    --elevate-1: rgba(201, 168, 76, 0.05);
+    --elevate-2: rgba(201, 168, 76, 0.10);
   }
 
   * {
@@ -136,6 +138,11 @@
 
   body {
     @apply font-sans antialiased bg-background text-foreground;
+  }
+
+  /* Headings use the serif font for a premium bureaucratic feel */
+  h1, h2, h3 {
+    font-family: 'Playfair Display', Georgia, serif;
   }
 }
 
