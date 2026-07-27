@@ -19,6 +19,7 @@ export type QuestionOption = {
 export type Question = {
   id: string;
   subject: string;
+  category?: string;
   year: number;
   questionNumber: number;
   question: string;
@@ -28,6 +29,7 @@ export type Question = {
 };
 
 export const SUBJECT_ORDER = [
+  'current_affairs',
   'ancient_history',
   'medieval_history',
   'modern_history',
@@ -44,6 +46,10 @@ export type SubjectCategoryGroup = {
 };
 
 export const SUBJECT_CATEGORIES: SubjectCategoryGroup[] = [
+  {
+    category: 'Current Affairs',
+    slugs: ['current_affairs'],
+  },
   {
     category: 'History',
     slugs: ['ancient_history', 'medieval_history', 'modern_history'],

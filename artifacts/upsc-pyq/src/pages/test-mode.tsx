@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useParams, useLocation, Link } from 'wouter';
 import { useSubjectData, useIndexData, Question } from '@/hooks/use-subject-data';
-import { Settings, Play, ChevronRight, XCircle, CheckCircle2, ChevronLeft, Flag, Lock } from 'lucide-react';
+import { Settings, Play, ChevronRight, XCircle, CheckCircle2, ChevronLeft, Flag, Lock, Tag } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 import { useAuth } from '@/lib/auth-context';
 
@@ -29,9 +29,12 @@ export default function TestMode() {
   const { data: questions, loading: qLoading } = useSubjectData(slug || '');
   const { data: indexData } = useIndexData();
   
+  const isCurrentAffairs = slug === 'current_affairs';
+
   const [hasStarted, setStarted] = useState(false);
   const [numQuestions, setNumQuestions] = useState(20);
   const [yearRange, setYearRange] = useState<[number, number]>([1979, 2025]);
+  const [categoryFilter, setCategoryFilter] = useState<string>('all');
   
   // Test State
   const [testQuestions, setTestQuestions] = useState<Question[]>([]);
@@ -48,8 +51,17 @@ export default function TestMode() {
     }
   }, [subjectInfo]);
 
+  const uniqueCategories = useMemo(() => {
+    if (!isCurrentAffairs) return [];
+    const cats = new Set(questions.map(q => q.category).filter(Boolean));
+    return [...cats].sort() as string[];
+  }, [questions, isCurrentAffairs]);
+
   const startTest = () => {
-    const filtered = questions.filter(q => q.year >= yearRange[0] && q.year <= yearRange[1]);
+    const filtered = questions.filter(q =>
+      q.year >= yearRange[0] && q.year <= yearRange[1] &&
+      (categoryFilter === 'all' || q.category === categoryFilter)
+    );
     const shuffled = shuffle(filtered).slice(0, numQuestions);
     if (shuffled.length === 0) {
       alert("No questions found for the selected year range. Please adjust your filters.");
@@ -207,6 +219,24 @@ export default function TestMode() {
               </div>
             )}
 
+            {isCurrentAffairs && uniqueCategories.length > 0 && (
+              <div className="space-y-3">
+                <label className="text-sm font-bold text-foreground flex items-center gap-2">
+                  <Tag className="h-4 w-4 text-primary" /> Topic Filter
+                </label>
+                <select
+                  value={categoryFilter}
+                  onChange={(e) => setCategoryFilter(e.target.value)}
+                  className="w-full bg-background border rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-primary/50"
+                >
+                  <option value="all">All Topics</option>
+                  {uniqueCategories.map(cat => (
+                    <option key={cat} value={cat}>{cat}</option>
+                  ))}
+                </select>
+              </div>
+            )}
+
             <div className="pt-6">
               <button 
                 onClick={startTest}
@@ -291,8 +321,16 @@ export default function TestMode() {
           })}
         </div>
 
+        {/* Category tag for Current Affairs */}
+        {isCurrentAffairs && q.category && (
+          <div className="mt-4 flex items-center gap-2">
+            <Tag className="h-3.5 w-3.5 text-primary" />
+            <span className="text-xs font-semibold text-primary">{q.category}</span>
+          </div>
+        )}
+
         {/* Explanation Block */}
-        {isAnswered && (
+        {isAnswered && q.explanation && (
           <div className="mt-6 p-5 bg-secondary/30 border rounded-xl animate-in slide-in-from-top-4 duration-300">
             <h4 className="text-sm font-bold text-foreground flex items-center gap-2 mb-2">
               <Flag className="h-4 w-4 text-primary" /> Explanation

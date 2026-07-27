@@ -5,14 +5,15 @@ import { Skeleton } from '@/components/ui/skeleton';
 
 const getSubjectColor = (slug: string) => {
   const colors: Record<string, string> = {
-    ancient_history: 'bg-[#b45309]', // amber-700
-    general_science: 'bg-[#0369a1]', // sky-700
-    indian_economy: 'bg-[#15803d]',  // green-700
-    indian_geography: 'bg-[#c2410c]',// orange-700
-    indian_polity: 'bg-[#4338ca]',   // emerald-700
-    medieval_history: 'bg-[#a21caf]',// fuchsia-700
-    modern_history: 'bg-[#be123c]',  // rose-700
-    world_geography: 'bg-[#1d4ed8]', // indigo-700
+    current_affairs:  'bg-[#C9A84C]', // gold
+    ancient_history:  'bg-[#b45309]', // amber-700
+    general_science:  'bg-[#0369a1]', // sky-700
+    indian_economy:   'bg-[#15803d]', // green-700
+    indian_geography: 'bg-[#c2410c]', // orange-700
+    indian_polity:    'bg-[#4338ca]', // indigo-700
+    medieval_history: 'bg-[#a21caf]', // fuchsia-700
+    modern_history:   'bg-[#be123c]', // rose-700
+    world_geography:  'bg-[#1d4ed8]', // blue-700
   };
   return colors[slug] || 'bg-primary';
 };

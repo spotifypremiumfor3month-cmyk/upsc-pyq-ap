@@ -10,14 +10,15 @@ import { getAllProgress } from '@/lib/progress';
 import { AuthButton } from '@/components/auth-button';
 
 const SUBJECT_COLORS: Record<string, string> = {
-  ancient_history: 'bg-amber-600',
-  general_science: 'bg-sky-600',
-  indian_economy: 'bg-green-600',
+  current_affairs:  'bg-[#C9A84C]',
+  ancient_history:  'bg-amber-600',
+  general_science:  'bg-sky-600',
+  indian_economy:   'bg-green-600',
   indian_geography: 'bg-orange-600',
-  indian_polity: 'bg-indigo-600',
+  indian_polity:    'bg-indigo-600',
   medieval_history: 'bg-fuchsia-600',
-  modern_history: 'bg-rose-600',
-  world_geography: 'bg-blue-600',
+  modern_history:   'bg-rose-600',
+  world_geography:  'bg-blue-600',
 };
 
 function ScoreBadge({ score }: { score: number }) {
