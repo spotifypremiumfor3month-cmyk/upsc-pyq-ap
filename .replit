@@ -58,7 +58,3 @@ externalPort = 8081
 localPort = 19477
 externalPort = 3000
 
-[userenv]
-
-[userenv.shared]
-GITHUB_TOKEN = "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"

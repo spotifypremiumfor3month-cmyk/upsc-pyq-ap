@@ -1,0 +1,1 @@
+- [Imported project security](imported-project-security.md) — scan tracked Replit configuration for exposed credentials before completing setup.

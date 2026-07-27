@@ -1,45 +1,50 @@
-# [Project name]
+# UPSC PYQ Master
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A static UPSC previous-year-question practice app with subject browsing, prelims papers, test mode, results, and Firebase authentication.
 
 ## Run & Operate
 
-- `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
-- `pnpm run typecheck` — full typecheck across all packages
-- `pnpm run build` — typecheck + build all packages
-- `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
-- `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
-- Required env: `DATABASE_URL` — Postgres connection string
+- `pnpm install --frozen-lockfile` — install the imported workspace dependencies
+- `PORT=5173 BASE_PATH=/ pnpm --filter @workspace/upsc-pyq run dev` — run the website locally
+- `pnpm --filter @workspace/upsc-pyq run build` — build the static website for publishing
+- The Replit workflow `UPSC PYQ` runs the website on port 5173.
+- Firebase configuration is provided by `firebase-applet-config.json`.
 
 ## Stack
 
-- pnpm workspaces, Node.js 24, TypeScript 5.9
-- API: Express 5
-- DB: PostgreSQL + Drizzle ORM
-- Validation: Zod (`zod/v4`), `drizzle-zod`
-- API codegen: Orval (from OpenAPI spec)
-- Build: esbuild (CJS bundle)
+- pnpm workspaces, Node.js 20, TypeScript 5.9
+- React 19 + Vite 7
+- Tailwind CSS 4
+- Firebase Authentication and Firestore
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/upsc-pyq/src/` — website source
+- `artifacts/upsc-pyq/public/data/` — question and subject data
+- `artifacts/upsc-pyq/src/pages/` — app pages and practice flows
+- `artifacts/upsc-pyq/src/lib/` — Firebase, authentication, and theme helpers
+- `attached_assets/` — imported UPSC PDF reference files
+- `firebase-applet-config.json` and `firestore.rules` — Firebase project configuration
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The website is a static Vite build and does not require a backend service to run.
+- The app uses the root URL (`/`) for Replit preview and publishing.
+- Public question data is loaded from files under the app's public data directory.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+Users can browse UPSC subjects and previous-year prelims papers, take timed practice tests, review results, and sign in with Google to use Firebase-backed account features.
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+Keep the imported GitHub project unchanged apart from the minimum Replit setup and documentation needed to run and publish it.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- Run `pnpm install --frozen-lockfile` after importing the repository if workspace dependencies are missing.
+- Keep `BASE_PATH=/` for the current root-mounted Replit artifact.
 
 ## Pointers
 
-- See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details
+- The production output is `artifacts/upsc-pyq/dist/public`.
