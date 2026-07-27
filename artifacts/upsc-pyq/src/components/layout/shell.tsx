@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from 'react';
 import { Link, useLocation } from 'wouter';
 import {
   BookOpen, GraduationCap, Sun, Moon, MoreVertical,
-  TrendingUp, CheckCircle2, Target, Trophy, X, BarChart3,
+  TrendingUp, CheckCircle2, Target, Trophy, X, BarChart3, FileText,
 } from 'lucide-react';
 import { useTheme } from '@/lib/theme';
 import { useIndexData, SUBJECT_CATEGORIES } from '@/hooks/use-subject-data';
@@ -110,6 +110,23 @@ export function Shell({ children }: { children: React.ReactNode }) {
                   <div className="px-4 py-3 border-b bg-secondary/30">
                     <p className="text-xs font-bold text-muted-foreground uppercase tracking-wider">Select Subject Area</p>
                   </div>
+                   <div className="p-2 border-b">
+                     <button
+                       onClick={() => {
+                         navigate('/prelims');
+                         setMenuOpen(false);
+                       }}
+                       className="w-full flex items-center gap-3 px-3 py-2.5 rounded-xl bg-primary/10 text-left hover:bg-primary/15 transition-colors group"
+                     >
+                       <span className="h-9 w-9 rounded-lg bg-primary text-primary-foreground flex items-center justify-center shrink-0">
+                         <FileText className="h-4 w-4" />
+                       </span>
+                       <span className="min-w-0">
+                         <span className="block text-sm font-bold text-foreground group-hover:text-primary transition-colors">PYQ Papers</span>
+                         <span className="block text-xs text-muted-foreground">Year-wise UPSC Prelims</span>
+                       </span>
+                     </button>
+                   </div>
                   <div className="py-2 max-h-96 overflow-y-auto px-2 space-y-3">
                     {SUBJECT_CATEGORIES.map(cat => {
                       const catSubjects = subjects.filter(s => cat.slugs.includes(s.slug));

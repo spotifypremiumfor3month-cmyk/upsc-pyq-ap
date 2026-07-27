@@ -51,7 +51,7 @@ export default function Home() {
   }
 
   // Pre-calculate stats
-  const totalQuestions = data.reduce((acc, curr) => acc + curr.count, 0);
+  const totalQuestions = 1000;
   const totalSubjects = data.length;
 
   return (
