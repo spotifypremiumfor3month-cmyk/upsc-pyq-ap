@@ -11,8 +11,6 @@ const basePath = process.env.BASE_PATH || '/';
 
 export default defineConfig({
   base: basePath,
-  // Expose env vars prefixed with VITE_ or GOOGLE_ to the client bundle
-  envPrefix: ['VITE_', 'GOOGLE_'],
   plugins: [
     react(),
     tailwindcss(),
