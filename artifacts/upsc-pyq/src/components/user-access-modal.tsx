@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Users, ShieldCheck, Mail, Calendar, Clock, LogIn } from 'lucide-react';
+import { X, Users, ShieldCheck, Mail, Clock, LogIn, ArrowLeft } from 'lucide-react';
 import { useAuth, useRegisteredUsersList } from '@/lib/auth-context';
 
 export function UserAccessModal({
@@ -131,8 +131,17 @@ export function UserAccessModal({
         </div>
 
         {/* Footer */}
-        <div className="p-4 border-t bg-secondary/20 text-center text-xs text-muted-foreground">
-          Real-time access security provided via Firebase Authentication & Firestore
+        <div className="p-4 border-t bg-secondary/20 flex items-center justify-between gap-4">
+          <button
+            onClick={onClose}
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-secondary hover:bg-secondary/80 border text-sm font-semibold text-foreground transition-colors"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            Back to Site
+          </button>
+          <span className="text-xs text-muted-foreground text-right">
+            Real-time via Firebase Auth & Firestore
+          </span>
         </div>
       </div>
     </>
