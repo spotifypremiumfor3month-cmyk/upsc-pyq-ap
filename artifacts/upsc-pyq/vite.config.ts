@@ -11,6 +11,10 @@ const basePath = process.env.BASE_PATH || '/';
 
 export default defineConfig({
   base: basePath,
+  define: {
+    // Expose GOOGLE_API_KEY (Replit secret) to the frontend as VITE_GOOGLE_API_KEY
+    'import.meta.env.VITE_GOOGLE_API_KEY': JSON.stringify(process.env.GOOGLE_API_KEY || ''),
+  },
   plugins: [
     react(),
     tailwindcss(),
