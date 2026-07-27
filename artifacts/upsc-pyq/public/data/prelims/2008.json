@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "prelims_2008_1",
+    "year": 2008,
+    "questionNumber": 1,
+    "question": "In the series AABABCABCDABCDE... which letter occupies the 100th position?",
+    "options": {
+      "a": "H",
+      "b": "I",
+      "c": "J",
+      "d": "K"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_2",
+    "year": 2008,
+    "questionNumber": 2,
+    "question": "What is the number of terms in the series 117, 120, 123, 126, ..., 333?",
+    "options": {
+      "a": "72",
+      "b": "73",
+      "c": "76",
+      "d": "79"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_3",
+    "year": 2008,
+    "questionNumber": 3,
+    "question": "In how many different ways can four books A, B, C and D be arranged one above another in a vertical order such that the books A and B are never in continuous position?",
+    "options": {
+      "a": "9",
+      "b": "12",
+      "c": "14",
+      "d": "18"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_4",
+    "year": 2008,
+    "questionNumber": 4,
+    "question": "Carpenter A can make a chair in 6 hours, carpenter B in 7 hours and carpenter C in 8 hours. If each carpenter works for 8 hours per day, how many chairs will be made in 21 days?",
+    "options": {
+      "a": "61",
+      "b": "67",
+      "c": "73",
+      "d": "79"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_5",
+    "year": 2008,
+    "questionNumber": 5,
+    "question": "A person purchases 100 pens at a discount of 10%. The net amount of money spent by the person to purchase the pens is Rs 600. The selling expenses incurred by the person are 15% on the net cost price. What should be the selling price for 100 pens in order to earn a profit of 25%?",
+    "options": {
+      "a": "Rs 802·50",
+      "b": "Rs 811·25",
+      "c": "Rs 862·50",
+      "d": "Rs 875"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_6",
+    "year": 2008,
+    "questionNumber": 6,
+    "question": "A schoolteacher has to select the maximum possible number of different groups of 3 students out of a total of 6 students. In how many groups any particular student will be included?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_7",
+    "year": 2008,
+    "questionNumber": 7,
+    "question": "In an examination, 70% of the students passed in the Paper I, and 60% of the students passed in the Paper II. 15% of the students failed in both the papers while 270 students passed in both the papers. What is the total number of students?",
+    "options": {
+      "a": "600",
+      "b": "580",
+      "c": "560",
+      "d": "540"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_8",
+    "year": 2008,
+    "questionNumber": 8,
+    "question": "What is Bisphenol A (BPA)?",
+    "options": {
+      "a": "A medical test for detecting cancer",
+      "b": "A test for testing the use of drugs to improve performance by athletes",
+      "c": "A chemical used for the development of food-packaging materials",
+      "d": "A special type of alloy steel"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_9",
+    "year": 2008,
+    "questionNumber": 9,
+    "question": "Which of the following pairs about India's economic indicator and agricultural production (all in rounded figures) are correctly matched? 1. GDP per capita (current prices) : Rs 37,000 2. Rice : 180 million tons 3. Wheat : 75 million tons Select the correct answer using the code given below :",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "1 and 2 only",
+      "c": "2 and 3 only",
+      "d": "1 and 3 only"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Agriculture & Rural Development",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_10",
+    "year": 2008,
+    "questionNumber": 10,
+    "question": "March 1, 2008 was Saturday. Which day was it on March 1, 2002?",
+    "options": {
+      "a": "Thursday",
+      "b": "Friday",
+      "c": "Saturday",
+      "d": "Sunday"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_11",
+    "year": 2008,
+    "questionNumber": 11,
+    "question": "In August 2006, the Government of India notified the Rural Electrification Policy. This policy aims at provision of access to all households by which year?",
+    "options": {
+      "a": "2008",
+      "b": "2009",
+      "c": "2010",
+      "d": "2012"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_12",
+    "year": 2008,
+    "questionNumber": 12,
+    "question": "As per India's National Population Policy, 2000, by which one of the following years is it our long-term objective to achieve population stabilization?",
+    "options": {
+      "a": "2025",
+      "b": "2035",
+      "c": "2045",
+      "d": "2055"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_13",
+    "year": 2008,
+    "questionNumber": 13,
+    "question": "Which one of the following Union Ministries is implementing the Biodiesel Mission (as Nodal Ministry)?",
+    "options": {
+      "a": "Ministry of Agriculture",
+      "b": "Ministry of Science and Technology",
+      "c": "Ministry of New and Renewable Energy",
+      "d": "Ministry of Rural Development"
+    },
+    "answer": "d",
+    "subject": "Environment & Ecology › Renewable Energy & Green Technologies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_14",
+    "year": 2008,
+    "questionNumber": 14,
+    "question": "Consider the following statements with reference to Indira Gandhi National Old Age Pension Scheme (IGNOAPS): 1. All persons of 60 years or above belonging to the households below poverty line in rural areas are eligible. 2. The Central Assistance under this Scheme is at the rate of Rs 300 per month per beneficiary. Under the Scheme, States have been urged to give matching amounts. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_15",
+    "year": 2008,
+    "questionNumber": 15,
+    "question": "What is the name of the scheme which provides training and skills to women in traditional and non-traditional trades?",
+    "options": {
+      "a": "Kishori Shakti Yojna",
+      "b": "Rashtriya Mahila Kosh",
+      "c": "Swayamsiddha",
+      "d": "Swalamban"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_16",
+    "year": 2008,
+    "questionNumber": 16,
+    "question": "Consider the following statements: 1. Orange Prize is awarded to a work of published fiction in English by a woman. 2. Pulitzer Prize is awarded by the Commonwealth Foundation to a citizen of any Commonwealth country for any literary work in English. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Cultural Institutions & Awards",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_17",
+    "year": 2008,
+    "questionNumber": 17,
+    "question": "Recently, the manuscripts of which one of the following have been included in the UNESCO's Memory of World Register?",
+    "options": {
+      "a": "Abhidhamma Pitaka",
+      "b": "Mahabharata",
+      "c": "Ramayana",
+      "d": "Rig-Veda"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Cultural Institutions & Awards",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_18",
+    "year": 2008,
+    "questionNumber": 18,
+    "question": "Selene-1, the lunar orbiter mission belongs to which one of the following?",
+    "options": {
+      "a": "China",
+      "b": "European Union",
+      "c": "Japan",
+      "d": "USA"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_19",
+    "year": 2008,
+    "questionNumber": 19,
+    "question": "From which one of the following did India buy the Barak anti-missile defence systems?",
+    "options": {
+      "a": "Israel",
+      "b": "France",
+      "c": "Russia",
+      "d": "USA"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Climate Change & Greenhouse Gases",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_20",
+    "year": 2008,
+    "questionNumber": 20,
+    "question": "Consider the following: 1. Rice fields 2. Coal mining 3. Domestic animals 4. Wetlands Which of the above are sources of methane, a major greenhouse gas?",
+    "options": {
+      "a": "1 and 4 only",
+      "b": "2 and 3 only",
+      "c": "1, 2 and 3 only",
+      "d": "1, 2, 3 and 4"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_21",
+    "year": 2008,
+    "questionNumber": 21,
+    "question": "What is the number of spokes in the Dharmachakra in the National Flag of India?",
+    "options": {
+      "a": "16",
+      "b": "18",
+      "c": "22",
+      "d": "24"
+    },
+    "answer": "d",
+    "subject": "Geography › Biogeography & Natural Vegetation",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_22",
+    "year": 2008,
+    "questionNumber": 22,
+    "question": "Which one of the following is not essentially a species of the Himalayan vegetation?",
+    "options": {
+      "a": "Juniper",
+      "b": "Mahogany",
+      "c": "Silver fir",
+      "d": "Spruce"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_23",
+    "year": 2008,
+    "questionNumber": 23,
+    "question": "Which of the following hills are found where the Eastern Ghats and the Western Ghats meet?",
+    "options": {
+      "a": "Anaimalai Hills",
+      "b": "Cardamom Hills",
+      "c": "Nilgiri Hills",
+      "d": "Shevaroy Hills"
+    },
+    "answer": "c",
+    "subject": "Geography › Indian Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_24",
+    "year": 2008,
+    "questionNumber": 24,
+    "question": "Consider the following pairs: Tributary River – Main River 1. Chambal : Narmada 2. Sone : Yamuna 3. Manas : Brahmaputra Which of the pairs given above is/are correctly matched?",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "1 and 2 only",
+      "c": "2 and 3 only",
+      "d": "3 only"
+    },
+    "answer": "d",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_25",
+    "year": 2008,
+    "questionNumber": 25,
+    "question": "Consider the following statements: 1. Salt-water crocodile is found in the Andaman and Nicobar Islands. 2. Shrew and tapir are found in the Western Ghats of the Malabar region. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Protected Areas & Wildlife",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_26",
+    "year": 2008,
+    "questionNumber": 26,
+    "question": "Which one amongst the following has the largest livestock population in the world?",
+    "options": {
+      "a": "Brazil",
+      "b": "China",
+      "c": "India",
+      "d": "USA"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_27",
+    "year": 2008,
+    "questionNumber": 27,
+    "question": "How many High Courts in India have jurisdiction over more than one State (Union Territories not included)?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_28",
+    "year": 2008,
+    "questionNumber": 28,
+    "question": "In which one of the following kinds of organisms is the phenomenon found wherein the female kills the male after copulation?",
+    "options": {
+      "a": "Dragonfly",
+      "b": "Honeybee",
+      "c": "Spider",
+      "d": "Pit viper"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_29",
+    "year": 2008,
+    "questionNumber": 29,
+    "question": "For which one of the following snakes is the diet mainly composed of other snakes?",
+    "options": {
+      "a": "Krait",
+      "b": "Russell's viper",
+      "c": "Rattlesnake",
+      "d": "King cobra"
+    },
+    "answer": "d",
+    "subject": "Environment & Ecology › Ecosystems & Ecology Concepts",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_30",
+    "year": 2008,
+    "questionNumber": 30,
+    "question": "Which one of the following is an insectivorous plant?",
+    "options": {
+      "a": "Passion flower plant",
+      "b": "Pitcher plant",
+      "c": "Night queen",
+      "d": "Flame of the forest"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_31",
+    "year": 2008,
+    "questionNumber": 31,
+    "question": "Starting with the Australian Open Lawn Tennis Tournament, which one of the following is the correct chronological order of the other three major Lawn Tennis Tournaments?",
+    "options": {
+      "a": "French Open — US Open — Wimbledon",
+      "b": "French Open — Wimbledon — US Open",
+      "c": "Wimbledon — US Open — French Open",
+      "d": "Wimbledon — French Open — US Open"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Tennis Grand Slams",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_32",
+    "year": 2008,
+    "questionNumber": 32,
+    "question": "In which one of the following is Malta located?",
+    "options": {
+      "a": "Baltic Sea",
+      "b": "Mediterranean Sea",
+      "c": "Black Sea",
+      "d": "North Sea"
+    },
+    "answer": "b",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_33",
+    "year": 2008,
+    "questionNumber": 33,
+    "question": "ISRO successfully conducted a rocket test using cryogenic engines in the year 2007. Where is the test-stand used for the purpose, located?",
+    "options": {
+      "a": "Balasore",
+      "b": "Thiruvananthapuram",
+      "c": "Mahendragiri",
+      "d": "Karwar"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_34",
+    "year": 2008,
+    "questionNumber": 34,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Service/Agency) A. Foreign Intelligence Service B. Ministry of State Security C. Secret Intelligence Service D. The Mossad List-II (Country) 1. Israel 2. Britain 3. China 4. Russia Code:",
+    "options": {
+      "a": "A B C D 4 1 2 3",
+      "b": "A B C D 2 3 4 1",
+      "c": "A B C D 4 3 2 1",
+      "d": "A B C D 2 1 4 3"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_35",
+    "year": 2008,
+    "questionNumber": 35,
+    "question": "C. Rangarajan has been actively involved in the Pan-Asian Commission addressing to which one of the following issues?",
+    "options": {
+      "a": "Promotion of tourism in the Asian region",
+      "b": "Impact of HIV/AIDS in the Asian region",
+      "c": "Promotion of free trade in the Asian region",
+      "d": "Higher technical education in the universities in the Asian region"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Disasters & Humanitarian Issues",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_36",
+    "year": 2008,
+    "questionNumber": 36,
+    "question": "What is the pH level of blood of a normal person?",
+    "options": {
+      "a": "4·5 – 4·6",
+      "b": "6·45 – 6·55",
+      "c": "7·35 – 7·45",
+      "d": "8·25 – 8·35"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_37",
+    "year": 2008,
+    "questionNumber": 37,
+    "question": "Who among the following have held the office of the Vice-President of India? 1. Mohammad Hidayatullah 2. Fakhruddin Ali Ahmed 3. Neelam Sanjiva Reddy 4. Shankar Dayal Sharma Select the correct answer using the code given below:",
+    "options": {
+      "a": "1, 2, 3 and 4",
+      "b": "1 and 4 only",
+      "c": "2 and 3 only",
+      "d": "3 and 4 only"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_38",
+    "year": 2008,
+    "questionNumber": 38,
+    "question": "Which was the Capital of Andhra State when it was made a separate State in the year 1953?",
+    "options": {
+      "a": "Guntur",
+      "b": "Kurnool",
+      "c": "Nellore",
+      "d": "Warangal"
+    },
+    "answer": "b",
+    "subject": "Modern History › Post-Independence India",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_39",
+    "year": 2008,
+    "questionNumber": 39,
+    "question": "Which one of the following is correct in respect of Indian football team's performance in the Olympic Games?",
+    "options": {
+      "a": "India has never participated in the Olympic Football Tournament",
+      "b": "India played only in the First Round",
+      "c": "India entered only up to the Quarter Finals",
+      "d": "India entered the Semi Finals"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › Football",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_40",
+    "year": 2008,
+    "questionNumber": 40,
+    "question": "In which one of the following States are Namchik-Namphuk Coalfields located?",
+    "options": {
+      "a": "Arunachal Pradesh",
+      "b": "Meghalaya",
+      "c": "Manipur",
+      "d": "Mizoram"
+    },
+    "answer": "a",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_41",
+    "year": 2008,
+    "questionNumber": 41,
+    "question": "Norman Ernest Borlaug who is regarded as the father of the Green Revolution in India is from which country?",
+    "options": {
+      "a": "United States of America",
+      "b": "Mexico",
+      "c": "Australia",
+      "d": "New Zealand"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_42",
+    "year": 2008,
+    "questionNumber": 42,
+    "question": "Yom Kippur War was fought between which sides/countries?",
+    "options": {
+      "a": "Turkey and Greece",
+      "b": "Serbs and Croats",
+      "c": "Israel, and Arab countries led by Egypt and Syria",
+      "d": "Iran and Iraq"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_43",
+    "year": 2008,
+    "questionNumber": 43,
+    "question": "Consider the following statements about probiotic food: 1. Probiotic food contains live bacteria which are considered beneficial to humans. 2. Probiotic food helps in maintaining gut flora. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_44",
+    "year": 2008,
+    "questionNumber": 44,
+    "question": "Consider the following statements: 1. The albedo of an object determines its visual brightness when viewed with reflected light. 2. The albedo of Mercury is much greater than the albedo of the Earth. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Geography › Astronomy & Earth–Sun System",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_45",
+    "year": 2008,
+    "questionNumber": 45,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Person) A. Nagender Singh B. A. N. Ray C. R. K. Trivedi D. Ashok Desai List-II (Position) 1. Chief Election Commissioner of India 2. President, International Court of Justice 3. Chief Justice of India 4. Attorney General of India Code:",
+    "options": {
+      "a": "A-1 B-4 C-2 D-3",
+      "b": "A-2 B-3 C-1 D-4",
+      "c": "A-1 B-3 C-2 D-4",
+      "d": "A-2 B-4 C-1 D-3"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Constitutional & Statutory Bodies",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_46",
+    "year": 2008,
+    "questionNumber": 46,
+    "question": "What does Baudhayana theorem (Baudhayana Sulva Sutra) relate to?",
+    "options": {
+      "a": "Lengths of sides of a right-angled triangle",
+      "b": "Calculation of the value of pi",
+      "c": "Logarithmic calculations",
+      "d": "Normal distribution curve"
+    },
+    "answer": "a",
+    "subject": "Ancient History › Science & Technology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_47",
+    "year": 2008,
+    "questionNumber": 47,
+    "question": "Which of the following pairs is/are correctly matched? Theory/Law — Associated Scientist 1. Continental Drift : Edwin Hubble 2. Expansion of Universe : Alfred Wegener 3. Photoelectric Effect : Albert Einstein Select the correct answer using the code given below:",
+    "options": {
+      "a": "2 and 3 only",
+      "b": "3 only",
+      "c": "2 only",
+      "d": "1 only"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Science & Technology History",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_48",
+    "year": 2008,
+    "questionNumber": 48,
+    "question": "Which of the following minerals are found in a natural way in the State of Chhattisgarh? 1. Bauxite 2. Dolomite 3. Iron ore 4. Tin Select the correct answer using the code given below:",
+    "options": {
+      "a": "1, 2 and 3 only",
+      "b": "1 and 3 only",
+      "c": "2 and 4 only",
+      "d": "1, 2, 3 and 4"
+    },
+    "answer": "d",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_49",
+    "year": 2008,
+    "questionNumber": 49,
+    "question": "On which one of the following rivers is the Tehri Hydropower Complex located?",
+    "options": {
+      "a": "Alaknanda",
+      "b": "Bhagirathi",
+      "c": "Dhauliganga",
+      "d": "Mandakini"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_50",
+    "year": 2008,
+    "questionNumber": 50,
+    "question": "Which one of the following cities is nearest to the equator?",
+    "options": {
+      "a": "Colombo",
+      "b": "Jakarta",
+      "c": "Manila",
+      "d": "Singapore"
+    },
+    "answer": "d",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_51",
+    "year": 2008,
+    "questionNumber": 51,
+    "question": "Which of the following pairs are correctly matched? Waterfalls — River 1. Kapildhara Falls : Godavari 2. Jog Falls : Sharavati 3. Sivasamudram Falls : Cauvery Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_52",
+    "year": 2008,
+    "questionNumber": 52,
+    "question": "Which one of the following straits is nearest to the International Date Line?",
+    "options": {
+      "a": "Malacca Strait",
+      "b": "Bering Strait",
+      "c": "Strait of Florida",
+      "d": "Strait of Gibraltar"
+    },
+    "answer": "b",
+    "subject": "Geography › Astronomy & Earth–Sun System",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_53",
+    "year": 2008,
+    "questionNumber": 53,
+    "question": "Which of the following pairs in respect of current power generation in India is/are correctly matched? (Rounded Figure) 1. Installed electricity generation capacity : 100000 MW 2. Electricity generation : 660 billion kWh Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_54",
+    "year": 2008,
+    "questionNumber": 54,
+    "question": "Which of the following pairs are correctly matched? Irrigation Project — State 1. Damanganga : Gujarat 2. Girna : Maharashtra 3. Pamba : Kerala Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "d",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_55",
+    "year": 2008,
+    "questionNumber": 55,
+    "question": "Who among the following rejected the title of Knighthood and refused to accept a position in the Council of the Secretary of State for India?",
+    "options": {
+      "a": "Motilal Nehru",
+      "b": "M. G. Ranade",
+      "c": "G. K. Gokhale",
+      "d": "B. G. Tilak"
+    },
+    "answer": "c",
+    "subject": "Modern History › Early Nationalism & Indian National Congress (1885-1915)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_56",
+    "year": 2008,
+    "questionNumber": 56,
+    "question": "During the time of which Mughal Emperor did the English East India Company establish its first factory in India?",
+    "options": {
+      "a": "Akbar",
+      "b": "Jahangir",
+      "c": "Shahjahan",
+      "d": "Aurangzeb"
+    },
+    "answer": "b",
+    "subject": "Medieval History › European Powers & Early Colonial Contacts",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_57",
+    "year": 2008,
+    "questionNumber": 57,
+    "question": "The term “Prisoner’s Dilemma” is associated with which one of the following?",
+    "options": {
+      "a": "A technique in glass manufacture",
+      "b": "A term used in shipping industry",
+      "c": "A situation under the Game Theory",
+      "d": "Name of a supercomputer"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › National Income & Economic Growth",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_58",
+    "year": 2008,
+    "questionNumber": 58,
+    "question": "During the Indian Freedom Struggle, who of the following raised an army called ‘Free Indian Legion’?",
+    "options": {
+      "a": "Lala Hardayal",
+      "b": "Rashbehari Bose",
+      "c": "Subhas Chandra Bose",
+      "d": "V. D. Savarkar"
+    },
+    "answer": "c",
+    "subject": "Modern History › Revolutionary & Communist Movements",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_59",
+    "year": 2008,
+    "questionNumber": 59,
+    "question": "Which one of the following suggested the reconstitution of the Viceroy’s Executive Council in which all the portfolios including that of War Members were to be held by the Indian leaders?",
+    "options": {
+      "a": "Simon Commission",
+      "b": "Simla Conference",
+      "c": "Cripps Proposal",
+      "d": "Cabinet Mission"
+    },
+    "answer": "b",
+    "subject": "Modern History › Constitutional Developments & British Plans (1909-1947)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_60",
+    "year": 2008,
+    "questionNumber": 60,
+    "question": "What is Agent Orange?",
+    "options": {
+      "a": "An ace spying group trained by the Police in London",
+      "b": "A weed-killing chemical used by the US Military in the Vietnam War",
+      "c": "A technique used in the advanced railway safety procedure",
+      "d": "A special chemical used in making alloy steel"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_61",
+    "year": 2008,
+    "questionNumber": 61,
+    "question": "Which of the following countries share borders with Moldova? 1. Ukraine 2. Romania 3. Belarus Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "a",
+    "subject": "Geography › World Political Geography & Borders",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_62",
+    "year": 2008,
+    "questionNumber": 62,
+    "question": "India is a member of which of the following? 1. Asian Development Bank 2. Asia-Pacific Economic Cooperation 3. Colombo Plan 4. Organization for Economic Cooperation and Development (OECD) Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 3 only",
+      "b": "2 and 4 only",
+      "c": "1, 2 and 3 only",
+      "d": "1, 2, 3 and 4"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › International Institutions & Reports",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_63",
+    "year": 2008,
+    "questionNumber": 63,
+    "question": "Consider the following statements: 1. Ajman is one of the seven Emirates of the UAE. 2. Ras al-Khaimah was the last Sheikhdom to join the UAE. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Geography › World Political Geography & Borders",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_64",
+    "year": 2008,
+    "questionNumber": 64,
+    "question": "Which one of the following is the largest (area-wise) Lok Sabha constituency?",
+    "options": {
+      "a": "Kangra",
+      "b": "Ladakh",
+      "c": "Kachchh",
+      "d": "Bhilwara"
+    },
+    "answer": "b",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_65",
+    "year": 2008,
+    "questionNumber": 65,
+    "question": "For India, China, the UK and the USA, which one of the following is the correct sequence of the median age of their populations?",
+    "options": {
+      "a": "China < India < UK < USA",
+      "b": "India < China < USA < UK",
+      "c": "China < India < USA < UK",
+      "d": "India < China < UK < USA"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_66",
+    "year": 2008,
+    "questionNumber": 66,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Person) A. Sabyasachi Mukherjee B. Aniruddha Bahal C. Vikram Akula D. Yusuf Hamied List-II (Area) 1. Microfinance loans 2. Pharmaceuticals 3. Fashion designing 4. Investigative journalism",
+    "options": {
+      "a": "A-1 B-2 C-3 D-4",
+      "b": "A-3 B-4 C-1 D-2",
+      "c": "A-1 B-4 C-3 D-2",
+      "d": "A-3 B-2 C-1 D-4"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_67",
+    "year": 2008,
+    "questionNumber": 67,
+    "question": "Consider the following statements: 1. Justice V. R. Krishna Iyer was the Chief Justice of India. 2. Justice V. R. Krishna Iyer is considered as one of the progenitors of public interest litigation (PIL) in the Indian judicial system. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Judiciary",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_68",
+    "year": 2008,
+    "questionNumber": 68,
+    "question": "Ebrahim Alkazi is an eminent personality in which one of the following areas?",
+    "options": {
+      "a": "Heart surgery",
+      "b": "Civil aviation",
+      "c": "Theatre training",
+      "d": "Transport engineering"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Theatre & Cinema",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_69",
+    "year": 2008,
+    "questionNumber": 69,
+    "question": "Consider the following statements: 1. Chikmagalur is well-known for sugar production. 2. Mandya is well-known as a coffee-producing region. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Geography › Indian Agriculture & Land Use",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_70",
+    "year": 2008,
+    "questionNumber": 70,
+    "question": "Bimbavati Devi is a well-known dancer of which type of dance?",
+    "options": {
+      "a": "Manipuri",
+      "b": "Bharat Natyam",
+      "c": "Kuchipudi",
+      "d": "Odissi"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Classical Dance Forms",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_71",
+    "year": 2008,
+    "questionNumber": 71,
+    "question": "How is Sarosh Zaiwalla well-known as?",
+    "options": {
+      "a": "A leading theatre personality",
+      "b": "A leading wildlife photographer",
+      "c": "A leading international legal expert",
+      "d": "A leading orthopaedic surgeon"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_72",
+    "year": 2008,
+    "questionNumber": 72,
+    "question": "Where are Tapovan and Vishnugarh Hydroelectric Projects located?",
+    "options": {
+      "a": "Madhya Pradesh",
+      "b": "Uttar Pradesh",
+      "c": "Uttarakhand",
+      "d": "Rajasthan"
+    },
+    "answer": "c",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_73",
+    "year": 2008,
+    "questionNumber": 73,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Author) A. Bankimchandra B. Dinabandhu Mitra C. Premchand List-II (Work) 1. Shatranj Ke Khilari 2. Debi Chaudhurani 3. Nil-Darpan 4. Chandrakanta",
+    "options": {
+      "a": "A-2 B-4 C-1",
+      "b": "A-3 B-4 C-2",
+      "c": "A-2 B-3 C-1",
+      "d": "A-3 B-1 C-4"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_74",
+    "year": 2008,
+    "questionNumber": 74,
+    "question": "Who among the following gave a systematic critique of the moderate politics of the Indian National Congress in a series of articles entitled New Lamps for Old?",
+    "options": {
+      "a": "Aurobindo Ghosh",
+      "b": "R. C. Dutt",
+      "c": "Syed Ahmad Khan",
+      "d": "Viraraghavachari"
+    },
+    "answer": "a",
+    "subject": "Modern History › Early Nationalism & Indian National Congress (1885-1915)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_75",
+    "year": 2008,
+    "questionNumber": 75,
+    "question": "Who among the following used the phrase ‘Un-British’ to criticize the English colonial control of India?",
+    "options": {
+      "a": "Anandmohan Bose",
+      "b": "Badruddin Tyabji",
+      "c": "Dadabhai Naoroji",
+      "d": "Pherozeshah Mehta"
+    },
+    "answer": "c",
+    "subject": "Modern History › British Administration & Economic Policies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_76",
+    "year": 2008,
+    "questionNumber": 76,
+    "question": "Among the Indian languages, which one is spoken maximum in the world after Hindi?",
+    "options": {
+      "a": "Telugu",
+      "b": "Tamil",
+      "c": "Bengali",
+      "d": "Malayalam"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_77",
+    "year": 2008,
+    "questionNumber": 77,
+    "question": "Who among the following discovered heavy water?",
+    "options": {
+      "a": "Heinrich Hertz",
+      "b": "H. C. Urey",
+      "c": "G. Mendel",
+      "d": "Joseph Priestley"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_78",
+    "year": 2008,
+    "questionNumber": 78,
+    "question": "Kim Dae-jung won the Nobel Prize for Peace. He is from which one of the following countries?",
+    "options": {
+      "a": "Vietnam",
+      "b": "Cambodia",
+      "c": "South Korea",
+      "d": "Japan"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › Awards & Honours",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_79",
+    "year": 2008,
+    "questionNumber": 79,
+    "question": "Ogaden region has been a source of conflict between which countries?",
+    "options": {
+      "a": "Morocco and Algeria",
+      "b": "Nigeria and Cameroon",
+      "c": "Angola and Zambia",
+      "d": "Ethiopia and Somalia"
+    },
+    "answer": "d",
+    "subject": "Geography › World Political Geography & Borders",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_80",
+    "year": 2008,
+    "questionNumber": 80,
+    "question": "Near Art & Culture › Architecture & World Heritage which one of the following cities are Palitana Temples located?",
+    "options": {
+      "a": "Bhavnagar",
+      "b": "Mount Abu",
+      "c": "Nasik",
+      "d": "Ujjain"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_81",
+    "year": 2008,
+    "questionNumber": 81,
+    "question": "Which one of the following countries won the Euro Football Tournament, 2004 held in Portugal?",
+    "options": {
+      "a": "Italy",
+      "b": "France",
+      "c": "Greece",
+      "d": "Portugal"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_82",
+    "year": 2008,
+    "questionNumber": 82,
+    "question": "In order of their distances from the Sun, which of the following planets lie between Mars and Uranus?",
+    "options": {
+      "a": "Earth and Jupiter",
+      "b": "Jupiter and Saturn",
+      "c": "Saturn and Earth",
+      "d": "Saturn and Neptune"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_83",
+    "year": 2008,
+    "questionNumber": 83,
+    "question": "Cristina Kirchner succeeded her husband to become President of a South American country. Which is that country?",
+    "options": {
+      "a": "Chile",
+      "b": "Argentina",
+      "c": "Colombia",
+      "d": "Venezuela"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_84",
+    "year": 2008,
+    "questionNumber": 84,
+    "question": "Who was the Viceroy of India when the Rowlatt Act was passed?",
+    "options": {
+      "a": "Lord Irwin",
+      "b": "Lord Reading",
+      "c": "Lord Chelmsford",
+      "d": "Lord Wavell"
+    },
+    "answer": "c",
+    "subject": "Modern History › British Administration & Economic Policies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_85",
+    "year": 2008,
+    "questionNumber": 85,
+    "question": "In the year 2007, an earthquake led to massive radioactive water leakage in the largest nuclear plant in the world. In which country did it occur?",
+    "options": {
+      "a": "Germany",
+      "b": "Canada",
+      "c": "Japan",
+      "d": "USA"
+    },
+    "answer": "c",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_86",
+    "year": 2008,
+    "questionNumber": 86,
+    "question": "What is the approximate percentage of persons above 65 years of age in India's current population?",
+    "options": {
+      "a": "14–15%",
+      "b": "11–12%",
+      "c": "8–9%",
+      "d": "5–6%"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_87",
+    "year": 2008,
+    "questionNumber": 87,
+    "question": "Which one of the following is a spacecraft?",
+    "options": {
+      "a": "Apophis",
+      "b": "Cassini",
+      "c": "Spitzer",
+      "d": "TechSar"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Energy & Environment",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_88",
+    "year": 2008,
+    "questionNumber": 88,
+    "question": "In which one of the following locations is the International Thermonuclear Experimental Reactor (ITER) project to be built?",
+    "options": {
+      "a": "Northern Spain",
+      "b": "Southern France",
+      "c": "Eastern Germany",
+      "d": "Southern Italy"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_89",
+    "year": 2008,
+    "questionNumber": 89,
+    "question": "What is the purpose of the US Space Agency's Themis Mission, which was recently in the news?",
+    "options": {
+      "a": "To study the possibility of life on Mars",
+      "b": "To study the satellites of Saturn",
+      "c": "To study the colourful display of high latitude skies",
+      "d": "To build a space laboratory to study the stellar explosions"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_90",
+    "year": 2008,
+    "questionNumber": 90,
+    "question": "Out of all the Biosphere Reserves in India, four have been recognized on the World Network by UNESCO. Which one of the following is not one of them?",
+    "options": {
+      "a": "Gulf of Mannar",
+      "b": "Kanchenjunga",
+      "c": "Nanda Devi",
+      "d": "Sunderbans"
+    },
+    "answer": "b",
+    "subject": "Environment & Ecology › Protected Areas & Wildlife",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_91",
+    "year": 2008,
+    "questionNumber": 91,
+    "question": "Which two countries follow China and India in the decreasing order of their populations?",
+    "options": {
+      "a": "Brazil and USA",
+      "b": "USA and Indonesia",
+      "c": "Canada and Malaysia",
+      "d": "Russia and Nigeria"
+    },
+    "answer": "b",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_92",
+    "year": 2008,
+    "questionNumber": 92,
+    "question": "Amongst the following States, which one has the highest percentage of rural population to its total population (on the basis of the Census, 2001)?",
+    "options": {
+      "a": "Himachal Pradesh",
+      "b": "Bihar",
+      "c": "Orissa",
+      "d": "Uttar Pradesh"
+    },
+    "answer": "a",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_93",
+    "year": 2008,
+    "questionNumber": 93,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Organization) A. Amnesty International B. Commonwealth of Independent States (CIS) C. Danube Commission D. European Space Agency List-II (Associated Convention/Person/Place/Headquarters) 1. Viskuli 2. Paris 3. Peter Benenson 4. Belgrade Convention",
+    "options": {
+      "a": "A B C D 3 1 4 2",
+      "b": "A B C D 4 2 3 1",
+      "c": "A B C D 3 2 4 1",
+      "d": "A B C D 4 1 3 2"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_94",
+    "year": 2008,
+    "questionNumber": 94,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Person) A. K. P. Singh B. Vikram Pandit C. Roopa Farooki D. Kishore Biyani List-II (Area) 1. Banking 2. Fiction writing 3. Retail business 4. Real estate",
+    "options": {
+      "a": "A B C D 4 2 1 3",
+      "b": "A B C D 3 1 2 4",
+      "c": "A B C D 3 2 1 4",
+      "d": "A B C D 4 1 2 3"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_95",
+    "year": 2008,
+    "questionNumber": 95,
+    "question": "Where was the World Summit on Sustainable Development (Rio + 10) held?",
+    "options": {
+      "a": "Davos",
+      "b": "Nova Scotia",
+      "c": "Johannesburg",
+      "d": "Shanghai"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › International Environmental Treaties & Summits",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_96",
+    "year": 2008,
+    "questionNumber": 96,
+    "question": "Consider the following statements: 1. Clean Development Mechanism (CDM) in respect of carbon credits is one of the Kyoto Protocol Mechanisms. 2. Under the CDM, the projects handled pertain only to the Annex-I countries. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Climate Change & Greenhouse Gases",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_97",
+    "year": 2008,
+    "questionNumber": 97,
+    "question": "Which of the following are among the million-plus cities in India on the basis of data of the Census, 2001? 1. Ludhiana 2. Kochi 3. Surat 4. Nagpur Select the correct answer using the code given below:",
+    "options": {
+      "a": "1, 2 and 3 only",
+      "b": "2, 3 and 4 only",
+      "c": "1 and 4 only",
+      "d": "1, 2, 3 and 4"
+    },
+    "answer": "d",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_98",
+    "year": 2008,
+    "questionNumber": 98,
+    "question": "Which of the following are the public sector undertakings of the Government of India? 1. Balmer Lawrie and Company Ltd. 2. Dredging Corporation of India 3. Educational Consultants of India Ltd. Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_99",
+    "year": 2008,
+    "questionNumber": 99,
+    "question": "Under Indian Polity › Constitutional Framework & Development which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22?",
+    "options": {
+      "a": "Constitution (Ninetieth Amendment) Act",
+      "b": "Constitution (Ninety-first Amendment) Act",
+      "c": "Constitution (Ninety-second Amendment) Act",
+      "d": "Constitution (Ninety-third Amendment) Act"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_100",
+    "year": 2008,
+    "questionNumber": 100,
+    "question": "Consider the following statements: The Constitution of India provides that 1. The Legislative Assembly of each State shall consist of not more than 450 members chosen by direct election from territorial constituencies in the State 2. A person shall not be qualified to be chosen to fill a seat in the Legislative Assembly of a State if he/she is less than 25 years of age Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Parliament & State Legislatures",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_101",
+    "year": 2008,
+    "questionNumber": 101,
+    "question": "Which of the following is/are included in the Directive Principles of State Policy? 1. Prohibition of traffic in human beings and forced labour 2. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Directive Principles Of State Policy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_102",
+    "year": 2008,
+    "questionNumber": 102,
+    "question": "How is the United Nations Monetary and Financial Conference wherein the agreements were signed to set up IBRD, GATT and IMF, commonly known?",
+    "options": {
+      "a": "Bandung Conference",
+      "b": "Bretton Woods Conference",
+      "c": "Versailles Conference",
+      "d": "Yalta Conference"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › International Institutions & Reports",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_103",
+    "year": 2008,
+    "questionNumber": 103,
+    "question": "Where was the first desalination plant in India to produce one lakh litres freshwater per day based on low temperature thermal desalination principle commissioned?",
+    "options": {
+      "a": "Kavaratti",
+      "b": "Port Blair",
+      "c": "Mangalore",
+      "d": "Valsad"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Energy & Environment",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_104",
+    "year": 2008,
+    "questionNumber": 104,
+    "question": "Which of the following pairs are correctly matched? Institute — Location 1. National Centre for Cell Science : Mysore 2. Centre for DNA Fingerprinting and Diagnostics : Hyderabad 3. National Brain Research Centre : Gurgaon Select the correct answer using the code given below:",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "1 and 2 only",
+      "c": "2 and 3 only",
+      "d": "1 and 3 only"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Science & Technology Institutions",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_105",
+    "year": 2008,
+    "questionNumber": 105,
+    "question": "With Science & Technology › Energy & Environment which one of the following is BRIT (Government of India) engaged?",
+    "options": {
+      "a": "Railway Wagons",
+      "b": "Information Technology",
+      "c": "Isotope Technology",
+      "d": "Road Transport"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_106",
+    "year": 2008,
+    "questionNumber": 106,
+    "question": "Which one of the following is the correct sequence in respect of the Roman numerals—C, D, L and M?",
+    "options": {
+      "a": "C > D > L > M",
+      "b": "M > L > D > C",
+      "c": "M > D > C > L",
+      "d": "L > C > D > M"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Number systems / Roman numerals",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_107",
+    "year": 2008,
+    "questionNumber": 107,
+    "question": "Who among the following scientists shared the Nobel Prize in Physics with his son?",
+    "options": {
+      "a": "Max Planck",
+      "b": "Albert Einstein",
+      "c": "William Henry Bragg",
+      "d": "Enrico Fermi"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Science & Technology History",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_108",
+    "year": 2008,
+    "questionNumber": 108,
+    "question": "Who among the following translated the Autobiography of Madam Curie in Hindi?",
+    "options": {
+      "a": "Atal Bihari Vajpayee",
+      "b": "Lal Bahadur Shastri",
+      "c": "Choudhary Charan Singh",
+      "d": "Gobind Vallabh Pant"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_109",
+    "year": 2008,
+    "questionNumber": 109,
+    "question": "Among the following, which one has the minimum population on the basis of data of Census of India, 2001?",
+    "options": {
+      "a": "Chandigarh",
+      "b": "Mizoram",
+      "c": "Puducherry",
+      "d": "Sikkim"
+    },
+    "answer": "d",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_110",
+    "year": 2008,
+    "questionNumber": 110,
+    "question": "Consider the following statements in respect of a jet engine and a rocket: 1. A jet engine uses the surrounding air for its oxygen supply and so is unsuitable for motion in space. 2. A rocket carries its own supply of oxygen in the gas form, and fuel. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_111",
+    "year": 2008,
+    "questionNumber": 111,
+    "question": "Which one of the following laser types is used in a laser printer?",
+    "options": {
+      "a": "Dye laser",
+      "b": "Gas laser",
+      "c": "Semiconductor laser",
+      "d": "Excimer laser"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_112",
+    "year": 2008,
+    "questionNumber": 112,
+    "question": "Consider the following statements: 1. A widely used musical scale called diatonic scale has seven frequencies. 2. The frequency of the note Sa (स) is 256 Hz and that of Ni (नी) is 512 Hz. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_113",
+    "year": 2008,
+    "questionNumber": 113,
+    "question": "What are Rubies and Sapphires chemically known as?",
+    "options": {
+      "a": "Silicon dioxide",
+      "b": "Aluminium oxide",
+      "c": "Lead tetroxide",
+      "d": "Boron nitride"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Materials & Engineering",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_114",
+    "year": 2008,
+    "questionNumber": 114,
+    "question": "Which one of the following is also called Stranger Gas?",
+    "options": {
+      "a": "Argon",
+      "b": "Neon",
+      "c": "Xenon",
+      "d": "Nitrous oxide"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_115",
+    "year": 2008,
+    "questionNumber": 115,
+    "question": "Mixture of which one of the following pairs of gases is the cause of occurrence of most of the explosions in mines?",
+    "options": {
+      "a": "Hydrogen and oxygen",
+      "b": "Oxygen and acetylene",
+      "c": "Methane and air",
+      "d": "Carbon dioxide and methane"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_116",
+    "year": 2008,
+    "questionNumber": 116,
+    "question": "Which one of the following pairs of metals constitutes the lightest metal and the heaviest metal, respectively?",
+    "options": {
+      "a": "Lithium and mercury",
+      "b": "Lithium and osmium",
+      "c": "Aluminium and osmium",
+      "d": "Aluminium and mercury"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_117",
+    "year": 2008,
+    "questionNumber": 117,
+    "question": "How much is one barrel of oil approximately equal to?",
+    "options": {
+      "a": "131 litres",
+      "b": "159 litres",
+      "c": "257 litres",
+      "d": "321 litres"
+    },
+    "answer": "b",
+    "subject": "Modern History › Key Personalities & Ideologies",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_118",
+    "year": 2008,
+    "questionNumber": 118,
+    "question": "Who among the following Gandhian followers was a teacher by profession?",
+    "options": {
+      "a": "A. N. Sinha",
+      "b": "Braj Kishore Prasad",
+      "c": "J. B. Kriplani",
+      "d": "Rajendra Prasad"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_119",
+    "year": 2008,
+    "questionNumber": 119,
+    "question": "Which one of the following was a journal brought out by Abul Kalam Azad?",
+    "options": {
+      "a": "Al-Hilal",
+      "b": "Comrade",
+      "c": "The Indian Sociologist",
+      "d": "Zamindar"
+    },
+    "answer": "a",
+    "subject": "Modern History › Key Personalities & Ideologies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_120",
+    "year": 2008,
+    "questionNumber": 120,
+    "question": "Where was the First Session of the Indian National Congress held in December 1885?",
+    "options": {
+      "a": "Ahmadabad",
+      "b": "Bombay",
+      "c": "Calcutta",
+      "d": "Delhi"
+    },
+    "answer": "b",
+    "subject": "Modern History › Early Nationalism & Indian National Congress (1885-1915)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_121",
+    "year": 2008,
+    "questionNumber": 121,
+    "question": "Which of the following pairs is/are correctly matched? 1. Francis Collins — Mapping human genome 2. Sergey Brin : Google Search Engine 3. Jimmy Wales — Wikipedia Select the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Science & Technology History",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_122",
+    "year": 2008,
+    "questionNumber": 122,
+    "question": "What does S & P 500 relate to?",
+    "options": {
+      "a": "Supercomputer",
+      "b": "A new technique in e-business",
+      "c": "A new technique in bridge building",
+      "d": "An index of stocks of large companies"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Financial Markets & Capital Markets",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_123",
+    "year": 2008,
+    "questionNumber": 123,
+    "question": "Rajiv Gandhi National Flying Institute is being established in which State?",
+    "options": {
+      "a": "Karnataka",
+      "b": "Maharashtra",
+      "c": "Kerala",
+      "d": "Orissa"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Indian Government Schemes & Initiatives",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_124",
+    "year": 2008,
+    "questionNumber": 124,
+    "question": "Who among the following has been the Captain of the Indian team in Cricket Test Matches for the maximum number of times?",
+    "options": {
+      "a": "Sunil Gavaskar",
+      "b": "Mansur Ali Khan Pataudi",
+      "c": "Saurav Ganguly",
+      "d": "Mohammad Azharuddin"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › Cricket",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_125",
+    "year": 2008,
+    "questionNumber": 125,
+    "question": "Who among the following wrote the poem, Subh-e Azadi?",
+    "options": {
+      "a": "Sahir Ludhiyanvi",
+      "b": "Faiz Ahmed Faiz",
+      "c": "Muhammad Iqbal",
+      "d": "Maulana Abul Kalam Azad"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_126",
+    "year": 2008,
+    "questionNumber": 126,
+    "question": "How can the height of a person who is six feet tall be expressed (approximately) in nanometres?",
+    "options": {
+      "a": "183 × 10⁶ nanometres",
+      "b": "234 × 10⁶ nanometres",
+      "c": "183 × 10⁷ nanometres",
+      "d": "234 × 10⁷ nanometres"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_127",
+    "year": 2008,
+    "questionNumber": 127,
+    "question": "A person is sitting in a car which is at rest. The reaction from the road at each of the four wheels of the car is R. When the car runs on a straight level road, how will the reaction at either of the front wheels vary?",
+    "options": {
+      "a": "It will be greater than R",
+      "b": "It will be less than R",
+      "c": "It will be equal to R",
+      "d": "It shall depend on the material of the road"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_128",
+    "year": 2008,
+    "questionNumber": 128,
+    "question": "With Geography › Indian Rivers & Water Resources which one of the following rivers is the Omkareshwar Project associated?",
+    "options": {
+      "a": "Chambal",
+      "b": "Narmada",
+      "c": "Tapi",
+      "d": "Bhima"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_129",
+    "year": 2008,
+    "questionNumber": 129,
+    "question": "Consider the following statements: 1. The Nuclear Suppliers Group has 24 countries as its members. 2. India is a member of the Nuclear Suppliers Group. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_130",
+    "year": 2008,
+    "questionNumber": 130,
+    "question": "In the context of the Indian defence, what is ‘Dhruv’?",
+    "options": {
+      "a": "Aircraft-carrying warship",
+      "b": "Missile-carrying submarine",
+      "c": "Advanced light helicopter",
+      "d": "Intercontinental ballistic missile"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Defence Technology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_131",
+    "year": 2008,
+    "questionNumber": 131,
+    "question": "‘Hand-in-Hand 2007’, a joint anti-terrorism military training was held by the officers of the Indian Army and officers of Army of which one of the following countries?",
+    "options": {
+      "a": "China",
+      "b": "Japan",
+      "c": "Russia",
+      "d": "USA"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_132",
+    "year": 2008,
+    "questionNumber": 132,
+    "question": "Assertion (A): In human body, liver has an important role in fat digestion. Reason (R): Liver produces two important fat-digesting enzymes.",
+    "options": {
+      "a": "Both A and R are individually true and R is the correct explanation of A",
+      "b": "Both A and R are individually true but R is not the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_133",
+    "year": 2008,
+    "questionNumber": 133,
+    "question": "Assertion (A): In the visible spectrum of light, red light is more energetic than green light. Reason (R): The wavelength of red light is more than that of green light.",
+    "options": {
+      "a": "Both A and R are individually true and R is the correct explanation of A",
+      "b": "Both A and R are individually true but R is not the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_134",
+    "year": 2008,
+    "questionNumber": 134,
+    "question": "Assertion (A): Radio waves bend in a magnetic field. Reason (R): Radio waves are electromagnetic in nature.",
+    "options": {
+      "a": "Both A and R are individually true and R is the correct explanation of A",
+      "b": "Both A and R are individually true but R is not the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_135",
+    "year": 2008,
+    "questionNumber": 135,
+    "question": "Assertion (A): The Congress Ministries in all the provinces resigned in the year 1939. Reason (R): The Congress did not accept the decision of the Viceroy to declare war against Germany in the context of the Second World War.",
+    "options": {
+      "a": "Both A and R are individually true and R is the correct explanation of A",
+      "b": "Both A and R are individually true but R is not the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "answer": "a",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_136",
+    "year": 2008,
+    "questionNumber": 136,
+    "question": "Among the following, which one lays eggs and does not produce young ones directly?",
+    "options": {
+      "a": "Echidna",
+      "b": "Kangaroo",
+      "c": "Porcupine",
+      "d": "Whale"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Sustainable Agriculture & Forestry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_137",
+    "year": 2008,
+    "questionNumber": 137,
+    "question": "The release of which one of the following into ponds and wells helps in controlling the mosquitoes?",
+    "options": {
+      "a": "Crab",
+      "b": "Dogfish",
+      "c": "Gambusia fish",
+      "d": "Snail"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_138",
+    "year": 2008,
+    "questionNumber": 138,
+    "question": "Which Schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas in several States?",
+    "options": {
+      "a": "Third",
+      "b": "Fifth",
+      "c": "Seventh",
+      "d": "Ninth"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Federalism & Centre–State Relations",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_139",
+    "year": 2008,
+    "questionNumber": 139,
+    "question": "Department of Border Management is a Department of which one of the following Union Ministries?",
+    "options": {
+      "a": "Ministry of Defence",
+      "b": "Ministry of Home Affairs",
+      "c": "Ministry of Shipping, Road Transport and Highways",
+      "d": "Ministry of Environment and Forests"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_140",
+    "year": 2008,
+    "questionNumber": 140,
+    "question": "For which one of the following reforms was a Commission set up under the Chairmanship of Veerappa Moily by the Government of India?",
+    "options": {
+      "a": "Police Reforms",
+      "b": "Tax Reforms",
+      "c": "Reforms in Technical Education",
+      "d": "Administrative Reforms"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Constitutional & Statutory Bodies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_141",
+    "year": 2008,
+    "questionNumber": 141,
+    "question": "Elizabeth Hawley is well-known for her writings relating to which one of the following?",
+    "options": {
+      "a": "Historical monuments in India",
+      "b": "Regional dances in India",
+      "c": "Himalayan expeditions",
+      "d": "Wildlife in India"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › Other Sports & Personalities",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_142",
+    "year": 2008,
+    "questionNumber": 142,
+    "question": "In India, how many States share the coastline?",
+    "options": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "10"
+    },
+    "answer": "c",
+    "subject": "Geography › Indian Physical Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_143",
+    "year": 2008,
+    "questionNumber": 143,
+    "question": "Nobel Prize–winning scientist James D. Watson is known for his work in which area?",
+    "options": {
+      "a": "Metallurgy",
+      "b": "Meteorology",
+      "c": "Environmental protection",
+      "d": "Genetics"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Science & Technology History",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_144",
+    "year": 2008,
+    "questionNumber": 144,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the Lists: List-I (Board) A. Coffee Board B. Rubber Board C. Tea Board D. Tobacco Board List-II (Headquarters) 1. Bengaluru 2. Guntur 3. Kottayam 4. Kolkata Code:",
+    "options": {
+      "a": "A-2 B-4 C-3 D-1",
+      "b": "A-1 B-3 C-4 D-2",
+      "c": "A-2 B-3 C-4 D-1",
+      "d": "A-1 B-4 C-3 D-2"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Agriculture & Rural Development",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_145",
+    "year": 2008,
+    "questionNumber": 145,
+    "question": "Which one among the following has the maximum number of National Parks?",
+    "options": {
+      "a": "Andaman and Nicobar Islands",
+      "b": "Arunachal Pradesh",
+      "c": "Assam",
+      "d": "Meghalaya"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Protected Areas & Wildlife",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_146",
+    "year": 2008,
+    "questionNumber": 146,
+    "question": "Among the following, which one is not an ape?",
+    "options": {
+      "a": "Gibbon",
+      "b": "Gorilla",
+      "c": "Langur",
+      "d": "Orangutan"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › Biodiversity & Conservation",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_147",
+    "year": 2008,
+    "questionNumber": 147,
+    "question": "In how many different ways can all of 5 identical balls be placed in the cells shown above such that each row contains at least 1 ball?",
+    "options": {
+      "a": "64",
+      "b": "81",
+      "c": "84",
+      "d": "108"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_148",
+    "year": 2008,
+    "questionNumber": 148,
+    "question": "There are 6 different letters and 6 correspondingly addressed envelopes. If the letters are randomly put in the envelopes, what is the probability that exactly 5 letters go into the correctly addressed envelopes?",
+    "options": {
+      "a": "Zero",
+      "b": "1/6",
+      "c": "1/2",
+      "d": "5/6"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_149",
+    "year": 2008,
+    "questionNumber": 149,
+    "question": "There are two identical red, two identical black and two identical white balls. In how many different ways can the balls be placed in the cells (each cell to contain one ball) shown above such that balls of the same colour do not occupy any two consecutive cells?",
+    "options": {
+      "a": "15",
+      "b": "18",
+      "c": "24",
+      "d": "30"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2008_150",
+    "year": 2008,
+    "questionNumber": 150,
+    "question": "How many different triangles are there in the figure shown above?",
+    "options": {
+      "a": "28",
+      "b": "24",
+      "c": "20",
+      "d": "16"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  }
+]

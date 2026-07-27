@@ -9,6 +9,9 @@ import Home from '@/pages/home';
 import SubjectDetail from '@/pages/subject-detail';
 import TestMode from '@/pages/test-mode';
 import TestResults from '@/pages/test-results';
+import PrelimsIndex from '@/pages/prelims-index';
+import PrelimsYear from '@/pages/prelims-year';
+import PrelimsTest from '@/pages/prelims-test';
 import { ThemeProvider } from '@/lib/theme';
 import { AuthProvider } from '@/lib/auth-context';
 
@@ -22,6 +25,9 @@ function Router() {
         <Route path="/subject/:slug" component={SubjectDetail} />
         <Route path="/test/:slug" component={TestMode} />
         <Route path="/test/:slug/results" component={TestResults} />
+        <Route path="/prelims" component={PrelimsIndex} />
+        <Route path="/prelims/:year" component={PrelimsYear} />
+        <Route path="/prelims/:year/test" component={PrelimsTest} />
         <Route component={NotFound} />
       </Switch>
     </Shell>

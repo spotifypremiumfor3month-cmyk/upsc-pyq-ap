@@ -72,6 +72,24 @@ export const SUBJECT_CATEGORIES: SubjectCategoryGroup[] = [
   },
 ];
 
+export type PrelimsYearInfo = {
+  year: number;
+  count: number;
+  slug: string;
+};
+
+export type PrelimsQuestion = {
+  id: string;
+  year: number;
+  questionNumber: number;
+  question: string;
+  options: QuestionOption;
+  answer: string;
+  subject: string;      // topic/subject area from the paper
+  difficulty: string;
+  explanation: string;
+};
+
 const getBaseUrl = () => import.meta.env.BASE_URL.replace(/\/$/, '');
 
 export function useIndexData() {

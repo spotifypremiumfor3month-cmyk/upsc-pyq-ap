@@ -1,7 +1,24 @@
+import { useState, useEffect } from 'react';
 import { Link } from 'wouter';
-import { useIndexData, SUBJECT_CATEGORIES } from '@/hooks/use-subject-data';
-import { BookOpen, GraduationCap, Award, Library, PlayCircle } from 'lucide-react';
+import { useIndexData, SUBJECT_CATEGORIES, PrelimsYearInfo } from '@/hooks/use-subject-data';
+import { BookOpen, GraduationCap, Award, Library, PlayCircle, Calendar, FileText } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
+
+const getBaseUrl = () => import.meta.env.BASE_URL.replace(/\/$/, '');
+
+function usePrelimsIndex() {
+  const [data, setData] = useState<PrelimsYearInfo[]>([]);
+  const [loading, setLoading] = useState(true);
+  useEffect(() => {
+    let mounted = true;
+    fetch(`${getBaseUrl()}/data/prelims/index.json`)
+      .then(r => r.json())
+      .then(json => { if (mounted) { setData(json); setLoading(false); } })
+      .catch(() => { if (mounted) setLoading(false); });
+    return () => { mounted = false; };
+  }, []);
+  return { data, loading };
+}
 
 const getSubjectColor = (slug: string) => {
   const colors: Record<string, string> = {

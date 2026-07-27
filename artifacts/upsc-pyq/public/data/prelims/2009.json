@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "prelims_2009_1",
+    "year": 2009,
+    "questionNumber": 1,
+    "question": "Among the following Presidents of India, who was also the Secretary General of Non-Aligned Movement for some period?",
+    "options": {
+      "a": "Dr. Sarvepalli Radhakrishnan",
+      "b": "Varahagiri Venkata Giri",
+      "c": "Giani Zail Singh",
+      "d": "Dr. Shankar Dayal Sharma"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_2",
+    "year": 2009,
+    "questionNumber": 2,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I (Person) A. Anil Agarwal B. Gautam H. Singhania C. Sanjay Dalmia D. Venugopal Dhoot List II (Organization) 1. Gujarat Heavy Chemicals Ltd. 2. Raymond Ltd. 3. Vedanta Resources 4. Videocon Group",
+    "options": {
+      "a": "A-3 B-1 C-2 D-4",
+      "b": "A-4 B-1 C-2 D-3",
+      "c": "A-3 B-2 C-1 D-4",
+      "d": "A-4 B-2 C-1 D-3"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_3",
+    "year": 2009,
+    "questionNumber": 3,
+    "question": "To integrate cultural leaders into its meetings, which one of the following gives the \"Crystal Award\"?",
+    "options": {
+      "a": "Asia Pacific Economic Cooperation",
+      "b": "International Bank for Reconstruction and Development",
+      "c": "World Health Organization",
+      "d": "World Economic Forum"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › Awards & Honours",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_4",
+    "year": 2009,
+    "questionNumber": 4,
+    "question": "In India, Environment & Ecology › Water & Wetland Conservation which one of the following States has the largest inland saline wetland?",
+    "options": {
+      "a": "Gujarat",
+      "b": "Haryana",
+      "c": "Madhya Pradesh",
+      "d": "Rajasthan"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_5",
+    "year": 2009,
+    "questionNumber": 5,
+    "question": "Consider the following statements: 1. MMTC Limited is India's largest international trading organisation. 2. Neelachal Ispat Nigam Limited has been set up by MMTC jointly with the Government of Orissa. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_6",
+    "year": 2009,
+    "questionNumber": 6,
+    "question": "In which one of the following States has India's largest private sector sea port been commissioned recently?",
+    "options": {
+      "a": "Andhra Pradesh",
+      "b": "Karnataka",
+      "c": "Kerala",
+      "d": "Tamil Nadu"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_7",
+    "year": 2009,
+    "questionNumber": 7,
+    "question": "Which one of the following pairs is not correctly matched?",
+    "options": {
+      "a": "Japan : Nikkei",
+      "b": "Singapore : Shcomp",
+      "c": "UK : FTSE",
+      "d": "USA : Nasdaq"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Financial Markets & Capital Markets",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_8",
+    "year": 2009,
+    "questionNumber": 8,
+    "question": "Consider the following statements: 1. INS Sindhughosh is an aircraft carrier. 2. INS Viraat is a submarine. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Defence Technology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_9",
+    "year": 2009,
+    "questionNumber": 9,
+    "question": "Consider the following statements: 1. The Commission for Agricultural Costs and Prices recommends the Minimum Support Prices for 32 crops. 2. The Union Ministry of Consumer Affairs, Food and Public Distribution has launched the National Food Security Mission. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Agriculture & Rural Development",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_10",
+    "year": 2009,
+    "questionNumber": 10,
+    "question": "In India, the ports are categorized as major and non-major ports. Which one of the following is a non-major port?",
+    "options": {
+      "a": "Kochi (Cochin)",
+      "b": "Dahej",
+      "c": "Paradip",
+      "d": "New Mangalore"
+    },
+    "answer": "b",
+    "subject": "Geography › Transport & Infrastructure Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_11",
+    "year": 2009,
+    "questionNumber": 11,
+    "question": "Among other things, which one of the following was the purpose for which the Deepak Parekh Committee was constituted?",
+    "options": {
+      "a": "To study the current socio-economic conditions of certain minority communities",
+      "b": "To suggest measures for financing the development of infrastructure",
+      "c": "To frame a policy on the production of genetically modified organisms",
+      "d": "To suggest measures to reduce the fiscal deficit in the Union Budget"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_12",
+    "year": 2009,
+    "questionNumber": 12,
+    "question": "The brothers Umakant and Ramakant Gundecha are",
+    "options": {
+      "a": "Dhrupad vocalists",
+      "b": "Kathak dancers",
+      "c": "Sarod maestros",
+      "d": "Tabla players"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Music",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_13",
+    "year": 2009,
+    "questionNumber": 13,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I (Famous person) A. Mandakini Amte B. Neelam Mansingh Chowdhry C. Romila Thapar D. Vanashree Rao List II (Well-known for) 1. Theatre direction 2. Social service and community leadership 3. Dance 4. History writing",
+    "options": {
+      "a": "A-2 B-1 C-4 D-3",
+      "b": "A-2 B-4 C-1 D-3",
+      "c": "A-3 B-1 C-4 D-2",
+      "d": "A-3 B-4 C-1 D-2"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Cultural Institutions & Awards",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_14",
+    "year": 2009,
+    "questionNumber": 14,
+    "question": "With reference to Stree Shakti Puraskar, for which one of the following is the “Devi Ahilya Bai Holkar Award” given?",
+    "options": {
+      "a": "Administrative skills",
+      "b": "Achievements in Scientific Research",
+      "c": "Achievements in Sports and Games",
+      "d": "Courage and valour"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › Awards & Honours",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_15",
+    "year": 2009,
+    "questionNumber": 15,
+    "question": "In which State is the Buddhist site Tabo Monastery located?",
+    "options": {
+      "a": "Arunachal Pradesh",
+      "b": "Himachal Pradesh",
+      "c": "Sikkim",
+      "d": "Uttarakhand"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_16",
+    "year": 2009,
+    "questionNumber": 16,
+    "question": "With Indian Economy › Infrastructure & Industry which one of the following has the B. K. Chaturvedi Committee dealt?",
+    "options": {
+      "a": "Review of Centre-State relations",
+      "b": "Review of Delimitation Act",
+      "c": "Tax reforms and measures to increase revenues",
+      "d": "Price reforms in the oil sector"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_17",
+    "year": 2009,
+    "questionNumber": 17,
+    "question": "Mahamasthakabhisheka, a great religious event, is associated with and done for who of the following?",
+    "options": {
+      "a": "Bahubali",
+      "b": "Buddha",
+      "c": "Mahavir",
+      "d": "Nataraja"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Festivals, Crafts & Folk Traditions",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_18",
+    "year": 2009,
+    "questionNumber": 18,
+    "question": "Consider the following pairs: Tradition — State 1. Gatka, a traditional martial art : Kerala 2. Madhubani, a traditional painting : Bihar 3. Singhye Khababs Sindhu Darshan Festival : Jammu and Kashmir Which of the pairs given above is/are correctly matched?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "3 only",
+      "c": "2 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Festivals, Crafts & Folk Traditions",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_19",
+    "year": 2009,
+    "questionNumber": 19,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I (Famous person) A. Anna Hazare B. Deepak Parekh C. GVK Reddy D. Harish Salve List II (Well-known as) 1. Lawyer 2. Banker 3. Gandhian and social activist 4. Industrialist",
+    "options": {
+      "a": "A-1 B-2 C-4 D-3",
+      "b": "A-1 B-4 C-2 D-3",
+      "c": "A-3 B-2 C-4 D-1",
+      "d": "A-3 B-4 C-2 D-1"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_20",
+    "year": 2009,
+    "questionNumber": 20,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I (Famous person) A. Amrita Sher-Gil B. Bhimsen Joshi C. Rukmini Devi Arundale D. Suryakant Tripathi Nirala List II (Well-known as) 1. Dancer 2. Painter 3. Poet 4. Singer",
+    "options": {
+      "a": "A-2 B-1 C-4 D-3",
+      "b": "A-2 B-4 C-1 D-3",
+      "c": "A-3 B-1 C-4 D-2",
+      "d": "A-3 B-4 C-1 D-2"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Painting & Visual Arts",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_21",
+    "year": 2009,
+    "questionNumber": 21,
+    "question": "With reference to the schemes launched by the Union Government, consider the following statements: 1. Ministry of Health and Family Welfare launched the Rashtriya Swasthya Bima Yojana. 2. Ministry of Textiles launched the Rajiv Gandhi Shilpi Swasthya Bima Yojana. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_22",
+    "year": 2009,
+    "questionNumber": 22,
+    "question": "Consider the following pairs: Persons — Sport 1. Anand Pawar : Chess 2. Akhil Kumar : Boxing 3. Shiv Shankar Prasad Chowrasia : Golf Which of the pairs given above is/are correctly matched?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Other Sports & Personalities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_23",
+    "year": 2009,
+    "questionNumber": 23,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I (Book) A. In Custody B. Sea of Poppies C. The Argumentative Indian D. Unaccustomed Earth List II (Author) 1. Amartya Sen 2. Amitav Ghosh 3. Anita Desai 4. Jhumpa Lahiri",
+    "options": {
+      "a": "A-4 B-1 C-2 D-3",
+      "b": "A-4 B-2 C-1 D-3",
+      "c": "A-3 B-2 C-1 D-4",
+      "d": "A-3 B-1 C-2 D-4"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_24",
+    "year": 2009,
+    "questionNumber": 24,
+    "question": "Among the following, who are the Agaria community ?",
+    "options": {
+      "a": "A traditional toddy tappers community of Andhra Pradesh",
+      "b": "A traditional fishing community of Maharashtra",
+      "c": "A traditional silk-weaving community of Karnataka",
+      "d": "A traditional salt pan workers community of Gujarat"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Tribes & Communities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_25",
+    "year": 2009,
+    "questionNumber": 25,
+    "question": "Recently, which one of the following was included in the UNESCO's World Heritage list ?",
+    "options": {
+      "a": "Dilwara Temple",
+      "b": "Kalka-Shimla Railway",
+      "c": "Bhitarkanika Mangrove Area",
+      "d": "Visakhapatnam to Araku valley railway line"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_26",
+    "year": 2009,
+    "questionNumber": 26,
+    "question": "Where is the famous Virupaksha temple located ?",
+    "options": {
+      "a": "Bhadrachalam",
+      "b": "Chidambaram",
+      "c": "Hampi",
+      "d": "Srikalahasti"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_27",
+    "year": 2009,
+    "questionNumber": 27,
+    "question": "Other than Venezuela, which one among the following from South America is a member of OPEC ?",
+    "options": {
+      "a": "Argentina",
+      "b": "Brazil",
+      "c": "Ecuador",
+      "d": "Bolivia"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_28",
+    "year": 2009,
+    "questionNumber": 28,
+    "question": "Under the administration of which one of the following is the Department of Atomic Energy ?",
+    "options": {
+      "a": "Prime Minister's Office",
+      "b": "Cabinet Secretariat",
+      "c": "Ministry of Power",
+      "d": "Ministry of Science and Technology"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_29",
+    "year": 2009,
+    "questionNumber": 29,
+    "question": "Consider the following pairs : Large Bank Country of origin 1. ABN Amro Bank : USA 2. Barclays Bank : UK 3. Kookmin Bank : Japan Which of the above pairs is/are correctly matched ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "1 and 2",
+      "d": "2 and 3"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Banking & Financial Sector",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_30",
+    "year": 2009,
+    "questionNumber": 30,
+    "question": "Which among the following has the world's largest reserves of Uranium ?",
+    "options": {
+      "a": "Australia",
+      "b": "Canada",
+      "c": "Russian Federation",
+      "d": "USA"
+    },
+    "answer": "a",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_31",
+    "year": 2009,
+    "questionNumber": 31,
+    "question": "Elephant Pass, which is frequently in the news, is mentioned in the context of the affairs of which one of the following ?",
+    "options": {
+      "a": "Bangladesh",
+      "b": "India",
+      "c": "Nepal",
+      "d": "Sri Lanka"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_32",
+    "year": 2009,
+    "questionNumber": 32,
+    "question": "Consider the following countries : 1. Brunei Darussalam 2. East Timor 3. Laos Which of the above is/are member/members of ASEAN ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_33",
+    "year": 2009,
+    "questionNumber": 33,
+    "question": "Consider the following countries : 1. Switzerland 2. Malta 3. Bulgaria Which of the above are members of European Union ?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_34",
+    "year": 2009,
+    "questionNumber": 34,
+    "question": "Consider the following countries : 1. Australia 2. Namibia 3. Brazil 4. Chile Through which of the above does the Tropic of Capricorn pass ?",
+    "options": {
+      "a": "1 only",
+      "b": "2, 3 and 4",
+      "c": "1, 2 and 3",
+      "d": "1, 2, 3 and 4"
+    },
+    "answer": "d",
+    "subject": "Geography › Astronomy & Earth–Sun System",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_35",
+    "year": 2009,
+    "questionNumber": 35,
+    "question": "In the structure of planet Earth, below the mantle, the core is mainly made up of which one of the following ?",
+    "options": {
+      "a": "Aluminium",
+      "b": "Chromium",
+      "c": "Iron",
+      "d": "Silicon"
+    },
+    "answer": "c",
+    "subject": "Geography › Physical Geography & Geomorphology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_36",
+    "year": 2009,
+    "questionNumber": 36,
+    "question": "Which one of the following pairs is not correctly matched ? City — River",
+    "options": {
+      "a": "Berlin : Rhine",
+      "b": "London : Thames",
+      "c": "New York : Hudson",
+      "d": "Vienna : Danube"
+    },
+    "answer": "a",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_37",
+    "year": 2009,
+    "questionNumber": 37,
+    "question": "Match List-I with List-II and select the correct answer using the code given below the lists : List I (Famous Temple) List II (State) A. Vidyashankara temple 1. Andhra Pradesh B. Rajarani temple 2. Karnataka C. Kandariya Mahadeo temple 3. Madhya Pradesh D. Bhimesvara temple 4. Orissa Code : A B C D",
+    "options": {
+      "a": "2 4 3 1",
+      "b": "2 3 4 1",
+      "c": "1 4 3 2",
+      "d": "1 3 4 2"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_38",
+    "year": 2009,
+    "questionNumber": 38,
+    "question": "Consider the following statements : 1. In the world, the tropical deserts occur along the western margins of continents within the trade wind belt. 2. In India, the East Himalayan region gets high rainfall from north-east winds. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Geography › Atmosphere & Climatology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_39",
+    "year": 2009,
+    "questionNumber": 39,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists : List I (Geographic feature) A. Great Victoria Desert B. Grand Canyon C. Lake Winnipeg D. Southern Alps List II (Country) 1. Australia 2. Canada 3. New Zealand 4. USA Code :",
+    "options": {
+      "a": "A-1 B-2 C-4 D-3",
+      "b": "A-1 B-4 C-2 D-3",
+      "c": "A-3 B-2 C-4 D-1",
+      "d": "A-3 B-4 C-2 D-1"
+    },
+    "answer": "b",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_40",
+    "year": 2009,
+    "questionNumber": 40,
+    "question": "Consider the following statements : 1. Between Census 1951 and Census 2001, the density of the population of India has increased more than three times. 2. Between Census 1951 and Census 2001, the annual growth rate (exponential) of the population of India has doubled. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_41",
+    "year": 2009,
+    "questionNumber": 41,
+    "question": "Which one of the following rivers does not originate in India ?",
+    "options": {
+      "a": "Beas",
+      "b": "Chenab",
+      "c": "Ravi",
+      "d": "Sutlej"
+    },
+    "answer": "d",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_42",
+    "year": 2009,
+    "questionNumber": 42,
+    "question": "Cape Canaveral, the site from which space shuttles are launched is located on the coast of",
+    "options": {
+      "a": "Florida",
+      "b": "Virginia",
+      "c": "North Carolina",
+      "d": "South Carolina"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_43",
+    "year": 2009,
+    "questionNumber": 43,
+    "question": "At Geography › Indian Rivers & Water Resources which one of the following places do two important rivers of India originate; while one of them flows towards north and merges with another important river flowing towards Bay of Bengal, the other one flows towards Arabian Sea ?",
+    "options": {
+      "a": "Amarkantak",
+      "b": "Badrinath",
+      "c": "Mahabaleshwar",
+      "d": "Nasik"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_44",
+    "year": 2009,
+    "questionNumber": 44,
+    "question": "Who of the following scientists proved that the stars with mass less than 1·44 times the mass of the Sun end up as White Dwarfs when they die ?",
+    "options": {
+      "a": "Edwin Hubble",
+      "b": "S. Chandrashekhar",
+      "c": "Stephen Hawking",
+      "d": "Steven Weinberg"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_45",
+    "year": 2009,
+    "questionNumber": 45,
+    "question": "Which one of the following brings out the publication called \"Energy Statistics\" from time to time ?",
+    "options": {
+      "a": "Central Power Research Institute",
+      "b": "Planning Commission",
+      "c": "Power Finance Corporation Ltd.",
+      "d": "Central Statistical Organization"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › International Institutions & Reports",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_46",
+    "year": 2009,
+    "questionNumber": 46,
+    "question": "Consider the following statements : 1. India does not have any deposits of Thorium. 2. Kerala's monazite sands contain Uranium. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_47",
+    "year": 2009,
+    "questionNumber": 47,
+    "question": "Which one among the following South Asian countries has the highest population density ?",
+    "options": {
+      "a": "India",
+      "b": "Nepal",
+      "c": "Pakistan",
+      "d": "Sri Lanka"
+    },
+    "answer": "a",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_48",
+    "year": 2009,
+    "questionNumber": 48,
+    "question": "Consider the following statements : 1. The discussions in the Third Round Table Conference eventually led to the passing of the Government of India Act of 1935. 2. The Government of India Act of 1935 provided for the establishment of an All India Federation to be based on a Union of the provinces of British India and the Princely States. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Modern History › Constitutional Developments & British Plans (1909-1947)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_49",
+    "year": 2009,
+    "questionNumber": 49,
+    "question": "Consider the following : 1. Fringe Benefit Tax 2. Interest Tax 3. Securities Transaction Tax Which of the above is/are Direct Tax/Taxes ?",
+    "options": {
+      "a": "1 only",
+      "b": "1 and 3 only",
+      "c": "2 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Taxation",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_50",
+    "year": 2009,
+    "questionNumber": 50,
+    "question": "In India, who is the Chairman of the National Water Resources Council ?",
+    "options": {
+      "a": "Prime Minister",
+      "b": "Minister of Water Resources",
+      "c": "Minister of Environment and Forests",
+      "d": "Minister of Science and Technology"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Governance – Advisory/Executive Councils & Committees",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_51",
+    "year": 2009,
+    "questionNumber": 51,
+    "question": "Consider the following statements: 1. There are no east flowing rivers in Kerala. 2. There are no west flowing rivers in Madhya Pradesh. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_52",
+    "year": 2009,
+    "questionNumber": 52,
+    "question": "In collaboration with David Hare and Alexander Duff, who of the following established Hindu College at Calcutta?",
+    "options": {
+      "a": "Henry Louis Vivian Derozio",
+      "b": "Ishwar Chandra Vidyasagar",
+      "c": "Keshab Chandra Sen",
+      "d": "Raja Rammohan Roy"
+    },
+    "answer": "d",
+    "subject": "Modern History › Social & Religious Reform Movements",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_53",
+    "year": 2009,
+    "questionNumber": 53,
+    "question": "Who of the following Prime Ministers sent Cripps Mission to India?",
+    "options": {
+      "a": "James Ramsay MacDonald",
+      "b": "Stanley Baldwin",
+      "c": "Neville Chamberlain",
+      "d": "Winston Churchill"
+    },
+    "answer": "d",
+    "subject": "Modern History › Constitutional Developments & British Plans (1909-1947)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_54",
+    "year": 2009,
+    "questionNumber": 54,
+    "question": "Who of the following is the author of a collection of poems called “Golden Threshold”?",
+    "options": {
+      "a": "Aruna Asaf Ali",
+      "b": "Annie Besant",
+      "c": "Sarojini Naidu",
+      "d": "Vijayalakshmi Pandit"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_55",
+    "year": 2009,
+    "questionNumber": 55,
+    "question": "During the Indian Freedom Struggle, why did Rowlatt Act arouse popular indignation?",
+    "options": {
+      "a": "It curtailed the freedom of religion",
+      "b": "It suppressed the Indian traditional education",
+      "c": "It authorized the government to imprison people without trial",
+      "d": "It curbed the trade union activities"
+    },
+    "answer": "c",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_56",
+    "year": 2009,
+    "questionNumber": 56,
+    "question": "Which one of the following began with the Dandi March?",
+    "options": {
+      "a": "Home Rule Movement",
+      "b": "Non-Cooperation Movement",
+      "c": "Civil Disobedience Movement",
+      "d": "Quit India Movement"
+    },
+    "answer": "c",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_57",
+    "year": 2009,
+    "questionNumber": 57,
+    "question": "Anekāntavāda is a core theory and philosophy of which one of the following?",
+    "options": {
+      "a": "Buddhism",
+      "b": "Jainism",
+      "c": "Sikhism",
+      "d": "Vaishnavism"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Philosophy & Religion",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_58",
+    "year": 2009,
+    "questionNumber": 58,
+    "question": "With Modern History › Gandhian Mass Movements (1915-1942) which one of the following movements is the slogan “Do or die” associated?",
+    "options": {
+      "a": "Swadeshi Movement",
+      "b": "Non-Cooperation Movement",
+      "c": "Civil Disobedience Movement",
+      "d": "Quit India Movement"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_59",
+    "year": 2009,
+    "questionNumber": 59,
+    "question": "Who of the following founded the Ahmedabad Textile Labour Association?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Sardar Vallabhbhai Patel",
+      "c": "N. M. Joshi",
+      "d": "J. B. Kripalani"
+    },
+    "answer": "a",
+    "subject": "Modern History › Peasant, Tribal & Labour Movements",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_60",
+    "year": 2009,
+    "questionNumber": 60,
+    "question": "In the context of the Indian freedom struggle, 16th October 1905 is well known for which one of the following reasons?",
+    "options": {
+      "a": "The formal proclamation of Swadeshi Movement was made in Calcutta town hall",
+      "b": "Partition of Bengal took effect",
+      "c": "Dadabhai Naoroji declared that the goal of Indian National Congress was Swaraj",
+      "d": "Lokmanya Tilak started Swadeshi Movement in Poona"
+    },
+    "answer": "b",
+    "subject": "Modern History › Early Nationalism & Indian National Congress (1885-1915)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_61",
+    "year": 2009,
+    "questionNumber": 61,
+    "question": "In the ‘Individual Satyagraha’, Vinoba Bhave was chosen as the first Satyagrahi. Who was the second?",
+    "options": {
+      "a": "Dr. Rajendra Prasad",
+      "b": "Pandit Jawaharlal Nehru",
+      "c": "C. Rajagopalachari",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "answer": "b",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_62",
+    "year": 2009,
+    "questionNumber": 62,
+    "question": "Consider the following statements: The Cripps Proposals include the provision for 1. Full independence for India. 2. Creation of Constitution-making body. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Modern History › Constitutional Developments & British Plans (1909-1947)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_63",
+    "year": 2009,
+    "questionNumber": 63,
+    "question": "During the freedom struggle, Aruna Asaf Ali was a major woman organizer of underground activity in",
+    "options": {
+      "a": "Civil Disobedience Movement",
+      "b": "Non-Cooperation Movement",
+      "c": "Quit India Movement",
+      "d": "Swadeshi Movement"
+    },
+    "answer": "c",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_64",
+    "year": 2009,
+    "questionNumber": 64,
+    "question": "With whose permission did the English set up their first factory in Surat?",
+    "options": {
+      "a": "Akbar",
+      "b": "Jahangir",
+      "c": "Shahjahan",
+      "d": "Aurangzeb"
+    },
+    "answer": "b",
+    "subject": "Medieval History › European Powers & Early Colonial Contacts",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_65",
+    "year": 2009,
+    "questionNumber": 65,
+    "question": "In a dry cell (battery), which of the following are used as electrolytes?",
+    "options": {
+      "a": "Ammonium chloride and Zinc chloride",
+      "b": "Sodium chloride and Calcium chloride",
+      "c": "Magnesium chloride and Zinc chloride",
+      "d": "Ammonium chloride and Calcium chloride"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Energy & Environment",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_66",
+    "year": 2009,
+    "questionNumber": 66,
+    "question": "Which one of the following planets has largest number of natural satellites or moons?",
+    "options": {
+      "a": "Jupiter",
+      "b": "Mars",
+      "c": "Saturn",
+      "d": "Venus"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_67",
+    "year": 2009,
+    "questionNumber": 67,
+    "question": "Consider the following statements: 1. Sweet orange plant is propagated by grafting technique. 2. Jasmine plant is propagated by layering technique. Which of the statements given above is/are correct?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_68",
+    "year": 2009,
+    "questionNumber": 68,
+    "question": "Which one of the following types of waves are used in a night vision apparatus ?",
+    "options": {
+      "a": "Radio waves",
+      "b": "Microwaves",
+      "c": "Infra-red waves",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_69",
+    "year": 2009,
+    "questionNumber": 69,
+    "question": "In the context of genetic disorders, consider the following: A woman suffers from colour blindness while her husband does not suffer from it. They have a son and a daughter. In this context, which one of the following statements is most probably correct ?",
+    "options": {
+      "a": "Both children suffer from colour blindness",
+      "b": "Daughter suffers from colour blindness while son does not suffer from it",
+      "c": "Both children do not suffer from colour blindness",
+      "d": "Son suffers from colour blindness while daughter does not suffer from it"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biotechnology & Genetics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_70",
+    "year": 2009,
+    "questionNumber": 70,
+    "question": "A person travels 12 km due North, then 15 km due East, after that 15 km due West and then 18 km due South. How far is he from the starting point ?",
+    "options": {
+      "a": "6 km",
+      "b": "12 km",
+      "c": "33 km",
+      "d": "60 km"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_71",
+    "year": 2009,
+    "questionNumber": 71,
+    "question": "Six persons A, B, C, D, E and F are standing in a row. C and D are standing close to each other alongside E. B is standing beside A only. A is fourth from F. Who are standing on the extremes ?",
+    "options": {
+      "a": "A and F",
+      "b": "B and D",
+      "c": "B and F",
+      "d": "None of the above"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_72",
+    "year": 2009,
+    "questionNumber": 72,
+    "question": "Which one of the following is used as an explosive ?",
+    "options": {
+      "a": "Phosphorus trichloride",
+      "b": "Mercuric oxide",
+      "c": "Graphite",
+      "d": "Nitroglycerine"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_73",
+    "year": 2009,
+    "questionNumber": 73,
+    "question": "Consider the following : 1. Camphor 2. Chicory 3. Vanilla Which of the above is/are plant product(s) ?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_74",
+    "year": 2009,
+    "questionNumber": 74,
+    "question": "In the context of Indian wild life, the flying fox is a",
+    "options": {
+      "a": "Bat",
+      "b": "Kite",
+      "c": "Stork",
+      "d": "Vulture"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Economic Planning & Five-Year Plans",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_75",
+    "year": 2009,
+    "questionNumber": 75,
+    "question": "During which Five Year Plan was the Emergency clamped, new elections took place and the Janata Party was elected ?",
+    "options": {
+      "a": "Third",
+      "b": "Fourth",
+      "c": "Fifth",
+      "d": "Sixth"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_76",
+    "year": 2009,
+    "questionNumber": 76,
+    "question": "Consider the following statements : 1. Infant mortality rate takes into account the death of infants within a month after birth. 2. Infant mortality rate is the number of infant deaths in a particular year, per 100 live births during that year. Which of the above statements is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_77",
+    "year": 2009,
+    "questionNumber": 77,
+    "question": "If a Panchayat is dissolved, elections are to be held within",
+    "options": {
+      "a": "1 month",
+      "b": "3 months",
+      "c": "6 months",
+      "d": "1 year"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_78",
+    "year": 2009,
+    "questionNumber": 78,
+    "question": "Consider the following statements : 1. The Governor of Punjab is concurrently the Administrator of Chandigarh. 2. The Governor of Kerala is concurrently the Administrator of Lakshadweep. Which of the above statements is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_79",
+    "year": 2009,
+    "questionNumber": 79,
+    "question": "Consider the following pairs : Organization — Location of Headquarters 1. Asian Development Bank — Tokyo 2. Asia-Pacific Economic Cooperation — Singapore 3. Association of South East Asian Nations — Bangkok Which of the above pairs is/are correctly matched ?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 only",
+      "c": "2 and 3 only",
+      "d": "3 only"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_80",
+    "year": 2009,
+    "questionNumber": 80,
+    "question": "With reference to the United Nations, consider the following statements : 1. The Economic and Social Council (ECOSOC) of UN consists of 24 member States. 2. It is elected by a 2⁄3rd majority of the General Assembly for a 3-year term. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_81",
+    "year": 2009,
+    "questionNumber": 81,
+    "question": "In which one of the following places is the Shompen tribe found ?",
+    "options": {
+      "a": "Nilgiri Hills",
+      "b": "Nicobar Islands",
+      "c": "Spiti Valley",
+      "d": "Lakshadweep Islands"
+    },
+    "answer": "b",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_82",
+    "year": 2009,
+    "questionNumber": 82,
+    "question": "Consider the following statements : 1. The Advocate General of a State in India is appointed by the President of India upon the recommendation of the Governor of the concerned State. 2. As provided in Civil Procedure Code, High Courts have original, appellate and advisory jurisdiction at the State level. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Judiciary",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_83",
+    "year": 2009,
+    "questionNumber": 83,
+    "question": "In India, the first Municipal Corporation was set up in which one among the following ?",
+    "options": {
+      "a": "Calcutta",
+      "b": "Madras",
+      "c": "Bombay",
+      "d": "Delhi"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Judiciary",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_84",
+    "year": 2009,
+    "questionNumber": 84,
+    "question": "With reference to Lok Adalats, consider the following statements : 1. An award made by a Lok Adalat is deemed to be a decree of a civil court and no appeal lies against thereto before any court. 2. Matrimonial/Family disputes are not covered under Lok Adalat. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_85",
+    "year": 2009,
+    "questionNumber": 85,
+    "question": "With reference to Union Government, consider the following statements : 1. The Constitution of India provides that all Cabinet Ministers shall be compulsorily the sitting members of Lok Sabha only. 2. The Union Cabinet Secretariat operates under the direction of the Ministry of Parliamentary Affairs. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_86",
+    "year": 2009,
+    "questionNumber": 86,
+    "question": "Which one of the following Constitutional Amendments states that the total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed fifteen percent of the total number of members of the House of the People ?",
+    "options": {
+      "a": "90th",
+      "b": "91st",
+      "c": "92nd",
+      "d": "93rd"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Constitutional & Statutory Bodies",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_87",
+    "year": 2009,
+    "questionNumber": 87,
+    "question": "Consider the following statements : 1. Central Administrative Tribunal (CAT) was set up during the Prime Ministership of Lal Bahadur Shastri. 2. The Members for CAT are drawn from both judicial and administrative streams. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_88",
+    "year": 2009,
+    "questionNumber": 88,
+    "question": "With reference to Union Government, consider the following statements : 1. The number of Ministries at the Centre on 15th August 1947 was 18. 2. The number of Ministries at the Centre at present is 36. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_89",
+    "year": 2009,
+    "questionNumber": 89,
+    "question": "Consider the following statements : 1. The first telegraph line in India was laid between Kolkata (formerly Calcutta) and Diamond Harbour. 2. The first Export Processing Zone in India was set up in Kandla. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_90",
+    "year": 2009,
+    "questionNumber": 90,
+    "question": "Which one of the following Union Ministries implements the Cartagena Protocol on Biosafety ?",
+    "options": {
+      "a": "Ministry of Science and Technology",
+      "b": "Ministry of Health and Family Welfare",
+      "c": "Ministry of Environment and Forests",
+      "d": "Ministry of Chemicals and Fertilizers"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › International Environmental Treaties & Summits",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_91",
+    "year": 2009,
+    "questionNumber": 91,
+    "question": "Where is the headquarters of Animal Welfare Board of India located ?",
+    "options": {
+      "a": "Ahmedabad",
+      "b": "Chennai",
+      "c": "Hyderabad",
+      "d": "Kolkata"
+    },
+    "answer": "b",
+    "subject": "Environment & Ecology › Environmental Governance & Legislation",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_92",
+    "year": 2009,
+    "questionNumber": 92,
+    "question": "Consider the following statements regarding Indian Planning : 1. The Second Five-Year Plan emphasised on the establishment of heavy industries. 2. The Third Five-Year Plan introduced the concept of import substitution as a strategy for industrialisation. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Economic Planning & Five-Year Plans",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_93",
+    "year": 2009,
+    "questionNumber": 93,
+    "question": "Consider the following statements : 1. The National School of Drama was set up by Sangeet Natak Akademi in 1959. 2. The highest honour conferred by the Sahitya Akademi on a writer is by electing him its Fellow. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Cultural Institutions & Awards",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_94",
+    "year": 2009,
+    "questionNumber": 94,
+    "question": "With reference to Union Government, consider the following statements : 1. The Ministries/Departments of the Government of India are created by the Prime Minister on the advice of the Cabinet Secretary. 2. Each of the Ministries is assigned to a Minister by the President of India on the advice of the Prime Minister. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_95",
+    "year": 2009,
+    "questionNumber": 95,
+    "question": "A person has 4 coins each of different denomination. What is the number of different sums of money the person can form (using one or more coins at a time)?",
+    "options": {
+      "a": "16",
+      "b": "15",
+      "c": "12",
+      "d": "11"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_96",
+    "year": 2009,
+    "questionNumber": 96,
+    "question": "How many numbers lie between 300 and 500 in which 4 comes only one time?",
+    "options": {
+      "a": "99",
+      "b": "100",
+      "c": "110",
+      "d": "120"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_97",
+    "year": 2009,
+    "questionNumber": 97,
+    "question": "How many letters of the English alphabet (capitals) appear same when looked at in a mirror?",
+    "options": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_98",
+    "year": 2009,
+    "questionNumber": 98,
+    "question": "How many three-digit numbers can be generated from 1, 2, 3, 4, 5, 6, 7, 8, 9 such that the digits are in ascending order?",
+    "options": {
+      "a": "80",
+      "b": "81",
+      "c": "83",
+      "d": "84"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_99",
+    "year": 2009,
+    "questionNumber": 99,
+    "question": "There are four persons A, B, C, D; and A has some coins. A gave half of the coins to B and 4 more besides. B gave half of the coins to C and 4 more besides. C gave half of the coins to D and 4 more besides. Both B and D end up with same number of coins. How many coins did A have originally?",
+    "options": {
+      "a": "96",
+      "b": "84",
+      "c": "72",
+      "d": "64"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_100",
+    "year": 2009,
+    "questionNumber": 100,
+    "question": "While adding the first few continuous natural numbers, a candidate missed one of the numbers and wrote the answer as 177. What was the number missed?",
+    "options": {
+      "a": "11",
+      "b": "12",
+      "c": "13",
+      "d": "14"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_101",
+    "year": 2009,
+    "questionNumber": 101,
+    "question": "Four metal rods of lengths 78 cm, 104 cm, 117 cm and 169 cm are to be cut into parts of equal length. Each part must be as long as possible. What is the maximum number of pieces that can be cut?",
+    "options": {
+      "a": "27",
+      "b": "36",
+      "c": "43",
+      "d": "480"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_102",
+    "year": 2009,
+    "questionNumber": 102,
+    "question": "In an examination, there are three subjects A, B and C. A student has to pass in each subject. 20% students failed in A, 22% students failed in B and 16% failed in C. The total number of students passing the whole examination lies between",
+    "options": {
+      "a": "42% and 84%",
+      "b": "42% and 78%",
+      "c": "58% and 78%",
+      "d": "58% and 84%"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_103",
+    "year": 2009,
+    "questionNumber": 103,
+    "question": "There is a family of 6 persons A, B, C, D, E and F. There are two married couples in the family. The family members are lawyer, teacher, salesman, engineer, accountant and doctor. D, the salesman is married to the lady teacher. The doctor is married to the lawyer. F, the accountant is the son of B and brother of E. C, the lawyer is the daughter-in-law of A. E is the unmarried engineer. A is the grandmother of F. How is E related to F?",
+    "options": {
+      "a": "Brother",
+      "b": "Sister",
+      "c": "Father",
+      "d": "Cannot be established (cannot be determined)"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_104",
+    "year": 2009,
+    "questionNumber": 104,
+    "question": "How many times are an hour hand and a minute hand of a clock at right angles during their motion from 1.00 p.m. to 10.00 p.m.?",
+    "options": {
+      "a": "9",
+      "b": "10",
+      "c": "18",
+      "d": "20"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_105",
+    "year": 2009,
+    "questionNumber": 105,
+    "question": "There are 240 balls and n number of boxes B1, B2, B3, … , Bn. The balls are to be placed in the boxes such that B1 should contain 4 balls more than B2, B2 should contain 4 balls more than B3, and so on. Which one of the following cannot be the possible value of n?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_106",
+    "year": 2009,
+    "questionNumber": 106,
+    "question": "In a carrom board game competition, m boys and n girls (m > n > 1) of a school participate in which every student has to play exactly one game with every other student. Out of the total games played, it was found that in 221 games one player was a boy and the other player was a girl. Consider the following statements : 1. The total number of students that participated in the competition is 30. 2. The number of games in which both players were girls is 78. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_107",
+    "year": 2009,
+    "questionNumber": 107,
+    "question": "There are three cans A, B and C. The capacities of A, B and C are 6 litres, 10 litres and 16 litres respectively. The can C contains 16 litres of milk. The milk has to be divided in them using these three cans only. Consider the following statements : 1. It is possible to have 6 litres of milk each in can A and can B. 2. It is possible to have 8 litres of milk each in can B and can C. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_108",
+    "year": 2009,
+    "questionNumber": 108,
+    "question": "Consider the following pairs : 1. Ashok Leyland : Hinduja Group 2. Hindalco Industries : A.V. Birla Group 3. Suzlon Energy : Punj Lloyd Group Which of the pairs given above is/are correctly matched ?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_109",
+    "year": 2009,
+    "questionNumber": 109,
+    "question": "In the context of global economy, which one of the following pairs is not correctly matched ?",
+    "options": {
+      "a": "JP Morgan Chase : Financial Services",
+      "b": "Roche Holding AG : Financial Services",
+      "c": "WL Ross & Co. : Private Equity Firm",
+      "d": "Warburg Pincus : Private Equity Firm"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › International Institutions & Reports",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_110",
+    "year": 2009,
+    "questionNumber": 110,
+    "question": "Consider the following houses: 1. Christie's 2. Osian's 3. Sotheby's Which of the above is/are auctioneer/auctioneers ?",
+    "options": {
+      "a": "1 only",
+      "b": "1 and 3 only",
+      "c": "2 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Cultural Institutions & Awards",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_111",
+    "year": 2009,
+    "questionNumber": 111,
+    "question": "In the context of CO₂ emission and Global Warming, what is the name of a market-driven device under the UNFCCC that allows developing countries to get funds/incentives from the developed countries to adopt better technologies that reduce greenhouse gas emissions ?",
+    "options": {
+      "a": "Carbon Footprint",
+      "b": "Carbon Credit Rating",
+      "c": "Clean Development Mechanism",
+      "d": "Emission Reduction Norm"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › Climate Change & Greenhouse Gases",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_112",
+    "year": 2009,
+    "questionNumber": 112,
+    "question": "The concept of carbon credit originated from which one of the following ?",
+    "options": {
+      "a": "Earth Summit, Rio de Janeiro",
+      "b": "Kyoto Protocol",
+      "c": "Montreal Protocol",
+      "d": "G-8 Summit, Heiligendamm"
+    },
+    "answer": "b",
+    "subject": "Environment & Ecology › Climate Change & Greenhouse Gases",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_113",
+    "year": 2009,
+    "questionNumber": 113,
+    "question": "Who among the following is the founder of World Economic Forum ?",
+    "options": {
+      "a": "Klaus Schwab",
+      "b": "John Kenneth Galbraith",
+      "c": "Robert Zoellick",
+      "d": "Paul Krugman"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_114",
+    "year": 2009,
+    "questionNumber": 114,
+    "question": "The Security Council of UN consists of 5 permanent members, and the remaining 10 members are elected by the General Assembly for a term of",
+    "options": {
+      "a": "1 year",
+      "b": "2 years",
+      "c": "3 years",
+      "d": "5 years"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_115",
+    "year": 2009,
+    "questionNumber": 115,
+    "question": "From which one of the following did Kosovo declare its independence ?",
+    "options": {
+      "a": "Bulgaria",
+      "b": "Croatia",
+      "c": "Macedonia",
+      "d": "Serbia"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_116",
+    "year": 2009,
+    "questionNumber": 116,
+    "question": "Which one of the following pairs of countries fought wars over a region called Ogaden ?",
+    "options": {
+      "a": "Eritrea and Sudan",
+      "b": "Ethiopia and Somalia",
+      "c": "Kenya and Somalia",
+      "d": "Ethiopia and Sudan"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_117",
+    "year": 2009,
+    "questionNumber": 117,
+    "question": "In the middle of the year 2008 the Parliament of which one of the following countries became the first in the world to enact a Climate Act by passing \"The Climate Change Accountability Bill\" ?",
+    "options": {
+      "a": "Australia",
+      "b": "Canada",
+      "c": "Germany",
+      "d": "Japan"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › International Relations & Treaties",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_118",
+    "year": 2009,
+    "questionNumber": 118,
+    "question": "Which one among the following has the highest energy ?",
+    "options": {
+      "a": "Blue light",
+      "b": "Green light",
+      "c": "Red light",
+      "d": "Yellow light"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_119",
+    "year": 2009,
+    "questionNumber": 119,
+    "question": "In the context of independent India's economy, which one of the following was the earliest event to take place ?",
+    "options": {
+      "a": "Nationalisation of Insurance companies",
+      "b": "Nationalisation of State Bank of India",
+      "c": "Enactment of Banking Regulation Act",
+      "d": "Introduction of First Five-Year Plan"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Banking & Financial Sector",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_120",
+    "year": 2009,
+    "questionNumber": 120,
+    "question": "Consider the following pairs : Automobile Manufacturer : Headquarters 1. BMW AG : USA 2. Daimler AG : Sweden 3. Renault S.A.: France 4. Volkswagen AG: Germany Which of the pairs given above is/are correctly matched ?",
+    "options": {
+      "a": "1, 2 and 3",
+      "b": "3 and 4",
+      "c": "4 only",
+      "d": "1, 2 and 4"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Business & Economy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_121",
+    "year": 2009,
+    "questionNumber": 121,
+    "question": "Which one of the following is not a drug/pharma company ?",
+    "options": {
+      "a": "Chevron",
+      "b": "Nicholas Piramal",
+      "c": "Pfizer",
+      "d": "Zydus Cadila"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › Business & Economy",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_122",
+    "year": 2009,
+    "questionNumber": 122,
+    "question": "Who of the following is the author of the book \"The Audacity of Hope\" ?",
+    "options": {
+      "a": "Al Gore",
+      "b": "Barack Obama",
+      "c": "Bill Clinton",
+      "d": "Hillary Clinton"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Books & Authors",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_123",
+    "year": 2009,
+    "questionNumber": 123,
+    "question": "A present group of nations known as 'G-8' started first as G-7. Which one among the following was not one of them ?",
+    "options": {
+      "a": "Canada",
+      "b": "Italy",
+      "c": "Japan",
+      "d": "Russia"
+    },
+    "answer": "d",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_124",
+    "year": 2009,
+    "questionNumber": 124,
+    "question": "Consider the following statements : 1. The Baglihar Power Project had been constructed within the parameters of the Indus Water Treaty. 2. The project was completely built by the Union Government with loans from Japan and the World Bank. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_125",
+    "year": 2009,
+    "questionNumber": 125,
+    "question": "When Leander Paes won the \"mixed doubles\" at the US Open in the year 2008, who of the following was his partner ?",
+    "options": {
+      "a": "Ana Ivanovic",
+      "b": "Cara Black",
+      "c": "Dinara Safina",
+      "d": "Jelena Jankovic"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Tennis Grand Slams",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_126",
+    "year": 2009,
+    "questionNumber": 126,
+    "question": "In the context of Indian news in recent times, what is MCX-SX ?",
+    "options": {
+      "a": "A kind of supercomputer",
+      "b": "Title of Moon Impact Probe",
+      "c": "Stock exchange",
+      "d": "Nuclear-powered submarine"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Financial Markets & Capital Markets",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_127",
+    "year": 2009,
+    "questionNumber": 127,
+    "question": "Which one of the following pairs is not correctly matched ?",
+    "options": {
+      "a": "Barbora Spotakova : Javelin throw",
+      "b": "Pamela Jelimo : Weightlifting",
+      "c": "Sanya Richards : Sprint",
+      "d": "Yelena Isinbayeva : Pole Vault"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Other Sports & Personalities",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_128",
+    "year": 2009,
+    "questionNumber": 128,
+    "question": "India has recently landed its Moon Impact Probe on the Moon. Among the following countries, which one landed such probe on the Moon earlier ?",
+    "options": {
+      "a": "Australia",
+      "b": "Canada",
+      "c": "China",
+      "d": "Japan"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › Football",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_129",
+    "year": 2009,
+    "questionNumber": 129,
+    "question": "Who of the following is a football player ?",
+    "options": {
+      "a": "Fernando Alonso",
+      "b": "Kimi Raikkonen",
+      "c": "Lewis Hamilton",
+      "d": "Nicolas Anelka"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_130",
+    "year": 2009,
+    "questionNumber": 130,
+    "question": "Consider the following pairs: Famous place : Country 1. Cannes : France 2. Davos : Denmark 3. Roland Garros : The Netherlands Which of the pairs given above is/are correctly matched ?",
+    "options": {
+      "a": "1 only",
+      "b": "1 and 2 only",
+      "c": "2 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Relations & Treaties",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_131",
+    "year": 2009,
+    "questionNumber": 131,
+    "question": "Among the following, which one is not a football club ?",
+    "options": {
+      "a": "Arsenal",
+      "b": "Aston Villa",
+      "c": "Chelsea",
+      "d": "Monte Carlo"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › Football",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_132",
+    "year": 2009,
+    "questionNumber": 132,
+    "question": "The marine animal called dugong which is vulnerable to extinction is a/an",
+    "options": {
+      "a": "Amphibian",
+      "b": "Bony fish",
+      "c": "Shark",
+      "d": "Mammal"
+    },
+    "answer": "d",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_133",
+    "year": 2009,
+    "questionNumber": 133,
+    "question": "The Dul Hasti Power Station is based on which one of the following rivers ?",
+    "options": {
+      "a": "Beas",
+      "b": "Chenab",
+      "c": "Ravi",
+      "d": "Sutlej"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_134",
+    "year": 2009,
+    "questionNumber": 134,
+    "question": "Consider the following statements : 1. V.K. Krishna Menon Foundation is based in New Delhi. 2. The first recipient of the V.K. Krishna Menon Award is the Chief Justice of India, K.G. Balakrishnan. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Awards & Honours",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_135",
+    "year": 2009,
+    "questionNumber": 135,
+    "question": "Which one of the following is the country's administrative capital/new federal administrative centre of Malaysia ?",
+    "options": {
+      "a": "Kota Bharu",
+      "b": "Kuala Terengganu",
+      "c": "Putrajaya",
+      "d": "Taiping"
+    },
+    "answer": "c",
+    "subject": "Geography › World Political Geography & Borders",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_136",
+    "year": 2009,
+    "questionNumber": 136,
+    "question": "In the context of Indian defence, consider the following statements : 1. The Shourya missile flies with a speed of more than 8 Mach. 2. The range of Shourya missile is more than 1600 km. Which of the statements given above is/are correct ?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "Both 1 and 2",
+      "d": "Neither 1 nor 2"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Defence Technology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_137",
+    "year": 2009,
+    "questionNumber": 137,
+    "question": "WiMAX is related to which one of the following ?",
+    "options": {
+      "a": "Biotechnology",
+      "b": "Space technology",
+      "c": "Missile technology",
+      "d": "Communication technology"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Computer & Information Technology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_138",
+    "year": 2009,
+    "questionNumber": 138,
+    "question": "For outstanding contribution to which one of the following fields is Shanti Swarup Bhatnagar Prize given ?",
+    "options": {
+      "a": "Literature",
+      "b": "Performing Arts",
+      "c": "Science",
+      "d": "Social Service"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Science & Technology Institutions",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_139",
+    "year": 2009,
+    "questionNumber": 139,
+    "question": "In making the saffron spice, which one of the following parts of the plant is used ?",
+    "options": {
+      "a": "Leaf",
+      "b": "Petal",
+      "c": "Sepal",
+      "d": "Stigma"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_140",
+    "year": 2009,
+    "questionNumber": 140,
+    "question": "In the year 2008, which one of the following conducted a complex scientific experiment in which sub-atomic particles were accelerated to nearly the speed of light ?",
+    "options": {
+      "a": "European Space Agency",
+      "b": "European Organization for Nuclear Research",
+      "c": "International Atomic Energy Agency",
+      "d": "National Aeronautics and Space Administration"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_141",
+    "year": 2009,
+    "questionNumber": 141,
+    "question": "A very big refugee camp called Dadaab, recently in the news, is located in",
+    "options": {
+      "a": "Ethiopia",
+      "b": "Kenya",
+      "c": "Somalia",
+      "d": "Sudan"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Disasters & Humanitarian Issues",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_142",
+    "year": 2009,
+    "questionNumber": 142,
+    "question": "Consider the following names : 1. Ike 2. Kate 3. Gustav Which of the above are the names of hurricanes that had occurred very recently ?",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 3 only",
+      "c": "1 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › Ecosystems & Ecology Concepts",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_143",
+    "year": 2009,
+    "questionNumber": 143,
+    "question": "In the context of alternative sources of energy, ethanol as a viable bio-fuel can be obtained from",
+    "options": {
+      "a": "Potato",
+      "b": "Rice",
+      "c": "Sugarcane",
+      "d": "Wheat"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › Renewable Energy & Green Technologies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_144",
+    "year": 2009,
+    "questionNumber": 144,
+    "question": "Consider the following famous names: 1. Amrita Sher-Gil 2. Bikash Bhattacharjee 3. N. S. Bendre 4. Subodh Gupta Who of the above is/are well known as artist(s)?",
+    "options": {
+      "a": "1 only",
+      "b": "1 and 4 only",
+      "c": "2, 3 and 4 only",
+      "d": "1, 2, 3 and 4"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Painting & Visual Arts",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_145",
+    "year": 2009,
+    "questionNumber": 145,
+    "question": "NAMA-11 (Nama-11) group of countries frequently appears in the news in the context of the affairs of which one of the following?",
+    "options": {
+      "a": "Nuclear Suppliers Group",
+      "b": "World Bank",
+      "c": "World Economic Forum",
+      "d": "World Trade Organization"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_146",
+    "year": 2009,
+    "questionNumber": 146,
+    "question": "In the latter half of the year 2008, which one of the following countries pulled out of Commonwealth of Independent States?",
+    "options": {
+      "a": "Azerbaijan",
+      "b": "Belarus",
+      "c": "Georgia",
+      "d": "Kazakhstan"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_147",
+    "year": 2009,
+    "questionNumber": 147,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I (Persons in news) A. Luisa Dias Diogo B. Mwai Kibaki C. Rupiah Banda List II (Countries they belong to) 1. Kenya 2. Mozambique 3. Zambia 4. Zimbabwe",
+    "options": {
+      "a": "A-1 B-2 C-3",
+      "b": "A-2 B-1 C-3",
+      "c": "A-2 B-1 C-4",
+      "d": "A-1 B-2 C-4"
+    },
+    "answer": "b",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_148",
+    "year": 2009,
+    "questionNumber": 148,
+    "question": "Consider the following regions: 1. Eastern Himalayas 2. Eastern Mediterranean region 3. North-western Australia Which of the above is/are Biodiversity Hotspot(s)?",
+    "options": {
+      "a": "1 only",
+      "b": "1 and 2 only",
+      "c": "2 and 3 only",
+      "d": "1, 2 and 3"
+    },
+    "answer": "b",
+    "subject": "Environment & Ecology › Biodiversity & Conservation",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_149",
+    "year": 2009,
+    "questionNumber": 149,
+    "question": "With reference to the evolution of living organisms, which one of the following sequences is correct?",
+    "options": {
+      "a": "Octopus – Dolphin – Shark",
+      "b": "Pangolin – Tortoise – Hawk",
+      "c": "Salamander – Python – Kangaroo",
+      "d": "Frog – Crab – Prawn"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2009_150",
+    "year": 2009,
+    "questionNumber": 150,
+    "question": "The Panda belongs to the same family as that of",
+    "options": {
+      "a": "Bear",
+      "b": "Cat",
+      "c": "Dog",
+      "d": "Rabbit"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Biodiversity & Conservation",
+    "difficulty": "moderate",
+    "explanation": ""
+  }
+]

@@ -1,0 +1,2386 @@
+[
+  {
+    "id": "prelims_1995_1",
+    "year": 1995,
+    "questionNumber": 1,
+    "question": "A meteor is",
+    "options": {
+      "a": "a rapidly moving star",
+      "b": "a piece of matter which has entered the earth’s atmosphere from outer space",
+      "c": "part of a constellation",
+      "d": "a comet without a tail"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_2",
+    "year": 1995,
+    "questionNumber": 2,
+    "question": "The word ‘Hindu’ as reference to the people of Hind (India) was first used by",
+    "options": {
+      "a": "the Greeks",
+      "b": "the Romans",
+      "c": "the Chinese",
+      "d": "the Arabs"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Philosophy & Religion",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_3",
+    "year": 1995,
+    "questionNumber": 3,
+    "question": "Given below is a map of some countries which were parts of the erstwhile Soviet Union, with water bodies shown by shaded areas: The countries marked 1, 2, 3, 4 and 5 are respectively",
+    "options": {
+      "a": "Tajikistan, Turkmenia, Uzbekistan, Kirgizia, Kazakhstan",
+      "b": "Turkmenia, Kirgizia, Tajikistan, Uzbekistan, Kazakhstan",
+      "c": "Kazakhstan, Uzbekistan, Tajikistan, Kirgizia, Turkmenia",
+      "d": "Kazakhstan, Turkmenia, Uzbekistan, Kirgizia, Tajikistan"
+    },
+    "answer": "d",
+    "subject": "Geography › World Political Geography & Borders",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_4",
+    "year": 1995,
+    "questionNumber": 4,
+    "question": "To prevent recurrence of scams in Indian Capital Market, the Government of India has assigned regulatory powers to",
+    "options": {
+      "a": "SEBI",
+      "b": "RBI",
+      "c": "SBI",
+      "d": "IDBI"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Elections & Electoral Reforms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_5",
+    "year": 1995,
+    "questionNumber": 5,
+    "question": "Consider the table given below providing some details of the results of the election to the Karnataka State Legislative Assembly held in December, 1994. In terms of electoral analysis, the voter-seat distortion is to be explained as the result of the adoption of the",
+    "options": {
+      "a": "Hare system",
+      "b": "Cumulative vote system",
+      "c": "First-past-the-post system",
+      "d": "Plural vote system"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_6",
+    "year": 1995,
+    "questionNumber": 6,
+    "question": "Who among the following was a Brahmavadini who composed some hymns of the Vedas?",
+    "options": {
+      "a": "Lopamudra",
+      "b": "Gargi",
+      "c": "Leelavati",
+      "d": "Savitri"
+    },
+    "answer": "a",
+    "subject": "Ancient History › Vedic Period",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_7",
+    "year": 1995,
+    "questionNumber": 7,
+    "question": "The Alpine vegetation in the western Himalayas is found only up to a height of 3000 metres, while in the eastern Himalayas it is found up to a height of 4000 metres. The reason for this variation in the same mountain range is that",
+    "options": {
+      "a": "eastern Himalayas are higher than western Himalayas",
+      "b": "eastern Himalayas are nearer to the Equator and sea coast than western Himalayas",
+      "c": "eastern Himalayas get more monsoon rainfall than the western Himalayas",
+      "d": "eastern Himalayan rocks are more fertile than the western Himalayan rocks"
+    },
+    "answer": "c",
+    "subject": "Geography › Biogeography & Natural Vegetation",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_8",
+    "year": 1995,
+    "questionNumber": 8,
+    "question": "According to the 1991 Census, the highest percentage of population in India is to be found in the age group of",
+    "options": {
+      "a": "60 years and above",
+      "b": "35 to 55 years",
+      "c": "25 to 34 years",
+      "d": "5 to 14 years"
+    },
+    "answer": "d",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_9",
+    "year": 1995,
+    "questionNumber": 9,
+    "question": "Which one of the following is correct in respect of the commencement of the election process in India?",
+    "options": {
+      "a": "The recommendation for election is made by the government and the notification for election is issued by the Election Commission",
+      "b": "The recommendation for election is made by the Election Commission and the notification for election is issued by the Home Ministry at the Centre and Home Departments in the States",
+      "c": "The recommendation for election is made by the Election Commission and the notification for election is issued by the President and Governors of the States concerned",
+      "d": "Both the exercises of making a recommendation for election and that of issuing a notification in respect of it are done by the Election Commission"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Elections & Electoral Reforms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_10",
+    "year": 1995,
+    "questionNumber": 10,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Eras) I. Vikrama era II. Saka era III. Gupta era IV. Kali era List II (Reckoned from) A) 3102 B.C. B) 320 A.D. C) 78 A.D. D) 58 B.C. E) 248 A.D.",
+    "options": {
+      "a": "I-B, II-D, III-E, IV-A",
+      "b": "I-A, II-C, III-B, IV-D",
+      "c": "I-D, II-E, III-B, IV-C",
+      "d": "I-D, II-C, III-B, IV-A"
+    },
+    "answer": "d",
+    "subject": "Ancient History › Archaeology & Epigraphy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_11",
+    "year": 1995,
+    "questionNumber": 11,
+    "question": "The standard time of the following countries is ahead or behind Greenwich Mean Time depending on whether they are east or west of the longitude passing through Greenwich: I. Cuba II. Greece III. Iraq IV. Costa Rica V. Japan Which one of the following sequential orders gives the correct arrangement of the countries according to their standard time from ahead to behind GMT?",
+    "options": {
+      "a": "V, III, II, I, IV",
+      "b": "II, IV, I, III, V",
+      "c": "IV, I, III, II, V",
+      "d": "III, V, IV, I, II"
+    },
+    "answer": "a",
+    "subject": "Geography › Cartography & Map Skills",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_12",
+    "year": 1995,
+    "questionNumber": 12,
+    "question": "Which one of the following Five-Year Plans recognised human development as the core of all developmental efforts?",
+    "options": {
+      "a": "The Third Five-Year Plan",
+      "b": "The Fifth Five-Year Plan",
+      "c": "The Sixth Five-Year Plan",
+      "d": "The Eighth Five-Year Plan"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Economic Planning & Five-Year Plans",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_13",
+    "year": 1995,
+    "questionNumber": 13,
+    "question": "Which of the following is/are extra-constitutional and extra-legal device(s) for securing cooperation and coordination between the States in India? I. The National Development Council II. The Governors’ Conference III. Zonal Councils IV. The Interstate Council Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "I, III and IV",
+      "c": "III and IV",
+      "d": "IV only"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Federalism & Centre–State Relations",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_14",
+    "year": 1995,
+    "questionNumber": 14,
+    "question": "The original home of the gypsies was",
+    "options": {
+      "a": "Egypt",
+      "b": "Russia",
+      "c": "India",
+      "d": "Persia"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Tribes & Communities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_15",
+    "year": 1995,
+    "questionNumber": 15,
+    "question": "Which one of the following is the continent with the highest mean elevation in the world?",
+    "options": {
+      "a": "Antarctica",
+      "b": "North America",
+      "c": "Asia",
+      "d": "South America"
+    },
+    "answer": "a",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_16",
+    "year": 1995,
+    "questionNumber": 16,
+    "question": "Which of the following are the objectives of the Commission for Agricultural Costs and Prices (CACP)? I. To stabilise agricultural prices. II. To ensure meaningful real income levels to the farmers. III. To protect the interest of the consumers by providing essential agricultural commodities at reasonable rates through public distribution system. IV. To ensure maximum price for the farmer. Select the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "I, II and IV",
+      "c": "I, III and IV",
+      "d": "II, III and IV"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Agriculture & Rural Development",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_17",
+    "year": 1995,
+    "questionNumber": 17,
+    "question": "Which of the following are matters on which a constitutional amendment is possible only with the ratification of the legislatures of not less than one-half of the States? I. Election of the President II. Representation of States in Parliament III. Any of the Lists in the 7th Schedule IV. Abolition of the Legislative Council of a State Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "I, II and IV",
+      "c": "I, III and IV",
+      "d": "II, III and IV"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Constitutional Framework & Development",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_18",
+    "year": 1995,
+    "questionNumber": 18,
+    "question": "In Sanskrit plays written during the Gupta Period women and sudras speak",
+    "options": {
+      "a": "Sanskrit",
+      "b": "Prakrit",
+      "c": "Pali",
+      "d": "Sauraseni"
+    },
+    "answer": "b",
+    "subject": "Geography › Atmosphere & Climatology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_19",
+    "year": 1995,
+    "questionNumber": 19,
+    "question": "The graph given below shows the mean average monthly temperatures (in °C) and mean monthly rainfall (in cms) of a place: This graph is indicative of which one of the climatic zones of the world?",
+    "options": {
+      "a": "Wet and dry tropical",
+      "b": "Rainy tropical",
+      "c": "Semi-arid tropical",
+      "d": "Temperate marine"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_20",
+    "year": 1995,
+    "questionNumber": 20,
+    "question": "Consider the table given below: Parliament of India (extract shown) Which one of the following will fit in the place marked ‘X’?",
+    "options": {
+      "a": "Ministers who are not Members of Parliament but who have to get themselves elected to either House of Parliament within six months after assuming office",
+      "b": "Not more than 20 nominated members",
+      "c": "Not more than 20 representatives of Union Territories",
+      "d": "The Attorney General who has the right to speak and take part in the proceedings of either House of Parliament"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Parliament & State Legislatures",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_21",
+    "year": 1995,
+    "questionNumber": 21,
+    "question": "The name by which Asoka is generally referred to in his inscriptions is",
+    "options": {
+      "a": "Chakravarti",
+      "b": "Dharmadeva",
+      "c": "Dharmakirti",
+      "d": "Priyadarshini"
+    },
+    "answer": "d",
+    "subject": "Ancient History › Mauryan Empire",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_22",
+    "year": 1995,
+    "questionNumber": 22,
+    "question": "Consider the map given below: The divisions along India’s coastal region indicate",
+    "options": {
+      "a": "coastal pollution zones",
+      "b": "salinity density isopleths",
+      "c": "the areas up to which sovereignty extends",
+      "d": "underwater relief contours"
+    },
+    "answer": "d",
+    "subject": "Geography › Oceanography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_23",
+    "year": 1995,
+    "questionNumber": 23,
+    "question": "Who among the following have the right to vote in the elections to both Lok Sabha and Rajya Sabha?",
+    "options": {
+      "a": "Elected members of the Lower House of the Parliament",
+      "b": "Elected members of the Upper House of the Parliament",
+      "c": "Elected members of the Upper House of the State Legislature",
+      "d": "Elected members of the Lower House of the State Legislature"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Parliament & State Legislatures",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_24",
+    "year": 1995,
+    "questionNumber": 24,
+    "question": "The Nagara, the Dravida and the Vesara are",
+    "options": {
+      "a": "the three main racial groups of the Indian subcontinent",
+      "b": "the three main linguistic divisions into which the languages of India can be classified",
+      "c": "the three main styles of Indian temple architecture",
+      "d": "the three main musical gharanas of Indian classical music"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_25",
+    "year": 1995,
+    "questionNumber": 25,
+    "question": "In the map given below, three out of the four places marked indicate places where a thermal power station is located. The place where there is no thermal power station is marked",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_26",
+    "year": 1995,
+    "questionNumber": 26,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I List II I. European transcontinental railway A) Paris to Istanbul II. Trans Andean railway B) Leningrad to Vladivostok III. Trans-Siberian railway C) Leningrad to Volgograd IV. Orient Express D) Buenos Aires to Valparaiso E) Paris to Warsaw",
+    "options": {
+      "a": "I-E, II-D, III-B, IV-A",
+      "b": "I-A, II-D, III-C, IV-B",
+      "c": "I-E, II-A, III-B, IV-C",
+      "d": "I-A, II-B, III-C, IV-D"
+    },
+    "answer": "a",
+    "subject": "Geography › Transport & Infrastructure Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_27",
+    "year": 1995,
+    "questionNumber": 27,
+    "question": "As part of the liberalisation programme and with a view to attracting foreign exchange, the Government and the RBI have devised two schemes known as FCNR-‘A’ and FCNR-‘B’. Which of the following is/are true regarding these two schemes? I. Under scheme ‘A’ RBI bears exchange rate fluctuations. II. Under scheme ‘B’, other banks are to meet out the difference in exchange rate fluctuations. III. Both the schemes stand withdrawn now. IV. Only scheme ‘A’ has been withdrawn. Select the correct answer from the codes given below:",
+    "options": {
+      "a": "III only",
+      "b": "I and II",
+      "c": "I, II and III",
+      "d": "I, II and IV"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Banking & Financial Sector",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_28",
+    "year": 1995,
+    "questionNumber": 28,
+    "question": "Which one of the following States of India does not have a Legislative Council so far even though the Constitution (Seventh Amendment) Act, 1956 provides for it?",
+    "options": {
+      "a": "Maharashtra",
+      "b": "Bihar",
+      "c": "Karnataka",
+      "d": "Madhya Pradesh"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Parliament & State Legislatures",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_29",
+    "year": 1995,
+    "questionNumber": 29,
+    "question": "In the map given below four areas are differently shaded, three of which indicate cereal-crops production areas and one indicates non-cereal crop production area. As per the index given, the non-cereal crop production area is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "d",
+    "subject": "Modern History › Transfer Of Power & Partition (1945-1947)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_30",
+    "year": 1995,
+    "questionNumber": 30,
+    "question": "In the interim government formed in 1946, the Vice-President of the Executive Council was",
+    "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Dr. S. Radhakrishnan",
+      "c": "C. Rajagopalachari",
+      "d": "Dr. Rajendra Prasad"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_31",
+    "year": 1995,
+    "questionNumber": 31,
+    "question": "Which of the following are among the non-plan expenditures of the Government of India? I. Defence expenditure II. Subsidies III. All expenditures linked with the previous plan periods IV. Interest payment Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": "II and IV",
+      "d": "I, II, III and IV"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Fiscal Policy & Budget",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_32",
+    "year": 1995,
+    "questionNumber": 32,
+    "question": "“Monoculture of commercially viable trees is destroying the unique natural profile of ……… Thoughtless exploitation of timber, deforesting vast tracts for palm cultivation, destruction of mangroves, illegal logging by tribals and poaching only compound the problem. Fresh water pockets are fast drying up due to deforestation and destruction of mangroves.” The place referred to in this quotation is",
+    "options": {
+      "a": "Sundarbans",
+      "b": "Kerala Coast",
+      "c": "Orissa Coast",
+      "d": "Andaman and Nicobar Islands"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Water & Wetland Conservation",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_33",
+    "year": 1995,
+    "questionNumber": 33,
+    "question": "The Mughal School of Painting formed the spinal column of the various schools of Indian miniature art. Which one of the following painting styles was not affected by Mughal painting?",
+    "options": {
+      "a": "Pahari",
+      "b": "Rajasthani",
+      "c": "Kangra",
+      "d": "Kalighata"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Painting & Visual Arts",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_34",
+    "year": 1995,
+    "questionNumber": 34,
+    "question": "Who among the following were famous jurists of medieval India? I. Vijnanesvara II. Hemadri III. Rajasekhara IV. Jimutavahana Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "II, III and IV",
+      "c": "I, II and IV",
+      "d": "I and IV"
+    },
+    "answer": "c",
+    "subject": "Medieval History › Medieval Culture & Historiography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_35",
+    "year": 1995,
+    "questionNumber": 35,
+    "question": "Which of the following pairs are correctly matched? I. Increase in foreign exchange reserves ................. Monetary expansion II. Low import growth rate in India ...................... Recession in Indian Industry III. Euro issues ................ Shares held by Indian companies in European countries IV. Portfolio investment ............... Foreign institutional investors Select the correct answer by using the following codes:",
+    "options": {
+      "a": "I, II and IV",
+      "b": "III and IV",
+      "c": "I, II and III",
+      "d": "I, II, III and IV"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › External Sector & Balance Of Payments",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_36",
+    "year": 1995,
+    "questionNumber": 36,
+    "question": "Article 156 of the Constitution of India provides that a Governor shall hold office for a term of five years from the date on which he enters upon his office. Which of the following can be deduced from this? I. No Governor can be removed from office till completion of his term. II. No Governor can continue in office beyond a period of five years. Select the correct answer from the codes given below:",
+    "options": {
+      "a": "I only",
+      "b": "II only",
+      "c": "Both I and II",
+      "d": "Neither I nor II"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_37",
+    "year": 1995,
+    "questionNumber": 37,
+    "question": "Coffee cultivation in Sri Lanka was abandoned because of the disease",
+    "options": {
+      "a": "leaf blight",
+      "b": "leaf spot",
+      "c": "leaf rust",
+      "d": "rot"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Fundamental Rights",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_38",
+    "year": 1995,
+    "questionNumber": 38,
+    "question": "What is the annual growth rate aimed at in the Eighth Five-Year Plan?",
+    "options": {
+      "a": "5.6%",
+      "b": "6%",
+      "c": "6.5%",
+      "d": "7%"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_39",
+    "year": 1995,
+    "questionNumber": 39,
+    "question": "Prohibition of discrimination on grounds of religion, etc. (Article 15 of the Constitution of India) is a Fundamental Right classifiable under",
+    "options": {
+      "a": "the Right to Freedom of Religion",
+      "b": "the Right against Exploitation",
+      "c": "the Cultural and Educational Rights",
+      "d": "the Right to Equality"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_40",
+    "year": 1995,
+    "questionNumber": 40,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I List II I. Ernesto Zedillo A) Uruguay II. Alberto Fujimori B) Brazil III. Julio Maria Sanguinetti C) Mexico IV. Fernando H. Cardoso D) Bolivia E) Peru",
+    "options": {
+      "a": "I-C, II-E, III-A, IV-B",
+      "b": "I-D, II-E, III-C, IV-A",
+      "c": "I-C, II-D, III-V, IV-B",
+      "d": "I-E, II-C, III-A, IV-D"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › Notable Personalities",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_41",
+    "year": 1995,
+    "questionNumber": 41,
+    "question": "Which one of the following is the largest mutual fund organisation in India?",
+    "options": {
+      "a": "SBI Mutual Fund",
+      "b": "GIC Mutual Fund",
+      "c": "Industrial Bank Mutual Fund",
+      "d": "Unit Trust of India"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Financial Markets & Capital Markets",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_42",
+    "year": 1995,
+    "questionNumber": 42,
+    "question": "According to the Mimamsa system of philosophy, liberation is possible by means of",
+    "options": {
+      "a": "Jnana",
+      "b": "Bhakti",
+      "c": "Yoga",
+      "d": "Karma"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Philosophy & Religion",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_43",
+    "year": 1995,
+    "questionNumber": 43,
+    "question": "The lead character in the film The Bandit Queen has been played by",
+    "options": {
+      "a": "Pratibha Sinha",
+      "b": "Rupa Ganguly",
+      "c": "Seema Biswas",
+      "d": "Shabana Azmi"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Theatre & Cinema",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_44",
+    "year": 1995,
+    "questionNumber": 44,
+    "question": "The Nobel Prize for deciphering the language of bees was awarded to",
+    "options": {
+      "a": "H. G. Khurana",
+      "b": "K. V. Frisch",
+      "c": "Julian Huxley",
+      "d": "Dorothy Hodgkins"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_45",
+    "year": 1995,
+    "questionNumber": 45,
+    "question": "The palaeomagnetic results obtained from India indicate that in the past, the Indian land mass has moved",
+    "options": {
+      "a": "northward",
+      "b": "southward",
+      "c": "eastward",
+      "d": "westward"
+    },
+    "answer": "a",
+    "subject": "Geography › Physical Geography & Geomorphology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_46",
+    "year": 1995,
+    "questionNumber": 46,
+    "question": "Corporation tax",
+    "options": {
+      "a": "is levied and appropriated by the States",
+      "b": "is levied by the Union and collected and appropriated by the States",
+      "c": "is levied by the Union and shared by the Union and the States",
+      "d": "is levied by the Union and belongs to it exclusively"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Taxation",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_47",
+    "year": 1995,
+    "questionNumber": 47,
+    "question": "In which one of the following States of India is it legal for a Hindu male and illegal for a Muslim male to have more than one living wife?",
+    "options": {
+      "a": "Nagaland",
+      "b": "Mizoram",
+      "c": "Goa",
+      "d": "Arunachal Pradesh"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Social Justice & Vulnerable Sections",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_48",
+    "year": 1995,
+    "questionNumber": 48,
+    "question": "Which of the following constitute the World Bank? I. International Bank for Reconstruction and Development II. International Finance Corporation III. International Development Association IV. International Monetary Fund Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "I and II",
+      "c": "III and IV",
+      "d": "I, II, III and IV"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › International Institutions & Reports",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_49",
+    "year": 1995,
+    "questionNumber": 49,
+    "question": "Of the four places marked 1, 2, 3 and 4 on the map, the one indicating a tidal port is",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "d",
+    "subject": "Geography › Transport & Infrastructure Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_50",
+    "year": 1995,
+    "questionNumber": 50,
+    "question": "The radical wing of the Congress Party, with Jawaharlal Nehru as one of its main leaders, founded the ‘Independence for India League’ in opposition to",
+    "options": {
+      "a": "the Gandhi Irwin Pact",
+      "b": "the Home Rule Movement",
+      "c": "the Nehru Report",
+      "d": "the Montford Reforms"
+    },
+    "answer": "c",
+    "subject": "Modern History › Revolutionary & Communist Movements",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_51",
+    "year": 1995,
+    "questionNumber": 51,
+    "question": "Agricultural income tax is assigned to the State Governments by",
+    "options": {
+      "a": "the Finance Commission",
+      "b": "the National Development Council",
+      "c": "the Inter-State Council",
+      "d": "the Constitution of India"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Public Finance & Finance Commission",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_52",
+    "year": 1995,
+    "questionNumber": 52,
+    "question": "Bronze icons of Nataraja cast during the Chola period invariably show the deity with",
+    "options": {
+      "a": "eight hands",
+      "b": "six hands",
+      "c": "four hands",
+      "d": "two hands"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Sculpture & Iconography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_53",
+    "year": 1995,
+    "questionNumber": 53,
+    "question": "Willy Willy is",
+    "options": {
+      "a": "a type of tree grown in temperate regions",
+      "b": "a wind that blows in a desert",
+      "c": "a tropical cyclone of north-west Australia",
+      "d": "a kind of common fish found near Lakshadweep islands"
+    },
+    "answer": "c",
+    "subject": "Geography › Atmosphere & Climatology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_54",
+    "year": 1995,
+    "questionNumber": 54,
+    "question": "Consider the map given below indicating four places frequently figuring in the news: Which one of them is Chechenya? Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_55",
+    "year": 1995,
+    "questionNumber": 55,
+    "question": "Which one of the following is not an instrument of selective credit control in India?",
+    "options": {
+      "a": "Regulation of consumer credit",
+      "b": "Rationing of credit",
+      "c": "Margin requirements",
+      "d": "Variable reserve ratios"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Monetary Policy & Money Supply",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_56",
+    "year": 1995,
+    "questionNumber": 56,
+    "question": "The term Yavanapriya, mentioned in ancient Sanskrit texts, denoted",
+    "options": {
+      "a": "a fine variety of Indian muslin",
+      "b": "ivory",
+      "c": "damsels sent to the Greek court for dance performance",
+      "d": "pepper"
+    },
+    "answer": "d",
+    "subject": "Ancient History › Trade & Economy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_57",
+    "year": 1995,
+    "questionNumber": 57,
+    "question": "The Dinesh Goswami Committee was concerned with",
+    "options": {
+      "a": "de-nationalisation of banks",
+      "b": "electoral reforms",
+      "c": "steps to put down insurgency in the North-east",
+      "d": "the problem of the Chakmas"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Elections & Electoral Reforms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_58",
+    "year": 1995,
+    "questionNumber": 58,
+    "question": "Which one of the following monuments has a dome which is said to be one of the largest in the world?",
+    "options": {
+      "a": "Tomb of Sher Shah, Sasaram",
+      "b": "Jama Masjid, Delhi",
+      "c": "Tomb of Ghiyas-ud-din Tughlaq, Delhi",
+      "d": "Gol Gumbaz, Bijapur"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_59",
+    "year": 1995,
+    "questionNumber": 59,
+    "question": "Which one of the following is true regarding the Jawahar Rozgar Yojana (JRY)?",
+    "options": {
+      "a": "It was launched during the Prime Ministership of Indira Gandhi",
+      "b": "It aims at creating one million jobs annually",
+      "c": "The target group of JRY are the urban poor living below the poverty line",
+      "d": "Under the scheme 30% of the employment generated is reserved for women"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_60",
+    "year": 1995,
+    "questionNumber": 60,
+    "question": "Bank Rate implies the rate of interest",
+    "options": {
+      "a": "paid by the Reserve Bank of India on the deposits of Commercial Banks",
+      "b": "charged by Banks on loans and advances",
+      "c": "payable on Bonds",
+      "d": "at which the Reserve Bank of India discounts the Bills of Exchange"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Monetary Policy & Money Supply",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_61",
+    "year": 1995,
+    "questionNumber": 61,
+    "question": "Which one of the following is not explicitly stated in the Constitution of India but followed as a convention?",
+    "options": {
+      "a": "The Finance Minister is to be a member of the Lower House",
+      "b": "The Prime Minister has to resign if he loses majority in the Lower House",
+      "c": "All the parts of India are to be represented in the Council of Ministers",
+      "d": "In the event of both the President and the Vice-President demitting office simultaneously before the end of their tenure, the Speaker of the Lower House of Parliament will officiate as the President"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_62",
+    "year": 1995,
+    "questionNumber": 62,
+    "question": "Which one of the following was an émigré Communist Journal of M. N. Roy?",
+    "options": {
+      "a": "Kisan Sabha",
+      "b": "The Worker",
+      "c": "Vanguard",
+      "d": "Anushilan"
+    },
+    "answer": "c",
+    "subject": "Modern History › Revolutionary & Communist Movements",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_63",
+    "year": 1995,
+    "questionNumber": 63,
+    "question": "In which one of the following crops international trade is low in the context of total produce?",
+    "options": {
+      "a": "Rice",
+      "b": "Coffee",
+      "c": "Rubber",
+      "d": "Wheat"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Banking & Financial Sector",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_64",
+    "year": 1995,
+    "questionNumber": 64,
+    "question": "The Narasimham Committee for Financial Sector Reforms has suggested reduction in",
+    "options": {
+      "a": "SLR and CRR",
+      "b": "SLR, CRR and Priority Sector Financing",
+      "c": "SLR and financing to capital goods sector",
+      "d": "CRR, Priority Sector Financing and financing to capital goods sector"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_65",
+    "year": 1995,
+    "questionNumber": 65,
+    "question": "Which of the following are the States in which the Lok Ayukta Act includes the Chief Minister in its ambit?",
+    "options": {
+      "a": "West Bengal and Kerala",
+      "b": "Gujarat and Maharashtra",
+      "c": "Madhya Pradesh and Orissa",
+      "d": "Rajasthan and Karnataka"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Constitutional & Statutory Bodies",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_66",
+    "year": 1995,
+    "questionNumber": 66,
+    "question": "Ashtapradhan was a Council of Ministers",
+    "options": {
+      "a": "in the Gupta Administration",
+      "b": "in the Chola Administration",
+      "c": "in the Vijayanagar Administration",
+      "d": "in the Maratha Administration"
+    },
+    "answer": "d",
+    "subject": "Medieval History › Maratha Empire",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_67",
+    "year": 1995,
+    "questionNumber": 67,
+    "question": "The Indian subcontinent was originally part of a huge land mass called",
+    "options": {
+      "a": "Jurassic Land Mass",
+      "b": "Aryavarta",
+      "c": "Indiana",
+      "d": "Gondwana Continent"
+    },
+    "answer": "d",
+    "subject": "Geography › Physical Geography & Geomorphology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_68",
+    "year": 1995,
+    "questionNumber": 68,
+    "question": "Which of the following are correctly matched? I. Hamas — Palestinian extremist group II. Sinn Fein — IRA’s political wing III. True Path Party — A major constituent of the ruling coalition in Turkey Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": "I, II and III",
+      "d": "II and III"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_69",
+    "year": 1995,
+    "questionNumber": 69,
+    "question": "Which one of the following does not belong to biosphere reserves set up so far?",
+    "options": {
+      "a": "Great Nicobar",
+      "b": "Sunderbans",
+      "c": "Nanda Devi",
+      "d": "Gulf of Kachchh"
+    },
+    "answer": "d",
+    "subject": "Environment & Ecology › Protected Areas & Wildlife",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_70",
+    "year": 1995,
+    "questionNumber": 70,
+    "question": "Consider the map given below: The route indicated in the map was followed, during the course of his military exploits, by",
+    "options": {
+      "a": "Chandragupta II",
+      "b": "Harshavardhana",
+      "c": "Rajendra Chola",
+      "d": "Malik Kafur"
+    },
+    "answer": "d",
+    "subject": "Medieval History › Delhi Sultanate",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_71",
+    "year": 1995,
+    "questionNumber": 71,
+    "question": "The clouds float in the atmosphere because of their low",
+    "options": {
+      "a": "temperature",
+      "b": "velocity",
+      "c": "pressure",
+      "d": "density"
+    },
+    "answer": "d",
+    "subject": "Geography › Atmosphere & Climatology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_72",
+    "year": 1995,
+    "questionNumber": 72,
+    "question": "Which one of the following mountain ranges is spread over only one State in India?",
+    "options": {
+      "a": "Aravalli",
+      "b": "Satpura",
+      "c": "Ajanta",
+      "d": "Sahyadri"
+    },
+    "answer": "c",
+    "subject": "Medieval History › European Powers & Early Colonial Contacts",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_73",
+    "year": 1995,
+    "questionNumber": 73,
+    "question": "Hugly was used as a base for piracy in the Bay of Bengal by",
+    "options": {
+      "a": "the Portuguese",
+      "b": "the French",
+      "c": "the Danish",
+      "d": "the British"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_74",
+    "year": 1995,
+    "questionNumber": 74,
+    "question": "In the field of space technology, India has demonstrated during 1994 her capability to",
+    "options": {
+      "a": "design advanced inter-continental ballistic missile warning systems",
+      "b": "build satellites",
+      "c": "build stealth missiles",
+      "d": "launch geo-stationary satellites"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_75",
+    "year": 1995,
+    "questionNumber": 75,
+    "question": "The ‘Modi script’ was employed in the documents of the",
+    "options": {
+      "a": "Wodeyars",
+      "b": "Zamorins",
+      "c": "Hoysalas",
+      "d": "Marathas"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_76",
+    "year": 1995,
+    "questionNumber": 76,
+    "question": "One of the reasons for India’s occupational structure remaining more or less the same over the years has been that",
+    "options": {
+      "a": "investment pattern has been directed towards capital-intensive industries",
+      "b": "productivity in agriculture has been high enough to induce people to stay with agriculture",
+      "c": "ceilings on land holdings have enabled more people to own land and hence their preference to stay with agriculture",
+      "d": "people are largely unaware of the significance of transition from agriculture to industry for economic development"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_77",
+    "year": 1995,
+    "questionNumber": 77,
+    "question": "Which one of the following countries had in 1994 voted against joining the European Union?",
+    "options": {
+      "a": "Norway",
+      "b": "Sweden",
+      "c": "Finland",
+      "d": "Austria"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_78",
+    "year": 1995,
+    "questionNumber": 78,
+    "question": "Examine the map given below: The places marked 1, 2, 3 and 4 were respectively the seats of powers of the",
+    "options": {
+      "a": "Scindias, Holkars, Gaekwads and Bhonsles",
+      "b": "Holkars, Scindias, Gaekwads and Bhonsles",
+      "c": "Gaekwads, Bhonsles, Scindias and Holkars",
+      "d": "Scindias, Holkars, Bhonsles and Gaekwads"
+    },
+    "answer": "a",
+    "subject": "Modern History › Advent Of Europeans & British Expansion",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_79",
+    "year": 1995,
+    "questionNumber": 79,
+    "question": "Which of the following benefits are likely to accrue to India from the World Trade Organisation? I. India’s share in the world trade is to go up from the present 600 million US dollars to 5 billion US dollars by 2000 A.D. II. It will help boost exports of agricultural commodities from India. III. India’s share in the world trade is likely to triple by the year 2000 A.D. Select the correct answer using the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "I and II",
+      "c": "I and III",
+      "d": "II and III"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › International Trade & WTO",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_80",
+    "year": 1995,
+    "questionNumber": 80,
+    "question": "Comet Shoemaker-Levy 9 hit the planet",
+    "options": {
+      "a": "Pluto",
+      "b": "Mars",
+      "c": "Jupiter",
+      "d": "Saturn"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_81",
+    "year": 1995,
+    "questionNumber": 81,
+    "question": "Which one of the following pairs is correctly matched?",
+    "options": {
+      "a": "Battle of Buxar — Mir Jafar vs. Clive",
+      "b": "Battle of Wandiwash — French vs. East India Company",
+      "c": "Battle of Chilianwala — Dalhousie vs. Marathas",
+      "d": "Battle of Kharda — Nizam vs. East India Company"
+    },
+    "answer": "b",
+    "subject": "Modern History › Advent Of Europeans & British Expansion",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_82",
+    "year": 1995,
+    "questionNumber": 82,
+    "question": "Examine the following statements: medium I. All children are inquisitive. II. Some children are inquisitive. III. No children are inquisitive. IV. Some children are not inquisitive. Among these statements, the two statements which cannot both be true simultaneously but can both be false would be",
+    "options": {
+      "a": "I and III",
+      "b": "I and IV",
+      "c": "II and III",
+      "d": "III and IV"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Logical Reasoning",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_83",
+    "year": 1995,
+    "questionNumber": 83,
+    "question": "83. Arakan Yoma is the extension of the Himalayas located in",
+    "options": {
+      "a": "Baluchistan",
+      "b": "Myanmar",
+      "c": "Nepal",
+      "d": "Kashmir"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_84",
+    "year": 1995,
+    "questionNumber": 84,
+    "question": "84. The signatories to the treaty banning chemical weapons include",
+    "options": {
+      "a": "USA, Russia, India, Iran and Israel",
+      "b": "Iraq, Libya, India, Russia and China",
+      "c": "Brazil, Angola, North Korea, Pakistan and USA",
+      "d": "Syria, Sri Lanka, Japan, Singapore and France"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Relations & Treaties",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_85",
+    "year": 1995,
+    "questionNumber": 85,
+    "question": "85. What is the correct sequence of the following events? I. The Lucknow Pact II. The Introduction of Dyarchy III. The Rowlatt Act IV. The Partition of Bengal Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II, III, IV",
+      "b": "IV, I, III, II",
+      "c": "I, III, II, IV",
+      "d": "IV, III, II, I"
+    },
+    "answer": "b",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_86",
+    "year": 1995,
+    "questionNumber": 86,
+    "question": "86. The national highway from Delhi to Calcutta via Mathura and Varanasi is numbered",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "8"
+    },
+    "answer": "b",
+    "subject": "Modern History › Peasant, Tribal & Labour Movements",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_87",
+    "year": 1995,
+    "questionNumber": 87,
+    "question": "87. The word Adivasi was used for the first time to refer to the tribal people by",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Thakkar Bappa",
+      "c": "Jyotiba Phule",
+      "d": "B.R. Ambedkar"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_88",
+    "year": 1995,
+    "questionNumber": 88,
+    "question": "88. The concept of Anuvrata was advocated by",
+    "options": {
+      "a": "Mahayana Buddhism",
+      "b": "Hinayana Buddhism",
+      "c": "Jainism",
+      "d": "the Lokayata school"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Philosophy & Religion",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_89",
+    "year": 1995,
+    "questionNumber": 89,
+    "question": "89. Indian Polity › Local Government & Panchayati Raj Which one of the following is incorrect in respect of Local Government in India?",
+    "options": {
+      "a": "According to the Indian Constitution, local government is not an independent tier in the federal system",
+      "b": "30% of the seats in local bodies are reserved for women",
+      "c": "Local government finances are to be provided by a Commission",
+      "d": "Elections to local bodies are to be determined by a Commission"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_90",
+    "year": 1995,
+    "questionNumber": 90,
+    "question": "90. The Barrah dacoity was the first major venture of the revolutionary terrorist of the freedom movement in",
+    "options": {
+      "a": "Bombay Karnataka",
+      "b": "Punjab",
+      "c": "East Bengal",
+      "d": "The Madras Presidency"
+    },
+    "answer": "c",
+    "subject": "Modern History › Revolutionary & Communist Movements",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_91",
+    "year": 1995,
+    "questionNumber": 91,
+    "question": "91. Modern History › Advent Of Europeans & British Expansion Which one of the following pairs is correctly matched?",
+    "options": {
+      "a": "Battle of Buxar — Mir Jafar vs. Clive",
+      "b": "Battle of Wandiwash — French vs. East India Company",
+      "c": "Battle of Chilianwala — Dalhousie vs. Marathas",
+      "d": "Battle of Kharda — Nizam vs. East India Company"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_92",
+    "year": 1995,
+    "questionNumber": 92,
+    "question": "92. Indian Polity › Elections & Electoral Reforms Which of the following political parties is/are national political parties? I. Muslim League II. Revolutionary Socialist Party III. All India Forward Block IV. Peasants and Workers Party of India Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I, II and III",
+      "b": "II and IV",
+      "c": "III only",
+      "d": "None of the above"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_93",
+    "year": 1995,
+    "questionNumber": 93,
+    "question": "93. The main reason for low growth rate in India, in spite of high rate of savings and capital formation is",
+    "options": {
+      "a": "high birth rate",
+      "b": "low level of foreign aid",
+      "c": "low capital / output ratio",
+      "d": "high capital / output ratio"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › National Income & Economic Growth",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_94",
+    "year": 1995,
+    "questionNumber": 94,
+    "question": "94. Examine the map of Jammu and Kashmir given below: The mountain ranges marked 1, 2, 3 and 4 are respectively",
+    "options": {
+      "a": "Ladakh, Zanskar, Karakoram and Pir Panjal",
+      "b": "Karakoram, Ladakh, Zanskar and Pir Panjal",
+      "c": "Karakoram, Zanskar, Pir Panjal and Ladakh",
+      "d": "Ladakh, Pir Panjal, Karakoram and Zanskar"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Physical Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_95",
+    "year": 1995,
+    "questionNumber": 95,
+    "question": "95. The largest source of financing the public sector outlay of the Eighth Five-Year Plan comes from",
+    "options": {
+      "a": "balance from current revenue",
+      "b": "contribution of public enterprises",
+      "c": "government borrowings",
+      "d": "deficit financing"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Economic Planning & Five-Year Plans",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_96",
+    "year": 1995,
+    "questionNumber": 96,
+    "question": "96. The new Exim Policy announced in 1992 is for a period of",
+    "options": {
+      "a": "3 years",
+      "b": "4 years",
+      "c": "7 years",
+      "d": "5 years"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Banking & Financial Sector",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_97",
+    "year": 1995,
+    "questionNumber": 97,
+    "question": "97. Consider the following: I. Industrial Finance Corporation of India II. Industrial Credit and Investment Corporation of India III. Industrial Development Bank of India IV. Unit Trust of India The correct sequence in which the above was established is",
+    "options": {
+      "a": "I, II, IV, III",
+      "b": "I, III, II, IV",
+      "c": "IV, III, II, I",
+      "d": "I, IV, III, II"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_98",
+    "year": 1995,
+    "questionNumber": 98,
+    "question": "98. In 1930 Mahatma Gandhi started Civil Disobedience Movement from",
+    "options": {
+      "a": "Sevagram",
+      "b": "Dandi",
+      "c": "Sabarmati",
+      "d": "Wardha"
+    },
+    "answer": "c",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_99",
+    "year": 1995,
+    "questionNumber": 99,
+    "question": "99. If in an election to a State Legislative Assembly the candidate who is declared elected loses his deposit, it means that",
+    "options": {
+      "a": "the polling was very poor",
+      "b": "the election was for a multi-member constituency",
+      "c": "the elected candidate’s victory over his nearest rival was very marginal",
+      "d": "a very large number of candidates contested the election"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Elections & Electoral Reforms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_100",
+    "year": 1995,
+    "questionNumber": 100,
+    "question": "100. Modern History › Social & Religious Reform Movements Which one of the following pairs is not correctly matched?",
+    "options": {
+      "a": "Jamnalal Bajaj — Satyagraha Ashram at Wardha",
+      "b": "Dadabhai Naoroji — Bombay Association",
+      "c": "Lala Lajpat Rai — National School at Lahore",
+      "d": "Bal Gangadhar Tilak — Satya Shodhak Sabha"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_101",
+    "year": 1995,
+    "questionNumber": 101,
+    "question": "101. Science & Technology › Chemistry Which one of the following is a mixed fertilizer?",
+    "options": {
+      "a": "CAM",
+      "b": "Urea",
+      "c": "Ammonium Sulphate",
+      "d": "NPK"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_102",
+    "year": 1995,
+    "questionNumber": 102,
+    "question": "102. Science & Technology › Materials & Engineering Which one of the following polymers is widely used for making bullet-proof material?",
+    "options": {
+      "a": "Polyvinyl chloride",
+      "b": "Polyamides",
+      "c": "Polyethylene",
+      "d": "Polycarbonates"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_103",
+    "year": 1995,
+    "questionNumber": 103,
+    "question": "103. The chemical used as a ‘fixer’ in photography is",
+    "options": {
+      "a": "sodium sulphate",
+      "b": "sodium thiosulphate",
+      "c": "ammonium persulphate",
+      "d": "borax"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_104",
+    "year": 1995,
+    "questionNumber": 104,
+    "question": "104. The technique used to transmit audio signals in television broadcasts is",
+    "options": {
+      "a": "Amplitude Modulation",
+      "b": "Frequency Modulation",
+      "c": "Pulse Code Modulation",
+      "d": "Time Division Multiplexing"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Computer & Information Technology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_105",
+    "year": 1995,
+    "questionNumber": 105,
+    "question": "105. A parachutist jumps from a height of 5000 metres. The relationship between his falling speed ‘v’ and the distance fallen through ‘d’ is best represented as (four graphs labelled a, b, c, d).",
+    "options": {
+      "a": "Graph (a)",
+      "b": "Graph (b)",
+      "c": "Graph (c)",
+      "d": "Graph (d)"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_106",
+    "year": 1995,
+    "questionNumber": 106,
+    "question": "106. Which one of the following can be used to confirm whether drinking water contains a gamma-emitting isotope or not?",
+    "options": {
+      "a": "Microscope",
+      "b": "Lead plate",
+      "c": "Scintillation counter",
+      "d": "Spectrophotometer"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_107",
+    "year": 1995,
+    "questionNumber": 107,
+    "question": "107. The normal temperature of human body on the Kelvin scale is",
+    "options": {
+      "a": "280",
+      "b": "290",
+      "c": "300",
+      "d": "310"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_108",
+    "year": 1995,
+    "questionNumber": 108,
+    "question": "108. When the same note is played on a sitar and a flute, the sound produced can be distinguished from each other because of the difference in",
+    "options": {
+      "a": "pitch, loudness and quality",
+      "b": "pitch and loudness",
+      "c": "quality only",
+      "d": "loudness only"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_109",
+    "year": 1995,
+    "questionNumber": 109,
+    "question": "109. Assertion (A): A diamond sparkles more than a glass imitation cut to the same shape. Reason (R): The refractive index of diamond is less than that of glass. In the context of the above two statements, which one of the following is correct?",
+    "options": {
+      "a": "Both A and R are true, and R is the correct explanation of A",
+      "b": "Both A and R are true, but R is not a correct explanation of A",
+      "c": "A is true, but R is false",
+      "d": "A is false, but R is true"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_110",
+    "year": 1995,
+    "questionNumber": 110,
+    "question": "110. Who among the following anticipated Newton by declaring that all things gravitate to the earth?",
+    "options": {
+      "a": "Aryabhata",
+      "b": "Varahamihira",
+      "c": "Buddha Gupta",
+      "d": "Brahmagupta"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Science & Technology History",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_111",
+    "year": 1995,
+    "questionNumber": 111,
+    "question": "111. Optical fibre works on the principle of",
+    "options": {
+      "a": "total internal reflection",
+      "b": "refraction",
+      "c": "scattering",
+      "d": "interference"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_112",
+    "year": 1995,
+    "questionNumber": 112,
+    "question": "112. Suppose a rocketship is receding from the earth at a speed of 2⁄10th the velocity of light. A light in the rocketship appears blue to the passengers on the ship. What colour would it appear to an observer on the earth?",
+    "options": {
+      "a": "Blue",
+      "b": "Orange",
+      "c": "Yellow",
+      "d": "Yellow-orange"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_113",
+    "year": 1995,
+    "questionNumber": 113,
+    "question": "113. Science & Technology › Energy & Environment Which one of the following pairs of materials serves as electrodes in chargeable batteries commonly used in devices such as torchlights, electric shavers, etc.?",
+    "options": {
+      "a": "Nickel and cadmium",
+      "b": "Zinc and carbon",
+      "c": "Lead peroxide and lead",
+      "d": "Iron and cadmium"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_114",
+    "year": 1995,
+    "questionNumber": 114,
+    "question": "114. Cryogenic engines find applications in",
+    "options": {
+      "a": "sub-marine propulsion",
+      "b": "frost-free refrigerators",
+      "c": "rocket technology",
+      "d": "researches in superconductivity"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_115",
+    "year": 1995,
+    "questionNumber": 115,
+    "question": "An air bubble in water will act like a",
+    "options": {
+      "a": "convex mirror",
+      "b": "convex lens",
+      "c": "concave mirror",
+      "d": "concave lens"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_116",
+    "year": 1995,
+    "questionNumber": 116,
+    "question": "The difference between a nuclear reactor and an atomic bomb is that",
+    "options": {
+      "a": "no chain reaction takes place in nuclear reactor while in the atomic bomb there is a chain reaction",
+      "b": "the chain reaction in nuclear reactor is controlled",
+      "c": "the chain reaction in nuclear reactor is not controlled",
+      "d": "no chain reaction takes place in atomic bomb while it takes place in nuclear reactor"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Energy & Environment",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_117",
+    "year": 1995,
+    "questionNumber": 117,
+    "question": "Which one of the following fuels causes minimum environmental pollution?",
+    "options": {
+      "a": "Diesel",
+      "b": "Coal",
+      "c": "Hydrogen",
+      "d": "Kerosene"
+    },
+    "answer": "c",
+    "subject": "Ancient History › Science & Technology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_118",
+    "year": 1995,
+    "questionNumber": 118,
+    "question": "Zero was invented by",
+    "options": {
+      "a": "Aryabhata",
+      "b": "Varahamihira",
+      "c": "Bhaskara I",
+      "d": "an unknown Indian"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_120",
+    "year": 1995,
+    "questionNumber": 120,
+    "question": "A person with ‘AB’ blood group is sometimes called a universal recipient because of the",
+    "options": {
+      "a": "lack of antigen in his blood",
+      "b": "lack of antibodies in his blood",
+      "c": "lack of both antigens and antibodies in his blood",
+      "d": "presence of antibodies in his blood"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_121",
+    "year": 1995,
+    "questionNumber": 121,
+    "question": "Which one of the following is a membrane that protects the developing embryo from desiccation?",
+    "options": {
+      "a": "Amnion",
+      "b": "Allantois",
+      "c": "Chorion",
+      "d": "Yolk sac"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_122",
+    "year": 1995,
+    "questionNumber": 122,
+    "question": "Which one of the following antimicrobial drugs is suitable for treatment of both tuberculosis and leprosy?",
+    "options": {
+      "a": "Isoniazid",
+      "b": "p-aminosalicylic acid",
+      "c": "Streptomycin",
+      "d": "Rifampicin"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_123",
+    "year": 1995,
+    "questionNumber": 123,
+    "question": "Most of the desert plants bloom during night time because",
+    "options": {
+      "a": "their blooming is controlled by low temperature",
+      "b": "they are sensitive to the phases of moon",
+      "c": "the desert insects eat away flowers during day time",
+      "d": "the desert insects are active during night time"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_124",
+    "year": 1995,
+    "questionNumber": 124,
+    "question": "The only snake that builds a nest is",
+    "options": {
+      "a": "Chain viper",
+      "b": "King Cobra",
+      "c": "Krait",
+      "d": "Saw scaled viper"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_125",
+    "year": 1995,
+    "questionNumber": 125,
+    "question": "Which of the following elements are present in all proteins? I. Carbon II. Hydrogen III. Oxygen IV. Nitrogen Select the correct answer from the codes given below:",
+    "options": {
+      "a": "I and II",
+      "b": "I, II and IV",
+      "c": "I, III and IV",
+      "d": "I, II, III and IV"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_126",
+    "year": 1995,
+    "questionNumber": 126,
+    "question": "Which one of the following hormones contains iodine?",
+    "options": {
+      "a": "Thyroxine",
+      "b": "Testosterone",
+      "c": "Insulin",
+      "d": "Adrenaline"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_127",
+    "year": 1995,
+    "questionNumber": 127,
+    "question": "“By weaving threads of physics, chemistry and biology into a rich tapestry, this remarkable scientist provided a unifying molecular view of the world... He touted the wonderful properties of Vitamin C first as a cure of common cold and later as a preventive agent against cancer.” One of science’s major figures of all time referred to above is",
+    "options": {
+      "a": "G.N. Lewis",
+      "b": "Linus Carl Pauling",
+      "c": "Fritz London",
+      "d": "Walter Heitler"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Science & Technology History",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_128",
+    "year": 1995,
+    "questionNumber": 128,
+    "question": "“The final Agent Orange raid in Vietnam took place in 1970…. areas have begun to bloom again. But 19 years after the war’s end, it seems plain that Agent Orange is killing and maiming human beings, something it never intended to do. The apparent toxic fall-out from those clouds ... is a crop of human miseries including cancers, miscarriages and birth defects — that may persist for decades.” The offensive substance referred to in the above quotation is",
+    "options": {
+      "a": "DDT used as insecticide",
+      "b": "a complex mixture of herbicides and weedicides used to increase agricultural output in the then South Vietnam under the US aid programme",
+      "c": "a complex mixture of DDT and other insecticides used as aerial sprays for protection against malaria and other tropical diseases",
+      "d": "dioxin used as defoliants"
+    },
+    "answer": "d",
+    "subject": "Environment & Ecology › Pollution & Waste Management",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_129",
+    "year": 1995,
+    "questionNumber": 129,
+    "question": "“It begins as a single cell and grows into a merciless disease that claims millions of lives year after year. But scientists are steadily unlocking its mysteries, and the fight against it may now have reached a dramatic turning point. New discoveries promise better therapies and hope in the war against ...” The disease referred to in the above quotation is",
+    "options": {
+      "a": "Cancer",
+      "b": "AIDS",
+      "c": "Tuberculosis",
+      "d": "Alzheimer’s disease"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_130",
+    "year": 1995,
+    "questionNumber": 130,
+    "question": "‘Yellow cake’, an item of smuggling across borders is",
+    "options": {
+      "a": "a crude form of heroin",
+      "b": "a crude form of cocaine",
+      "c": "uranium oxide",
+      "d": "unrefined gold"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Energy & Environment",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_131",
+    "year": 1995,
+    "questionNumber": 131,
+    "question": "Consider the series given below: 4/12/95, 1/1/96, 29/1/96, 26/2/96... The next term of the series is",
+    "options": {
+      "a": "24/3/96",
+      "b": "25/3/96",
+      "c": "26/3/96",
+      "d": "27/3/96"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_132",
+    "year": 1995,
+    "questionNumber": 132,
+    "question": "In track meets both 100 yards and 100 metres are used as distances. By how many metres is 100 metres longer than 100 yards?",
+    "options": {
+      "a": "0.856 m",
+      "b": "8.56 m",
+      "c": "0.0856 m",
+      "d": "1.0 m"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_133",
+    "year": 1995,
+    "questionNumber": 133,
+    "question": "Examine the following statements: I watch TV only if I am bored. I am never bored when I have my brother’s company. Whenever I go to the theatre, I take my brother along. Which one of the following conclusions is valid in the context of the above statements?",
+    "options": {
+      "a": "If I am bored, I watch TV",
+      "b": "If I am bored, I seek my brother’s company",
+      "c": "If I am not with my brother, then I watch TV",
+      "d": "If I am not bored, I do not watch TV"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_134",
+    "year": 1995,
+    "questionNumber": 134,
+    "question": "In the given diagram, circle A represents teachers who can teach Physics, circle B represents teachers who can teach Chemistry and circle C represents those who can teach Mathematics. Among the regions marked p, q, r, s, t, u and v, the one which represents teachers who can teach Physics and Mathematics but not Chemistry, is",
+    "options": {
+      "a": "v",
+      "b": "u",
+      "c": "s",
+      "d": "t"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_135",
+    "year": 1995,
+    "questionNumber": 135,
+    "question": "Seven men, A, B, C, D, E, F and G are standing in a queue in that order. Each one is wearing a cap of a different colour like violet, indigo, blue, green, yellow, orange and red. D is able to see in front of him green and blue but not violet. E can see violet and yellow, but not red. G can see caps of all colours other than orange. If E is wearing an indigo-coloured cap, then the colour of the cap worn by F is",
+    "options": {
+      "a": "blue",
+      "b": "violet",
+      "c": "red",
+      "d": "orange"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_136",
+    "year": 1995,
+    "questionNumber": 136,
+    "question": "A person travelled from one place to another at an average speed of 40 kilometres/hour and back to the original place at an average speed of 50 kilometres/hour. What is his average speed in kilometres/hour during the entire roundtrip?",
+    "options": {
+      "a": "45",
+      "b": "20",
+      "c": "400/9",
+      "d": "Impossible to find out unless the distance between the two places is known"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_137",
+    "year": 1995,
+    "questionNumber": 137,
+    "question": "The value of (a – m)(b – m) … (y – m)(z – m) is",
+    "options": {
+      "a": "m26 + am25 + abm24 + … + a.b.c … z",
+      "b": "m26 – am25 + abm24 + … – a.b.c … z",
+      "c": "0",
+      "d": "Indeterminate"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_138",
+    "year": 1995,
+    "questionNumber": 138,
+    "question": "A rectangular sump of dimensions 6 m × 5 m × 4 m is to be built by using bricks to make the outer dimension 6.2 m × 5.2 m × 4.2 m. Approximately how many bricks of size 20 cm × 10 cm × 5 cm are required to build the sump for storing water?",
+    "options": {
+      "a": "1500",
+      "b": "3000",
+      "c": "15000",
+      "d": "30000"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_139",
+    "year": 1995,
+    "questionNumber": 139,
+    "question": "Consider the figure given below: PQRS is a square of side 1 unit and Q, S are the centres of the two circles. The area of the shaded portion is",
+    "options": {
+      "a": "π/2",
+      "b": "1/2",
+      "c": "π/4 – 1/2",
+      "d": "π/2 – 1"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_140",
+    "year": 1995,
+    "questionNumber": 140,
+    "question": "A thief running at 8 km/hr is chased by a policeman whose speed is 10 km/hr. If the thief is 100 metres ahead of the policeman, then the time required for the policeman to catch the thief will be",
+    "options": {
+      "a": "2 minutes",
+      "b": "6 minutes",
+      "c": "10 minutes",
+      "d": "3 minutes"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_141",
+    "year": 1995,
+    "questionNumber": 141,
+    "question": "A student has 60% chance of passing in English and 54% chance of passing in both English and Mathematics. What is the percentage probability that he will fail in Mathematics?",
+    "options": {
+      "a": "12",
+      "b": "36",
+      "c": "4",
+      "d": "10"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_142",
+    "year": 1995,
+    "questionNumber": 142,
+    "question": "One of the drawers is opened at random and a coin is drawn. It is found to be a silver coin. What is the probability that the other coin in the drawer is a gold coin?",
+    "options": {
+      "a": "0.25",
+      "b": "1.00",
+      "c": "0.50",
+      "d": "0.60"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_143",
+    "year": 1995,
+    "questionNumber": 143,
+    "question": "In the Cartesian plane four points P, Q, R, S have coordinates (1, 1), (4, 2), (4, 4) and (1, 4). The area of the quadrilateral PQRS is",
+    "options": {
+      "a": "9",
+      "b": "7.5",
+      "c": "4.5",
+      "d": "Impossible to find unless the lengths of the diagonals are known"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_144",
+    "year": 1995,
+    "questionNumber": 144,
+    "question": "Consider the diagram given below: (Pie-chart showing family expenditure with segments labelled T: Transport, Ec: Education of children, H: Housing, C: Clothing, F: Food, S: Savings, O: Others.) From the diagram shown it would be right to conclude that",
+    "options": {
+      "a": "the family spent more than half the income on food and clothing",
+      "b": "the amount saved by the family was too little",
+      "c": "the family had no health problems",
+      "d": "the family managed to meet all the essential expenses out of the income earned"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › National Income & Economic Growth",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_145",
+    "year": 1995,
+    "questionNumber": 145,
+    "question": "Consider the table given below providing details of traffic volume per hour for four locations (showing total traffic volume, % of heavy vehicles, average noise level in dB(A) and noise-pollution level in dB(A)). When the total traffic volume is the same, the factor(s) which affect(s) the noise-pollution level is/are",
+    "options": {
+      "a": "% of heavy vehicles",
+      "b": "noise-pollution level and average noise level",
+      "c": "average noise level and % of heavy vehicles",
+      "d": "indeterminable on the basis of details given"
+    },
+    "answer": "a",
+    "subject": "Environment & Ecology › Pollution & Waste Management",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_146",
+    "year": 1995,
+    "questionNumber": 146,
+    "question": "The price fluctuations of 4 scrips in a stock market in the four quarters of a year are shown in the table below. Four different investors had the following portfolios of investment in the four companies throughout the year: Investor 1: 10 of A, 20 of B, 30 of C and 40 of D Investor 2: 40 of A, 10 of B, 20 of C and 30 of D Investor 3: 30 of A, 40 of B, 10 of C and 20 of D Investor 4: 20 of A, 30 of B, 40 of C and 10 of D In the light of the above, which one of the following statements is correct?",
+    "options": {
+      "a": "Investor 2 has made the best investment",
+      "b": "Investor 1 has made the best investment",
+      "c": "Investor 2 suffered a net loss during the year",
+      "d": "Investor 3 suffered a net loss during the year"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Financial Markets & Capital Markets",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_147",
+    "year": 1995,
+    "questionNumber": 147,
+    "question": "X and Y are two variables whose values at any time are related to each other as shown in Fig. (i). X is known to vary periodically with reference to time as shown in Fig. (ii). Which of the following curves depicts correctly the dependence of Y on time?",
+    "options": {
+      "a": "curve (a) shown in the figure",
+      "b": "curve (b) shown in the figure",
+      "c": "curve (c) shown in the figure",
+      "d": "curve (d) shown in the figure"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_148",
+    "year": 1995,
+    "questionNumber": 148,
+    "question": "Out of a total of 120 musicians in a club, 5 % can play all the three instruments—guitar, violin and flute. It so happens that the number of musicians who can play any two and only two of the above instruments is 30. The number of musicians who can play the guitar alone is 40. What is the total number of those who can play violin alone or flute alone?",
+    "options": {
+      "a": "45",
+      "b": "44",
+      "c": "38",
+      "d": "30"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_149",
+    "year": 1995,
+    "questionNumber": 149,
+    "question": "Which of the following can be inferred from the statement that “Either John is stupid or John is lazy”? I. John is lazy / therefore, John is not stupid. II. John is not lazy / therefore, John is stupid. III. John is not stupid / therefore, John is lazy. IV. John is stupid / therefore, John is not lazy. Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I and II",
+      "b": "II and III",
+      "c": "III and IV",
+      "d": "I and IV"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1995_150",
+    "year": 1995,
+    "questionNumber": 150,
+    "question": "A person earns Rs 2000 per month over and above his salary as additional charge allowance. However, 30 % of this additional income will be deducted as additional income tax at source. If the person would deposit Rs 1000 per month in a long-term saving fetching 12 % interest, his tax liability on the additional allowance would reduce to 10 %. What is the effective interest for this person for money invested in the long-term savings scheme?",
+    "options": {
+      "a": "12 %",
+      "b": "18 %",
+      "c": "19 %",
+      "d": "20 %"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "difficult",
+    "explanation": ""
+  }
+]

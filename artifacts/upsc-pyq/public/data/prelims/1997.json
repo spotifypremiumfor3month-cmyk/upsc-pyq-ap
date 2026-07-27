@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "prelims_1997_1",
+    "year": 1997,
+    "questionNumber": 1,
+    "question": "About 50% of the world population is concentrated between the latitudes of",
+    "options": {
+      "a": "5°N and 20°N",
+      "b": "20°N and 40°N",
+      "c": "40°N and 60°N",
+      "d": "20°S and 40°S"
+    },
+    "answer": "b",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_2",
+    "year": 1997,
+    "questionNumber": 2,
+    "question": "After consolidating his power, Balban assumed the grand title of",
+    "options": {
+      "a": "Tute-i-Hind",
+      "b": "Kaisr-i-Hind",
+      "c": "Zil-i-Ilahi",
+      "d": "Din-i-Ilahi"
+    },
+    "answer": "c",
+    "subject": "Medieval History › Delhi Sultanate",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_3",
+    "year": 1997,
+    "questionNumber": 3,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Climatic Conditions) I. Chennai is warmer than Calcutta II. Snowfall in Himalayas III. Rainfall decreases from Depressions IV. Sutlej-Ganga Plain gets some rain in winter List II (Reasons) A) North-east Monsoon B) Altitude C) Western West Bengal to Punjab D) Distance from sea E) Latitude Codes:",
+    "options": {
+      "a": "I-A, II-B, III-D, IV-E",
+      "b": "I-D, II-E, III-A, IV-C",
+      "c": "I-E, II-B, III-D, IV-C",
+      "d": "I-E, II-A, III-C, IV-D"
+    },
+    "answer": "c",
+    "subject": "Geography › Atmosphere & Climatology",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_4",
+    "year": 1997,
+    "questionNumber": 4,
+    "question": "The economic and monetary union of 15 European Countries is proposed to be made by 1999. But the currencies of two countries, Franc, have already the same value and circulate freely in both the countries. The countries are",
+    "options": {
+      "a": "France and Switzerland",
+      "b": "Switzerland and Luxembourg",
+      "c": "Luxembourg and Belgium",
+      "d": "France and Belgium"
+    },
+    "answer": "c",
+    "subject": "Current Affairs › International Organisations & Groupings",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_5",
+    "year": 1997,
+    "questionNumber": 5,
+    "question": "The average rate of domestic savings (gross) for the Indian economy is currently estimated to be in the range of",
+    "options": {
+      "a": "15 to 20 per cent",
+      "b": "20 to 25 per cent",
+      "c": "25 to 30 per cent",
+      "d": "30 to 35 per cent"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › National Income & Economic Growth",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_6",
+    "year": 1997,
+    "questionNumber": 6,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I I. Butler Committee II. Hurtog Committee Report III. Hunter Inquiry Committee Report IV. Muddiman Committee Report List II A) Jallianwala Bagh Massacre Report B) Relationship between the Indian States and Paramount Power C) Working of Dyarchy as laid down in the Montague-Chelmsford Reforms D) The growth of education in British India and potentialities of its further progress Codes:",
+    "options": {
+      "a": "I-C, II-B, III-A, IV-D",
+      "b": "I-A, II-D, III-B, IV-C",
+      "c": "I-B, II-A, III-C, IV-D",
+      "d": "I-B, II-D, III-A, IV-C"
+    },
+    "answer": "d",
+    "subject": "Modern History › Constitutional Developments & British Plans (1909-1947)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_7",
+    "year": 1997,
+    "questionNumber": 7,
+    "question": "Match List I with List II and select the correct answer using the codes given below the lists: List I I. Deccan Traps II. Western Ghats III. Aravalli IV. Narmada-Tapi List II A) Late Cenozoic B) Pre-Cambrian C) Cretaceous-Eocene D) Cambrian Alluvial deposits E) Pleistocene Codes:",
+    "options": {
+      "a": "I-C, II-E, III-A, IV-D",
+      "b": "I-C, II-A, III-B, IV-E",
+      "c": "I-B, II-A, III-C, IV-D",
+      "d": "I-A, II-D, III-B, IV-E"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Physical Geography",
+    "difficulty": "difficult",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_8",
+    "year": 1997,
+    "questionNumber": 8,
+    "question": "The number of industries for which industrial licensing is required has now been reduced to",
+    "options": {
+      "a": "15",
+      "b": "6",
+      "c": "35",
+      "d": "20"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_9",
+    "year": 1997,
+    "questionNumber": 9,
+    "question": "The head of the military department under the reorganised central machinery of administration during Akbar’s reign was",
+    "options": {
+      "a": "Diwan",
+      "b": "Mir Bakshi",
+      "c": "Mir Saman",
+      "d": "Bakshi"
+    },
+    "answer": "b",
+    "subject": "Medieval History › Mughal Empire",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_10",
+    "year": 1997,
+    "questionNumber": 10,
+    "question": "The January isotherm taken as a basis for dividing India into tropical and sub-tropical zones is",
+    "options": {
+      "a": "21 °C",
+      "b": "18 °C",
+      "c": "12 °C",
+      "d": "15 °C"
+    },
+    "answer": "b",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_11",
+    "year": 1997,
+    "questionNumber": 11,
+    "question": "“……….They are people of yellow complexion, oblique eyes, high cheek bones, sparse hair and medium height.” The reference here is to",
+    "options": {
+      "a": "Nordic Aryans",
+      "b": "Austric",
+      "c": "Negroids",
+      "d": "Mongoloids"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_12",
+    "year": 1997,
+    "questionNumber": 12,
+    "question": "What is the correct sequence of the descending order of the following States in respect of female literacy rates as per the 1991 Census? I. Mizoram II. Kerala III. Goa IV. Nagaland Choose the correct answer using the codes given below:",
+    "options": {
+      "a": "II, III, I, IV",
+      "b": "II, I, III, IV",
+      "c": "II, III, IV, I",
+      "d": "I, II, IV, III"
+    },
+    "answer": "b",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_13",
+    "year": 1997,
+    "questionNumber": 13,
+    "question": "The tail of a comet is directed away from the sun because",
+    "options": {
+      "a": "as the comet rotates around the sun, the lighter mass of the comet is pushed away due to the centrifugal force alone",
+      "b": "as the comet rotates, the lighter mass of the comet is attracted by some star situated in the direction of its tail",
+      "c": "the radiation emitted by the sun exerts a radial pressure on the comet throwing its tail away from the sun",
+      "d": "the tail of the comet always exists in the same orientation"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_14",
+    "year": 1997,
+    "questionNumber": 14,
+    "question": "Assertion (A): The sponsor and the most prominent figure of the Chisti order of Sufis in India is Khwaja Moinuddin Chisti. Reason (R): The Chisti order takes its name from a village Chisti in Ajmer. In the context of the above two statements, which one of the following is correct?",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true, but R is not a correct explanation of A",
+      "c": "A is true, but R is false",
+      "d": "A is false, but R is true"
+    },
+    "answer": "c",
+    "subject": "Medieval History › Sufism",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_15",
+    "year": 1997,
+    "questionNumber": 15,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Minerals) I. Coal II. Gold III. Mica IV. Manganese List II (Typical areas of Occurrence) A) Bhandara B) Karanpura C) Hutti D) Nellore Codes:",
+    "options": {
+      "a": "I-A, II-C, III-B, IV-D",
+      "b": "I-B, II-C, III-D, IV-A",
+      "c": "I-C, II-D, III-B, IV-A",
+      "d": "I-B, II-A, III-D, IV-C"
+    },
+    "answer": "b",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_16",
+    "year": 1997,
+    "questionNumber": 16,
+    "question": "In which of the following countries will the no-confidence motion to bring down the government passed by the legislature be valid only when the legislature is able to find simultaneously a majority to elect a successor government?",
+    "options": {
+      "a": "France",
+      "b": "Germany",
+      "c": "Italy",
+      "d": "Portugal"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Political Theory & Concepts",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_17",
+    "year": 1997,
+    "questionNumber": 17,
+    "question": "The sum Indian Economy › Monetary Policy & Money Supply of which of the following constitutes Broad Money in India? I. Currency with the Public II. Demand deposits with banks III. Time deposits with banks IV. Other deposits with RBI Choose the correct answer using the codes given below:",
+    "options": {
+      "a": "I and II",
+      "b": "I, II and III",
+      "c": "I, II, III and IV",
+      "d": "I, II and IV"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_18",
+    "year": 1997,
+    "questionNumber": 18,
+    "question": "“A graduate at 18, professor and associated editor of the Sudharak at 20, Secretary of the Sarvajanik Sabha and of the Provincial Conference at 25, Secretary of the National Congress at 29, leading witness before an important Royal Commission at 31, Provincial legislator at 34, Imperial legislator at 36, President of the Indian National Congress at 39 ……… a patriot whom Mahatma Gandhi himself regarded as his master.” This is how a biographer describes",
+    "options": {
+      "a": "Pandit Madan Mohan Malaviya",
+      "b": "Mahadev Govind Ranade",
+      "c": "Gopal Krishna Gokhale",
+      "d": "Bal Gangadhar Tilak"
+    },
+    "answer": "c",
+    "subject": "Modern History › Key Personalities & Ideologies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_19",
+    "year": 1997,
+    "questionNumber": 19,
+    "question": "The river shown on the map is",
+    "options": {
+      "a": "Irrawaddy",
+      "b": "Mekong",
+      "c": "Chao Phraya",
+      "d": "Salween"
+    },
+    "answer": "d",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_20",
+    "year": 1997,
+    "questionNumber": 20,
+    "question": "Which one of the following was NOT proposed by the 73rd Constitutional Amendment in the area of Panchayati Raj?",
+    "options": {
+      "a": "Thirty per cent seats in all elected rural local bodies will be reserved for women candidates at all levels",
+      "b": "The States will constitute their Finance Commissions to allocate resources to Panchayati Raj Institutions",
+      "c": "The Panchayati Raj elected functionaries will be disqualified to hold their offices if they have more than two children",
+      "d": "The elections will be held in six months’ time if Panchayati Raj bodies are super-ceded or dissolved by the State government"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Local Government & Panchayati Raj",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_21",
+    "year": 1997,
+    "questionNumber": 21,
+    "question": "According to the latest census figures sex ratio in India is",
+    "options": {
+      "a": "declining",
+      "b": "stable",
+      "c": "increasing",
+      "d": "fluctuating"
+    },
+    "answer": "a",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_22",
+    "year": 1997,
+    "questionNumber": 22,
+    "question": "Who among the following was associated with the suppression of Thugs?",
+    "options": {
+      "a": "General Henry Prendergast",
+      "b": "Captain Sleeman",
+      "c": "Alexander Burnes",
+      "d": "Captain Robert Pemberton"
+    },
+    "answer": "b",
+    "subject": "Modern History › British Administration & Economic Policies",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_23",
+    "year": 1997,
+    "questionNumber": 23,
+    "question": "The Alamatti Dam is on the river",
+    "options": {
+      "a": "Godavari",
+      "b": "Cauvery",
+      "c": "Krishna",
+      "d": "Mahanadi"
+    },
+    "answer": "c",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_24",
+    "year": 1997,
+    "questionNumber": 24,
+    "question": "Which one of the following States of India has passed a legislation (in 1996) making the maintenance of one’s parents mandatory?",
+    "options": {
+      "a": "Kerala",
+      "b": "West Bengal",
+      "c": "Maharashtra",
+      "d": "Himachal Pradesh"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Social Justice & Vulnerable Sections",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_25",
+    "year": 1997,
+    "questionNumber": 25,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Events) I. Morley Minto Reforms II. Simon Commission III. The Chauri-Chaura incident IV. The Dandi March List II (Results) A) Country-wide agitation B) Withdrawal of a movement C) Communal Electorates D) Communal outbreaks E) Illegal manufacture of salt Codes:",
+    "options": {
+      "a": "I-C, II-D, III-E, IV-B",
+      "b": "I-D, II-A, III-B, IV-C",
+      "c": "I-B, II-C, III-D, IV-E",
+      "d": "I-C, II-A, III-B, IV-E"
+    },
+    "answer": "d",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_26",
+    "year": 1997,
+    "questionNumber": 26,
+    "question": "The Poona Pact which was signed between the British Government and Mahatma Gandhi in 1932 provided for",
+    "options": {
+      "a": "the creation of dominion status for India",
+      "b": "separate electorates for the Muslims",
+      "c": "separate electorate for the Harijans",
+      "d": "joint electorate with reservation for Harijans"
+    },
+    "answer": "d",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_27",
+    "year": 1997,
+    "questionNumber": 27,
+    "question": "Which one of the following was used as a chemical weapon in the First World War?",
+    "options": {
+      "a": "Carbon monoxide",
+      "b": "Hydrogen cyanide",
+      "c": "Mustard gas",
+      "d": "Water gas"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_28",
+    "year": 1997,
+    "questionNumber": 28,
+    "question": "Proportional representation is NOT necessary in a country where",
+    "options": {
+      "a": "there are no reserved constituencies",
+      "b": "a two-party system has developed",
+      "c": "the first-past-the-post system prevails",
+      "d": "there is a fusion of Presidential and Parliamentary forms of governments"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Electoral System",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_29",
+    "year": 1997,
+    "questionNumber": 29,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Committees) I. Disinvestment of shares in Public Sector Enterprises II. Industrial Sickness III. Tax Reforms IV. Reforms in Insurance Sector List II (Chaired by) A) Rajah Chelliah B) Onkar Goswami C) R. N. Malhotra D) C. Rangarajan Codes:",
+    "options": {
+      "a": "I–A, II–D, III–B, IV–C",
+      "b": "I–D, II–B, III–A, IV–C",
+      "c": "I–D, II–A, III–B, IV–C",
+      "d": "I–A, II–C, III–D, IV–B"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Banking & Financial Sector",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_30",
+    "year": 1997,
+    "questionNumber": 30,
+    "question": "Which one of the following factors is responsible for the change in the regular direction of the ocean currents in the Indian Ocean?",
+    "options": {
+      "a": "Indian Ocean is ‘half an ocean’",
+      "b": "Indian Ocean has monsoon drift",
+      "c": "Indian Ocean is a land-locked ocean",
+      "d": "Indian Ocean has greater variation in salinity"
+    },
+    "answer": "b",
+    "subject": "Geography › Oceanography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_31",
+    "year": 1997,
+    "questionNumber": 31,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the Lists: List I I. Surat Split II. Communal Award III. All-Party Convention IV. Poorna Swaraj Resolution List II A) 1929 B) 1928 C) 1932 D) 1907 E) 1905 Codes:",
+    "options": {
+      "a": "I–D, II–C, III–A, IV–E",
+      "b": "I–D, II–C, III–B, IV–A",
+      "c": "I–B, II–E, III–D, IV–A",
+      "d": "I–A, II–D, III–E, IV–C"
+    },
+    "answer": "b",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_32",
+    "year": 1997,
+    "questionNumber": 32,
+    "question": "Consider the map given below: The predominant languages spoken in the areas marked A, B, C and D are respectively",
+    "options": {
+      "a": "Brajbhasha, Bhojpuri, Maithili and Awadhi",
+      "b": "Awadhi, Maithili, Bhojpuri and Brajbhasha",
+      "c": "Brajbhasha, Awadhi, Bhojpuri and Maithili",
+      "d": "Maithili, Bhojpuri, Brajbhasha and Awadhi"
+    },
+    "answer": "c",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_33",
+    "year": 1997,
+    "questionNumber": 33,
+    "question": "The canal carrying capacity of Farakka is",
+    "options": {
+      "a": "75,000 cusecs",
+      "b": "70,000 cusecs",
+      "c": "40,000 cusecs",
+      "d": "35,000 cusecs"
+    },
+    "answer": "c",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_34",
+    "year": 1997,
+    "questionNumber": 34,
+    "question": "The Prime Minister of which one of the following countries is chosen by the ruling prince from a slate of three candidates put up to him by the President of France?",
+    "options": {
+      "a": "San Marius",
+      "b": "Liechtenstein",
+      "c": "Malta",
+      "d": "Monaco"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › International Relations & Treaties",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_35",
+    "year": 1997,
+    "questionNumber": 35,
+    "question": "One of the important agreements reached in the 1996 Ministerial Conference of WTO relates to",
+    "options": {
+      "a": "Commerce in Information Technology",
+      "b": "Multilateral Agreement on Investment",
+      "c": "Multi-fibre Agreement",
+      "d": "Exchange of Technical Personnel"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › International Trade & WTO",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_36",
+    "year": 1997,
+    "questionNumber": 36,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I I. Chittagong Armoury Raid II. Kakori Conspiracy III. Lahore Conspiracy IV. Ghadar Party List II A) Lala Hardayal B) Jatin Das C) Surya Sen D) Ram Prasad Bismil E) Vasudev Phadke Codes:",
+    "options": {
+      "a": "I–C, II–D, III–A, IV–E",
+      "b": "I–D, II–C, III–B, IV–E",
+      "c": "I–C, II–D, III–B, IV–A",
+      "d": "I–B, II–D, III–C, IV–A"
+    },
+    "answer": "c",
+    "subject": "Modern History › Revolutionary & Communist Movements",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_37",
+    "year": 1997,
+    "questionNumber": 37,
+    "question": "Which one of the following pairs is correctly matched?",
+    "options": {
+      "a": "Teak : Jammu and Kashmir",
+      "b": "Deodar : Madhya Pradesh",
+      "c": "Sandalwood : Kerala",
+      "d": "Sundari : West Bengal"
+    },
+    "answer": "d",
+    "subject": "Geography › Biogeography & Natural Vegetation",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_38",
+    "year": 1997,
+    "questionNumber": 38,
+    "question": "Consider the map given below: The places marked A, B, C and D in the map are respectively",
+    "options": {
+      "a": "Rift valley region, Chattisgarh plain, Rain shadow region and Chotanagpur plateau",
+      "b": "Chattisgarh plain, Chotanagpur plateau, Rift valley region and Rain shadow region",
+      "c": "Rift valley region, Chattisgarh plain, Chotanagpur plateau and Rain shadow region",
+      "d": "Chattisgarh plain, Rain shadow region, Chotanagpur plateau and Rift valley region"
+    },
+    "answer": "c",
+    "subject": "Geography › Indian Physical Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_39",
+    "year": 1997,
+    "questionNumber": 39,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Crops) I. Barley II. Rice III. Millets IV. Tea List II (Geographical conditions) A) Hot and dry climate with poor soil B) Cool climate with poorer soil C) Warm and moist climate with high altitude D) Hot and moist climate with rich soil Codes:",
+    "options": {
+      "a": "I–B, II–D, III–A, IV–C",
+      "b": "I–C, II–D, III–A, IV–B",
+      "c": "I–B, II–A, III–D, IV–C",
+      "d": "I–C, II–B, III–D, IV–A"
+    },
+    "answer": "a",
+    "subject": "Geography › Indian Agriculture & Land Use",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_40",
+    "year": 1997,
+    "questionNumber": 40,
+    "question": "The world’s fastest computer has been able to perform (as of Dec. 1996)",
+    "options": {
+      "a": "106 operations per second",
+      "b": "109 operations per second",
+      "c": "1012 operations per second",
+      "d": "1015 operations per second"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Computer & Information Technology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_41",
+    "year": 1997,
+    "questionNumber": 41,
+    "question": "The Basque separatist organisation is active in",
+    "options": {
+      "a": "Russia",
+      "b": "Cyprus",
+      "c": "Portugal",
+      "d": "Spain"
+    },
+    "answer": "d",
+    "subject": "Current Affairs › International Conflicts & Security",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_42",
+    "year": 1997,
+    "questionNumber": 42,
+    "question": "Match List I with List II and select the correct answer using the code given below the lists: List I I. Gupta II. Chandella III. Chalukya IV. Pallava List II A) Badami B) Panamalai C) Khajuraho D) Deogarh Codes:",
+    "options": {
+      "a": "I–D, II–C, III–A, IV–B",
+      "b": "I–D, II–B, III–C, IV–A",
+      "c": "I–B, II–C, III–D, IV–A",
+      "d": "I–C, II–D, III–A, IV–B"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_43",
+    "year": 1997,
+    "questionNumber": 43,
+    "question": "Consider the map given below: The places marked A, B, C and D in the map are respectively known for the cultivation of",
+    "options": {
+      "a": "groundnut, ragi, tobacco and sugarcane",
+      "b": "groundnut, sugarcane, ragi and tobacco",
+      "c": "ragi, sugarcane, groundnut and tobacco",
+      "d": "ragi, groundnut, sugarcane and tobacco"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Agriculture & Land Use",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_44",
+    "year": 1997,
+    "questionNumber": 44,
+    "question": "The film ‘The Making of the Mahatma’ has been directed by",
+    "options": {
+      "a": "Peter Ustinov",
+      "b": "Richard Attenborough",
+      "c": "Shyam Benegal",
+      "d": "Mira Nair"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Theatre & Cinema",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_45",
+    "year": 1997,
+    "questionNumber": 45,
+    "question": "“From Aceh in the far north-west to Torres Strait in the east is 5000 miles, almost as far as from London to Baghdad. The Archipelago has 14,000 islands, some mere equatorial rocks, others some of the largest in the world.” This description best fits",
+    "options": {
+      "a": "West Indies",
+      "b": "Japan",
+      "c": "Philippines",
+      "d": "Indonesia"
+    },
+    "answer": "d",
+    "subject": "Geography › World Physical Geography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_46",
+    "year": 1997,
+    "questionNumber": 46,
+    "question": "Human Development Index comprises literacy rates, life expectancy at birth and",
+    "options": {
+      "a": "Gross Domestic Product per head in US dollars",
+      "b": "Gross Domestic Product per head at real purchasing power",
+      "c": "Gross National Product in US dollars",
+      "d": "National Income per head in US dollars"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_47",
+    "year": 1997,
+    "questionNumber": 47,
+    "question": "A major health mission carried in 1996 was",
+    "options": {
+      "a": "war against leprosy",
+      "b": "small-pox eradication",
+      "c": "pulse polio immunization",
+      "d": "popularisation of oral rehydration therapy"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_48",
+    "year": 1997,
+    "questionNumber": 48,
+    "question": "Which one of the following statements regarding Asokan stone pillars is incorrect?",
+    "options": {
+      "a": "These are highly polished",
+      "b": "These are monolithic",
+      "c": "The shaft of pillars is tapering in shape",
+      "d": "These are parts of architectural structures"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Architecture & World Heritage",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_49",
+    "year": 1997,
+    "questionNumber": 49,
+    "question": "State Funding of elections takes place in",
+    "options": {
+      "a": "USA and Canada",
+      "b": "Britain and Switzerland",
+      "c": "France and Italy",
+      "d": "Germany and Austria"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Elections & Electoral Reforms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_50",
+    "year": 1997,
+    "questionNumber": 50,
+    "question": "Which of the following places are known for paper manufacturing industry? I. Yamuna Nagar II. Guwahati III. Shahabad IV. Ballarpur Choose the correct answer using the codes given below: Codes:",
+    "options": {
+      "a": "I, II and III",
+      "b": "I, II and IV",
+      "c": "I, III and IV",
+      "d": "II, III and IV"
+    },
+    "answer": "b",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_51",
+    "year": 1997,
+    "questionNumber": 51,
+    "question": "The behaviour of a fictitious stock market index (comprising a weighted average of the market prices of a selected list of companies including some multinational corporations (MNCs) over a 15-day period is shown in the graph. The behaviour of the MNC’s in the same period is also shown in the second graph. Which one of the following is a valid conclusion?",
+    "options": {
+      "a": "MNC’s fell steeper in the period depicted",
+      "b": "Share prices of every non-MNC company soared by over 5% on the 12th day",
+      "c": "Government announced a policy disfavouring MNC’s on the 11th day",
+      "d": "Whatever be the reason favouring market revival on the 12th day, it appears to be relevant only to non-MNC companies"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Financial Markets & Capital Markets",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_52",
+    "year": 1997,
+    "questionNumber": 52,
+    "question": "Which one of the following pairs of composers in different languages and their works on the Mahabharata theme is correctly matched?",
+    "options": {
+      "a": "Sarladasa — Bengali",
+      "b": "Kasirama — Oriya",
+      "c": "Tikkana — Marathi",
+      "d": "Pampa — Kannada"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_53",
+    "year": 1997,
+    "questionNumber": 53,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Commodities exported from India) — List II (Countries of destination) I. Iron-ore — A) Russia II. Leather goods — B) USA III. Tea — C) Japan IV. Cotton fabrics — D) UK E) Canada",
+    "options": {
+      "a": "I-E, II-A, III-B, IV-C",
+      "b": "I-C, II-A, III-D, IV-B",
+      "c": "I-A, II-E, III-D, IV-C",
+      "d": "I-C, II-D, III-A, IV-B"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › External Trade",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_54",
+    "year": 1997,
+    "questionNumber": 54,
+    "question": "The concept of Public Interest Litigation originated in",
+    "options": {
+      "a": "the United Kingdom",
+      "b": "Australia",
+      "c": "the United States",
+      "d": "Canada"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Judiciary",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_55",
+    "year": 1997,
+    "questionNumber": 55,
+    "question": "If the Prime Minister of India belonged to the Upper House of Parliament",
+    "options": {
+      "a": "he will not be able to vote in his favour in the event of a no confidence motion",
+      "b": "he will not be able to speak on the Budget in the Lower House",
+      "c": "he can make statements only on the Upper House",
+      "d": "he has to become a member of the Lower House within six months after being sworn in as the Prime Minister"
+    },
+    "answer": "a",
+    "subject": "Indian Polity › Parliament & State Legislatures",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_56",
+    "year": 1997,
+    "questionNumber": 56,
+    "question": "M.C. Setalvad, B.N. Rao and Alladi Krishnaswamy Iyer were distinguished members of the",
+    "options": {
+      "a": "Swaraj Party",
+      "b": "All India National Liberal Federation",
+      "c": "Madras Labour Union",
+      "d": "Servants of India Society"
+    },
+    "answer": "d",
+    "subject": "Modern History › Social & Religious Reform Movements",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_57",
+    "year": 1997,
+    "questionNumber": 57,
+    "question": "The tribal population in Andaman and Nicobar Islands belongs to the",
+    "options": {
+      "a": "Australoid race",
+      "b": "Caucasoid race",
+      "c": "Mongoloid race",
+      "d": "Negroid race"
+    },
+    "answer": "d",
+    "subject": "Geography › Population & Demography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_58",
+    "year": 1997,
+    "questionNumber": 58,
+    "question": "Assertion (A): The reservation of thirty-three per cent of seats for women in Parliament and State Legislatures does not require Constitutional amendment. Reason (R): Political parties contesting elections can allocate thirty-three per cent of seats they contest to women candidates without any Constitutional amendment. In the context of the above two statements, which one of the following is correct?",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true, but R is not a correct explanation of A",
+      "c": "A is true, but R is false",
+      "d": "A is false, but R is true"
+    },
+    "answer": "d",
+    "subject": "Indian Polity › Social Justice & Vulnerable Sections",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_59",
+    "year": 1997,
+    "questionNumber": 59,
+    "question": "Which one of the following dances involves solo performance?",
+    "options": {
+      "a": "Bharatnatyam",
+      "b": "Kuchipudi",
+      "c": "Mohiniattam",
+      "d": "Odissi"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Classical Dance Forms",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_60",
+    "year": 1997,
+    "questionNumber": 60,
+    "question": "What is the correct chronological sequence of the following? I. Wood's Education Despatch II. Macaulay's Minute on Education III. The Sargeant Education Report IV. Indian Education (Hunter Commission)",
+    "options": {
+      "a": "II, I, IV, III",
+      "b": "II, I, III, IV",
+      "c": "I, II, IV, III",
+      "d": "IV, III, I, II"
+    },
+    "answer": "a",
+    "subject": "Modern History › British Administration & Economic Policies",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_61",
+    "year": 1997,
+    "questionNumber": 61,
+    "question": "The group of small pieces of rock revolving round the sun between the orbits of Mars and Jupiter are called",
+    "options": {
+      "a": "meteors",
+      "b": "comets",
+      "c": "meteorites",
+      "d": "asteroids"
+    },
+    "answer": "d",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_62",
+    "year": 1997,
+    "questionNumber": 62,
+    "question": "Which one of the following scripts of ancient India was written from right to left?",
+    "options": {
+      "a": "Brahmi",
+      "b": "Nandnagari",
+      "c": "Sharada",
+      "d": "Kharosthi"
+    },
+    "answer": "d",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_63",
+    "year": 1997,
+    "questionNumber": 63,
+    "question": "Which one of the following techniques can be used to establish the paternity of a child?",
+    "options": {
+      "a": "Protein analysis",
+      "b": "Chromosome counting",
+      "c": "Quantitative analysis of DNA",
+      "d": "DNA finger-printing"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biotechnology & Genetics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_64",
+    "year": 1997,
+    "questionNumber": 64,
+    "question": "If the earth's direction of rotation is reversed, what would be the IST when it is noon at the International Date Line?",
+    "options": {
+      "a": "06.30 hrs",
+      "b": "05.30 hrs",
+      "c": "18.30 hrs",
+      "d": "17.30 hrs"
+    },
+    "answer": "c",
+    "subject": "Geography › Astronomy & Earth–Sun System",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_65",
+    "year": 1997,
+    "questionNumber": 65,
+    "question": "Bishop Carlos Felipe Ximenes Belo and Jose Ramos Horta who shared the 1996 Nobel Peace Prize are known for their work for the cause of",
+    "options": {
+      "a": "East Timor",
+      "b": "Guatemala",
+      "c": "Bosnia",
+      "d": "Barunda"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › Awards & Honours",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_66",
+    "year": 1997,
+    "questionNumber": 66,
+    "question": "In the Presidential election in India, every elected member of the Legislative Assembly of a State shall have as many votes as there are multiples of one thousand in the quotient obtained by dividing the population of the State by the total number of the elected members of the Assembly. As at present (1997) the expression \"population\" here means the population as ascertained by the",
+    "options": {
+      "a": "1991 Census",
+      "b": "1981 Census",
+      "c": "1971 Census",
+      "d": "1961 Census"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_67",
+    "year": 1997,
+    "questionNumber": 67,
+    "question": "In India, inflation is measured by the",
+    "options": {
+      "a": "Wholesale Price Index Number",
+      "b": "Consumers Price Index for urban non-manual workers",
+      "c": "Consumers Price Index for agricultural workers",
+      "d": "National Income deflation"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Inflation & Price Indices",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_68",
+    "year": 1997,
+    "questionNumber": 68,
+    "question": "Which one of the following stars is nearest to the earth?",
+    "options": {
+      "a": "Polaris",
+      "b": "Alpha Centauri",
+      "c": "Sun",
+      "d": "Sirius"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_69",
+    "year": 1997,
+    "questionNumber": 69,
+    "question": "The medieval Indian writer who refers to the discovery of America is",
+    "options": {
+      "a": "Malik Muhammad Jayasi",
+      "b": "Amir Khusrau",
+      "c": "Raskhan",
+      "d": "Abul Fazl"
+    },
+    "answer": "d",
+    "subject": "Medieval History › Medieval Culture & Historiography",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_70",
+    "year": 1997,
+    "questionNumber": 70,
+    "question": "Which one of the following conditions is most relevant for the presence of life on Mars?",
+    "options": {
+      "a": "Atmospheric composition",
+      "b": "Thermal conditions",
+      "c": "Occurrence of ice caps and frozen water",
+      "d": "Occurrence of ozone"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Space Technology & Astronomy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_71",
+    "year": 1997,
+    "questionNumber": 71,
+    "question": "Which one of the following are/is stated in the Constitution of India? I. The President shall not be a member of either House of Parliament. II. The Parliament shall consist of the President and two Houses. Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "Neither I nor II",
+      "b": "Both I and II",
+      "c": "I alone",
+      "d": "II alone"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Union & State Executive",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_72",
+    "year": 1997,
+    "questionNumber": 72,
+    "question": "The following are the major oilseeds produced in India: I. Sesamum II. Mustard III. Groundnut IV. Soyabean Which one of the following is the correct sequence of the descending order of the quantity of their production?",
+    "options": {
+      "a": "I, II, III, IV",
+      "b": "III, II, IV, I",
+      "c": "II, IV, III, I",
+      "d": "III, IV, II, I"
+    },
+    "answer": "b",
+    "subject": "Geography › Indian Agriculture & Land Use",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_73",
+    "year": 1997,
+    "questionNumber": 73,
+    "question": "The famous dialogue between Nachiketa and Yama is mentioned in the",
+    "options": {
+      "a": "Chandogyopanishad",
+      "b": "Mundakopanishad",
+      "c": "Kathopanishad",
+      "d": "Kenopanishad"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Philosophy & Religion",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_74",
+    "year": 1997,
+    "questionNumber": 74,
+    "question": "Consider the geographical details given in the following figure: The point marked by A in the above figure indicates a country in",
+    "options": {
+      "a": "North America",
+      "b": "South America",
+      "c": "Europe",
+      "d": "Asia"
+    },
+    "answer": "c",
+    "subject": "Geography › World Political Geography & Borders",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_75",
+    "year": 1997,
+    "questionNumber": 75,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Functionaries) I. President of India II. Judges of the Supreme Court III. Members of Parliament IV. Ministers for the Union List II (Oaths or affirmations) A) Secrecy of Information B) Faithful Discharge of Duties C) Faith and Allegiance to the Constitution of India D) Upholding the Constitution and the Law",
+    "options": {
+      "a": "I-C, II-D, III-A, IV-B",
+      "b": "I-D, II-C, III-B, IV-A",
+      "c": "I-C, II-D, III-B, IV-A",
+      "d": "I-D, II-C, III-A, IV-B"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Constitutional Framework & Development",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_76",
+    "year": 1997,
+    "questionNumber": 76,
+    "question": "In the map shown in the given figure, rivers labelled as 1, 2, 3 and 4 are respectively",
+    "options": {
+      "a": "Kosi, Gomati, Ghaghara and Gandak",
+      "b": "Kosi, Ganga, Gomati and Ghaghara",
+      "c": "Gandak, Ganga, Gomati and Ghaghara",
+      "d": "Teesta, Gomati, Ghaghara and Kosi"
+    },
+    "answer": "a",
+    "subject": "Geography › Indian Rivers & Water Resources",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_77",
+    "year": 1997,
+    "questionNumber": 77,
+    "question": "Milindapanho is in the form of a dialogue between the King Menander and the Buddhist monk",
+    "options": {
+      "a": "Nagasena",
+      "b": "Nagarjuna",
+      "c": "Nagabhatta",
+      "d": "Kumarilabhatta"
+    },
+    "answer": "a",
+    "subject": "Art & Culture › Philosophy & Religion",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_78",
+    "year": 1997,
+    "questionNumber": 78,
+    "question": "In which one of the following countries are 75 per cent of seats in both Houses of Parliament filled on the basis of first-past-the-post system and 25 per cent on the basis of Proportional Representation system of elections?",
+    "options": {
+      "a": "Germany",
+      "b": "Italy",
+      "c": "France",
+      "d": "Russia"
+    },
+    "answer": "b",
+    "subject": "Modern History › Peasant, Tribal & Labour Movements",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_79",
+    "year": 1997,
+    "questionNumber": 79,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I I. Moplah revolt II. Pabna revolt III. Eka Movement IV. Birsa Munda revolt List II A) Kerala B) Bihar C) Bengal D) Awadh",
+    "options": {
+      "a": "I-A, II-C, III-D, IV-B",
+      "b": "I-B, II-C, III-D, IV-A",
+      "c": "I-A, II-B, III-C, IV-D",
+      "d": "I-C, II-D, III-A, IV-B"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_80",
+    "year": 1997,
+    "questionNumber": 80,
+    "question": "The Sixth and the Eighth Five-Year Plans covered the period 1980-85 and 1992-97 respectively. The Seventh Five-Year Plan covered the period",
+    "options": {
+      "a": "1987-92",
+      "b": "1986-91",
+      "c": "1985-90",
+      "d": "1988-94"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Economic Planning & Five-Year Plans",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_81",
+    "year": 1997,
+    "questionNumber": 81,
+    "question": "Which one of the following edicts mentions the personal name of Asoka?",
+    "options": {
+      "a": "Kalsi",
+      "b": "Rummindei",
+      "c": "Special Kalinga Edict",
+      "d": "Maski"
+    },
+    "answer": "d",
+    "subject": "Ancient History › Mauryan Empire",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_82",
+    "year": 1997,
+    "questionNumber": 82,
+    "question": "Consider the map given below: Of the four shaded areas in the map, that which is characterised by hot dry summers, mild and moist winters and seasonal reversal of winds is the area labelled",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "subject": "Geography › Atmosphere & Climatology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_83",
+    "year": 1997,
+    "questionNumber": 83,
+    "question": "In the following quotation, “WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a Sovereign Socialist Secular Democratic Republic and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all; FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; In our Constituent Assembly this ‘X’ ………. do hereby adopt, enact and give to ourselves this Constitution.” ‘X’ stands for",
+    "options": {
+      "a": "twenty-sixth day of January, 1950",
+      "b": "twenty-sixth day of November, 1949",
+      "c": "twenty-sixth day of January, 1949",
+      "d": "None of the above"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Constitutional Framework & Development",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_84",
+    "year": 1997,
+    "questionNumber": 84,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I I. Rashtriya Mahila Kosh II. Mahila Samriddhi Yojana III. Indira Mahila Yojana IV. Mahila Samakhya Programme List II A) Empowerment of women B) Education for Women’s Equality C) Promotion of savings among rural women D) Meeting credit needs of the poor women Codes:",
+    "options": {
+      "a": "I-C, II-B, III-A, IV-D",
+      "b": "I-A, II-C, III-D, IV-B",
+      "c": "I-D, II-C, III-A, IV-B",
+      "d": "I-D, II-A, III-B, IV-C"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_85",
+    "year": 1997,
+    "questionNumber": 85,
+    "question": "The following map shows four of the sixteen mahajanapadas that existed in ancient India. The places marked A, B, C and D respectively are",
+    "options": {
+      "a": "Matsya, Cedi, Kosala, Anga",
+      "b": "Surasena, Avanti, Vatsa, Magadha",
+      "c": "Matsya, Avanti, Vatsa, Anga",
+      "d": "Surasena, Cedi, Kosala, Magadha"
+    },
+    "answer": "c",
+    "subject": "Ancient History › Mahajanapadas & Early Kingdoms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_86",
+    "year": 1997,
+    "questionNumber": 86,
+    "question": "In the Mahayana Buddhism, the Bodhisattva Avalokitesvara was also known as",
+    "options": {
+      "a": "Vajrapani",
+      "b": "Manjusri",
+      "c": "Padmapani",
+      "d": "Maitreya"
+    },
+    "answer": "c",
+    "subject": "Art & Culture › Sculpture & Iconography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_87",
+    "year": 1997,
+    "questionNumber": 87,
+    "question": "Daily weather map showing isobars is an example of",
+    "options": {
+      "a": "Choropleth map",
+      "b": "Isopleth map",
+      "c": "Chorochromatic map",
+      "d": "Choroschematic map"
+    },
+    "answer": "b",
+    "subject": "Geography › Cartography & Map Skills",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_88",
+    "year": 1997,
+    "questionNumber": 88,
+    "question": "Assertion (A): Willful disobedience or non-compliance of Court Orders and use of derogatory language about judicial behaviour amounts to Contempt of Court. Reason (R): Judicial activism cannot be practised without arming the judiciary with punitive powers to punish contemptuous behaviour. In the context of the above two statements, which one of the following is correct?",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true, but R is not a correct explanation of A",
+      "c": "A is true, but R is false",
+      "d": "A is false, but R is true"
+    },
+    "answer": "b",
+    "subject": "Indian Polity › Judiciary",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_89",
+    "year": 1997,
+    "questionNumber": 89,
+    "question": "Schemes of (i) Urban Micro Enterprises, (ii) Urban Wage Employment, and (iii) Housing and Shelter Upgradation are parts of",
+    "options": {
+      "a": "Integrated Rural Development Programme",
+      "b": "Nehru Rozgar Yojana",
+      "c": "Jawahar Rozgar Yojana",
+      "d": "Prime Minister’s Rozgar Yojana"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › Human Development, Poverty & Employment Schemes",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_90",
+    "year": 1997,
+    "questionNumber": 90,
+    "question": "The silver coins issued by the Guptas were called",
+    "options": {
+      "a": "rupaka",
+      "b": "karshapana",
+      "c": "dinara",
+      "d": "pana"
+    },
+    "answer": "a",
+    "subject": "Ancient History › Gupta Empire",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_91",
+    "year": 1997,
+    "questionNumber": 91,
+    "question": "Which one of the following countries is the largest producer of fuelwood in the world?",
+    "options": {
+      "a": "Indonesia",
+      "b": "Russia",
+      "c": "India",
+      "d": "China"
+    },
+    "answer": "c",
+    "subject": "Indian Economy › International Trade & WTO",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_92",
+    "year": 1997,
+    "questionNumber": 92,
+    "question": "Assertion (A): The emergence of economic globalism does not imply the decline of socialist ideology. Reason (R): The ideology of Socialism believes in universalism and globalism. In the context of the above two statements, which one of the following is correct?",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true, but R is not a correct explanation of A",
+      "c": "A is true, but R is false",
+      "d": "A is false, but R is true"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_93",
+    "year": 1997,
+    "questionNumber": 93,
+    "question": "The contribution of India’s small-scale sector to the gross turnover in the manufacturing sector since 1992 has been of the order of",
+    "options": {
+      "a": "40%",
+      "b": "34%",
+      "c": "30%",
+      "d": "45%"
+    },
+    "answer": "a",
+    "subject": "Indian Economy › Infrastructure & Industry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_94",
+    "year": 1997,
+    "questionNumber": 94,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Author) I. Varahamihira II. Visakhadatta III. Sudraka IV. Bilhana List II (Text) A) Prabandha Chintamani B) Mrchchhakatikam C) Brhat-Samhita D) Devi Chandraguptam E) Vikramankadevacharita Codes:",
+    "options": {
+      "a": "I-C, II-D, III-E, IV-B",
+      "b": "I-C, II-D, III-B, IV-E",
+      "c": "I-E, II-C, III-D, IV-A",
+      "d": "I-A, II-C, III-E, IV-B"
+    },
+    "answer": "b",
+    "subject": "Art & Culture › Literature & Languages",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_95",
+    "year": 1997,
+    "questionNumber": 95,
+    "question": "One will NOT have to pass through the Suez Canal while going from Mumbai to",
+    "options": {
+      "a": "Alexandria",
+      "b": "Suez",
+      "c": "Port Said",
+      "d": "Benghazi"
+    },
+    "answer": "b",
+    "subject": "Geography › Transport & Infrastructure Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_96",
+    "year": 1997,
+    "questionNumber": 96,
+    "question": "The Dinesh Goswami Committee recommended",
+    "options": {
+      "a": "the constitution of state level election commissions",
+      "b": "List System of election to the Lok Sabha",
+      "c": "governmental funding of parliamentary elections",
+      "d": "a ban on the candidature of independent candidates in the parliamentary elections"
+    },
+    "answer": "c",
+    "subject": "Indian Polity › Elections & Electoral Reforms",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_97",
+    "year": 1997,
+    "questionNumber": 97,
+    "question": "Which of the following come under Non-plan expenditure? I. Subsidies II. Interest payments III. Defence expenditure IV. Maintenance expenditure for the infrastructure created in the previous plans Choose the correct answer using the codes given below: Codes:",
+    "options": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": "II and IV",
+      "d": "I, II, III and IV"
+    },
+    "answer": "d",
+    "subject": "Indian Economy › Fiscal Policy & Budget",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_98",
+    "year": 1997,
+    "questionNumber": 98,
+    "question": "Which one of the following was a corporation of merchants in ancient India?",
+    "options": {
+      "a": "Chaturvedi Mangalam",
+      "b": "Parishad",
+      "c": "Ashtadikgaja",
+      "d": "Manigrama"
+    },
+    "answer": "d",
+    "subject": "Ancient History › Trade & Economy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_99",
+    "year": 1997,
+    "questionNumber": 99,
+    "question": "National Income is the",
+    "options": {
+      "a": "Net National Product at market price",
+      "b": "Net National Product at factor cost",
+      "c": "Net Domestic Product at market price",
+      "d": "Net Domestic Product at factor cost"
+    },
+    "answer": "b",
+    "subject": "Indian Economy › National Income & Economic Growth",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_100",
+    "year": 1997,
+    "questionNumber": 100,
+    "question": "Which one of the following is NOT a principle of “Panchsheel”?",
+    "options": {
+      "a": "Non-alignment",
+      "b": "Peaceful Co-existence",
+      "c": "Mutual respect for each other’s territorial integrity and sovereignty",
+      "d": "Mutual non-interference in each other’s internal affairs"
+    },
+    "answer": "a",
+    "subject": "Current Affairs › International Relations & Treaties",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_101",
+    "year": 1997,
+    "questionNumber": 101,
+    "question": "During a flight from Delhi to Tokyo the following are the landing airports: I. Hong Kong II. Hanoi III. Taipei IV. Bangkok The correct sequence of the landing at these airports during an onward journey is",
+    "options": {
+      "a": "I, II, III, IV",
+      "b": "IV, II, I, III",
+      "c": "III, IV, I, II",
+      "d": "IV, I, ii, iii"
+    },
+    "answer": "b",
+    "subject": "Geography › Cartography & Map Skills",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_102",
+    "year": 1997,
+    "questionNumber": 102,
+    "question": "The Badami rock inscription of Pulakesin I is dated in the Saka year 465. If the same were to be dated in Vikrama Samvat, the year would be",
+    "options": {
+      "a": "601",
+      "b": "300",
+      "c": "330",
+      "d": "407"
+    },
+    "answer": "a",
+    "subject": "Ancient History › Archaeology & Epigraphy",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_103",
+    "year": 1997,
+    "questionNumber": 103,
+    "question": "The Minimum Alternative Tax (MAT) was introduced in the Budget of the Government of India for the year",
+    "options": {
+      "a": "1991-92",
+      "b": "1992-93",
+      "c": "1995-96",
+      "d": "1996-97"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_104",
+    "year": 1997,
+    "questionNumber": 104,
+    "question": "Which one of the following is present in the largest amount in terms of per cent by mass in the earth’s crust?",
+    "options": {
+      "a": "Silicon",
+      "b": "Oxygen",
+      "c": "Carbon",
+      "d": "Calcium"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_105",
+    "year": 1997,
+    "questionNumber": 105,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I (Hazardous industries using child labour leading to the filing of a public interest petition in the Supreme Court) – Located at I. Glass industry II. Brassware industry III. Slate industry IV. Hand-made carpet industry List II A) Moradabad B) Marakpur C) Ferozabad D) Mirzapur Codes:",
+    "options": {
+      "a": "I-C, II-A, III-B, IV-D",
+      "b": "I-A, II-C, III-D, IV-B",
+      "c": "I-C, II-A, III-D, IV-B",
+      "d": "I-A, II-C, III-B, IV-D"
+    },
+    "answer": "a",
+    "subject": "Geography › Economic & Mineral Geography",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_106",
+    "year": 1997,
+    "questionNumber": 106,
+    "question": "The tendency of a liquid drop to contract and occupy minimum area is due to",
+    "options": {
+      "a": "viscosity",
+      "b": "surface tension",
+      "c": "density",
+      "d": "vapour pressure"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_107",
+    "year": 1997,
+    "questionNumber": 107,
+    "question": "Which one of the following is a vector quantity?",
+    "options": {
+      "a": "Momentum",
+      "b": "Pressure",
+      "c": "Energy",
+      "d": "Work"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_108",
+    "year": 1997,
+    "questionNumber": 108,
+    "question": "The planet Mercury is revolving in an elliptical orbit around the sun as shown in the given figure. The kinetic energy of Mercury is greatest at the point labelled",
+    "options": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_109",
+    "year": 1997,
+    "questionNumber": 109,
+    "question": "Which one of the following is a valid conclusion?",
+    "options": {
+      "a": "The larger the initial inclination, the longer the throw",
+      "b": "The larger the height reached, the longer the throw",
+      "c": "The larger the height reached, the shorter the throw",
+      "d": "The larger the initial inclination, the greater the height reached"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_110",
+    "year": 1997,
+    "questionNumber": 110,
+    "question": "The working principle of a washing machine is",
+    "options": {
+      "a": "centrifugation",
+      "b": "dialysis",
+      "c": "reverse osmosis",
+      "d": "diffusion"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_111",
+    "year": 1997,
+    "questionNumber": 111,
+    "question": "The characteristic odour of garlic is due to",
+    "options": {
+      "a": "a chloro compound",
+      "b": "a sulphur compound",
+      "c": "a fluorine compound",
+      "d": "acetic acid"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_112",
+    "year": 1997,
+    "questionNumber": 112,
+    "question": "Which one of the following is an active component of oil of clove?",
+    "options": {
+      "a": "Menthol",
+      "b": "Eugenol",
+      "c": "Methanol",
+      "d": "Benzaldehyde"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_113",
+    "year": 1997,
+    "questionNumber": 113,
+    "question": "The most reactive among the halogens is",
+    "options": {
+      "a": "fluorine",
+      "b": "chlorine",
+      "c": "bromine",
+      "d": "iodine"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Energy & Environment",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_114",
+    "year": 1997,
+    "questionNumber": 114,
+    "question": "Which one of the following is paramagnetic in nature?",
+    "options": {
+      "a": "Iron",
+      "b": "Hydrogen",
+      "c": "Oxygen",
+      "d": "Nitrogen"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_115",
+    "year": 1997,
+    "questionNumber": 115,
+    "question": "Which one of the following has the highest fuel value?",
+    "options": {
+      "a": "Hydrogen",
+      "b": "Charcoal",
+      "c": "Natural Gas",
+      "d": "Gasoline"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_116",
+    "year": 1997,
+    "questionNumber": 116,
+    "question": "Which one of the following is used as an anti-freeze for the automobile engines?",
+    "options": {
+      "a": "Propyl alcohol",
+      "b": "Ethanol",
+      "c": "Methanol",
+      "d": "Ethylene glycol"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Chemistry",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_117",
+    "year": 1997,
+    "questionNumber": 117,
+    "question": "The pituitary gland by virtue of its tropic hormones controls the secretory activity of other endocrine glands. Which one of the following endocrine glands can function independent of the pituitary gland?",
+    "options": {
+      "a": "Thyroid",
+      "b": "Gonads",
+      "c": "Adrenals",
+      "d": "Parathyroid"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_118",
+    "year": 1997,
+    "questionNumber": 118,
+    "question": "Oxygen transportation in a human body takes place through I. Blood II. Lungs III. Tissue The correct sequence of transportation is",
+    "options": {
+      "a": "I, II, III",
+      "b": "III, I, II",
+      "c": "II, I, III",
+      "d": "I, III, II"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_119",
+    "year": 1997,
+    "questionNumber": 119,
+    "question": "Corpus luteum is a mass of cells found in",
+    "options": {
+      "a": "brain",
+      "b": "ovary",
+      "c": "pancreas",
+      "d": "spleen"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_120",
+    "year": 1997,
+    "questionNumber": 120,
+    "question": "Which one of the following organisms is likely to show the highest concentration of DDT once it has been introduced into the ecosystem?",
+    "options": {
+      "a": "Grasshopper",
+      "b": "Toad",
+      "c": "Snake",
+      "d": "Cattle"
+    },
+    "answer": "c",
+    "subject": "Environment & Ecology › Pollution & Waste Management",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_121",
+    "year": 1997,
+    "questionNumber": 121,
+    "question": "Alpha-keratin is a protein present in",
+    "options": {
+      "a": "blood",
+      "b": "skin",
+      "c": "wool",
+      "d": "eggs"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_122",
+    "year": 1997,
+    "questionNumber": 122,
+    "question": "Which one of the following is cultivated by transplanting seedlings?",
+    "options": {
+      "a": "Maize",
+      "b": "Sorghum",
+      "c": "Onion",
+      "d": "Soyabean"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_123",
+    "year": 1997,
+    "questionNumber": 123,
+    "question": "What is the average fat content of buffalo milk?",
+    "options": {
+      "a": "7.2%",
+      "b": "4.5%",
+      "c": "9.0%",
+      "d": "10.0%"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_124",
+    "year": 1997,
+    "questionNumber": 124,
+    "question": "The major component of honey is",
+    "options": {
+      "a": "glucose",
+      "b": "sucrose",
+      "c": "maltose",
+      "d": "fructose"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_125",
+    "year": 1997,
+    "questionNumber": 125,
+    "question": "Arteries supplying blood to the heart are called",
+    "options": {
+      "a": "carotid arteries",
+      "b": "hepatic arteries",
+      "c": "coronary arteries",
+      "d": "pulmonary arteries"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_126",
+    "year": 1997,
+    "questionNumber": 126,
+    "question": "Recommended daily intake of proteins for a moderately active woman is",
+    "options": {
+      "a": "30 g",
+      "b": "37 g",
+      "c": "40 g",
+      "d": "46 g"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Biotechnology & Genetics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_127",
+    "year": 1997,
+    "questionNumber": 127,
+    "question": "The sequencing of the entire genome (the totality of all genes) of an organism was completed in 1996. The organism was",
+    "options": {
+      "a": "albino mouse",
+      "b": "yeast",
+      "c": "human being",
+      "d": "Plasmodium vivax"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_128",
+    "year": 1997,
+    "questionNumber": 128,
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists: List I I. Malaria II. Filaria III. Encephalitis IV. Leukaemia List II A) Bone marrow B) Brain C) Muscle D) Lymph node E) Blood cells",
+    "options": {
+      "a": "I-E, II-C, III-B, IV-A",
+      "b": "I-E, II-D, III-B, IV-A",
+      "c": "I-D, II-C, III-E, IV-A",
+      "d": "I-E, II-D, III-A, IV-B"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Health & Diseases",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_129",
+    "year": 1997,
+    "questionNumber": 129,
+    "question": "Antigen is a substance which",
+    "options": {
+      "a": "lowers body temperature",
+      "b": "destroys harmful bacteria",
+      "c": "triggers the immune system",
+      "d": "is used as an antidote to poison"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Biology",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_130",
+    "year": 1997,
+    "questionNumber": 130,
+    "question": "A rectangular plot of lawn shown in the figure has dimensions x and y and is surrounded by a gravel pathway of width 2 m. What is the total area of the pathway?",
+    "options": {
+      "a": "2x + 2y + 4",
+      "b": "2x + 2y + 8",
+      "c": "4x + 4y + 8",
+      "d": "4x + 4y + 16"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_131",
+    "year": 1997,
+    "questionNumber": 131,
+    "question": "The average monthly income of a person in a certain family of 5 is Rs. 1000. What will be the monthly average income of a person in the same family if the income of one person increased by Rs. 12,000 per year?",
+    "options": {
+      "a": "Rs. 1200",
+      "b": "Rs. 1600",
+      "c": "Rs. 2000",
+      "d": "Rs. 3400"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_132",
+    "year": 1997,
+    "questionNumber": 132,
+    "question": "In the given figure, if QRS is an equilateral triangle and QTS is an isosceles triangle and x = 47°, then the value (in degrees) of y will be",
+    "options": {
+      "a": "13",
+      "b": "23",
+      "c": "33",
+      "d": "43"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_133",
+    "year": 1997,
+    "questionNumber": 133,
+    "question": "In the series POQ, SRT, VUW, ?, the blank space refers to",
+    "options": {
+      "a": "XYZ",
+      "b": "XZY",
+      "c": "YXZ",
+      "d": "YZX"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_134",
+    "year": 1997,
+    "questionNumber": 134,
+    "question": "A smooth inclined plane is inclined at an angle θ with the horizontal as shown in the figure. A body starts from rest and slides down the inclined surface. The time taken by the body to reach the bottom is",
+    "options": {
+      "a": "(2h / g)",
+      "b": "(2l / g)",
+      "c": "(2l / (g sin θ))",
+      "d": "(1/ sin θ) (h / 2g)"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_135",
+    "year": 1997,
+    "questionNumber": 135,
+    "question": "There are three drawers in a table. One contains two gold coins, another two silver coins, and the third, a silver coin and a gold coin. One of the drawers is pulled out and a coin is taken out. It turns out to be a silver coin. What is the probability of drawing a gold coin, if one of the other two drawers is pulled out next and one of the coins in it is drawn at random?",
+    "options": {
+      "a": "37.5%",
+      "b": "50%",
+      "c": "62.5%",
+      "d": "75%"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_136",
+    "year": 1997,
+    "questionNumber": 136,
+    "question": "P is 300 km eastward of O and Q is 400 km north of O. R is exactly in the middle of Q and P. The distance between Q and R is",
+    "options": {
+      "a": "250 km",
+      "b": "300 km",
+      "c": "350 km",
+      "d": "250* km"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_137",
+    "year": 1997,
+    "questionNumber": 137,
+    "question": "When three coins are tossed together the probability that all coins have the same face up is",
+    "options": {
+      "a": "1/3",
+      "b": "1/6",
+      "c": "1/8",
+      "d": "None of these"
+    },
+    "answer": "c",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_138",
+    "year": 1997,
+    "questionNumber": 138,
+    "question": "The number of students in two sections, A and B, having different heights is shown in the following table: Height (in metres) Number of students with that height in Section A Section B 1.55 3 2 1.60 7 3 1.62 12 14 1.65 15 14 1.68 8 9 1.71 6 5 1.75 3 4 The ratio of the number of students of a particular height in Section A to that in Section B is the maximum for the height of",
+    "options": {
+      "a": "1.55 m",
+      "b": "1.60 m",
+      "c": "1.65 m",
+      "d": "1.71 m"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_139",
+    "year": 1997,
+    "questionNumber": 139,
+    "question": "The following table shows the per cent change in the number of sales (in rupees) at different retail stores in a given neighbourhood market in the period 1993 to 1995: Retail Store — Percent Change 1993 to 1994 — 1994 to 1995 Anshu: +10, -10 Borna: -20, +9 Calpo: +5, +12 Dilip: -7, -15 Elegant: +17, -8 If the sales at Anshu store amounted to Rs. 8 lakhs in 1993, then the number of sales (in lakhs of rupees) at that store in 1995 was",
+    "options": {
+      "a": "7.92",
+      "b": "8.00",
+      "c": "8.80",
+      "d": "9.68"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Data Interpretation",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_140",
+    "year": 1997,
+    "questionNumber": 140,
+    "question": "If the number representing volume and surface area of a cube are equal, then the length of the edge of the cube in terms of the unit of measurement will be",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "d",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_141",
+    "year": 1997,
+    "questionNumber": 141,
+    "question": "The length, breadth and height of a room are l, b and h respectively. The perimeter of the ceiling expressed as a percentage of the total area of the four walls is",
+    "options": {
+      "a": "100 h",
+      "b": "100/h",
+      "c": "h",
+      "d": "h/100"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_142",
+    "year": 1997,
+    "questionNumber": 142,
+    "question": "Seven persons P, Q, R, S, T, U and V participate in and finish all the events of a series of swimming races. There are no ties at the finish of any of the events. V always finishes somewhere ahead of P. P always finishes somewhere ahead of Q. Either R finishes first and T finishes last or S finishes first and U or Q finishes last. If in a particular race V finished fifth, then which one of the following would be true?",
+    "options": {
+      "a": "S finishes first",
+      "b": "R finishes second",
+      "c": "T finishes third",
+      "d": "R finishes fourth"
+    },
+    "answer": "a",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_143",
+    "year": 1997,
+    "questionNumber": 143,
+    "question": "Consider the following: I. Saxena, David, Jain and Kumar were District Collectors at places P, Q, R and S respectively in 1970. II. In 1972 they were transferred. Saxena and Jain interchanged places. Kumar and David also interchanged places. III. One year later in 1973 they were again transferred such that David and Jain interchanged places and Saxena and Kumar were also interchanged. What should be the next round of transfers so that all the four persons could have been posted at all the four places?",
+    "options": {
+      "a": "Interchange Saxena and David as well as Jain and Kumar",
+      "b": "Interchange Saxena and Kumar as well as David and Jain",
+      "c": "Interchange David and Kumar as well as Saxena and Jain",
+      "d": "It is not possible for all the four persons to have been posted at all the four places"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_144",
+    "year": 1997,
+    "questionNumber": 144,
+    "question": "A girl is swinging on a swing in sitting position. When the same girl stands up, the period of swing will",
+    "options": {
+      "a": "be shorter",
+      "b": "be longer",
+      "c": "depend on the height of the girl",
+      "d": "not change"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Physics",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_145",
+    "year": 1997,
+    "questionNumber": 145,
+    "question": "In a group of persons travelling in a bus, 6 persons can speak Tamil, 15 can speak Hindi and 6 can speak Gujarati. In that group none can speak any other language. If 2 persons in the group can speak two languages and one person can speak all the three languages, then how many persons are there in the group?",
+    "options": {
+      "a": "21",
+      "b": "22",
+      "c": "23",
+      "d": "24"
+    },
+    "answer": "c",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_146",
+    "year": 1997,
+    "questionNumber": 146,
+    "question": "Examine the following statements regarding a set of balls: I. All balls are black. II. All balls are white. III. Only some balls are black. IV. No balls are black. Assuming that the balls can only be black or white, which two statements given above can both be true, but cannot both be false? Choose the correct answer from the codes given below:",
+    "options": {
+      "a": "I and IV",
+      "b": "I and III",
+      "c": "II and III",
+      "d": "III and IV"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_147",
+    "year": 1997,
+    "questionNumber": 147,
+    "question": "A boat which has a speed of 5 km/hr in still water crosses a river of width 1 km along the shortest possible path in 15 minutes. The velocity of the river water in km/hr is",
+    "options": {
+      "a": "1",
+      "b": "3",
+      "c": "4",
+      "d": "41"
+    },
+    "answer": "b",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_148",
+    "year": 1997,
+    "questionNumber": 148,
+    "question": "A survey was conducted on a sample of 1000 persons with reference to their knowledge of English, French and German. The results of the survey are presented in the given Venn diagram. The ratio of the number of persons who do not know any of the three languages to those who know all the three languages is",
+    "options": {
+      "a": "1/27",
+      "b": "1/25",
+      "c": "7/550",
+      "d": "175/1000"
+    },
+    "answer": "b",
+    "subject": "",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_149",
+    "year": 1997,
+    "questionNumber": 149,
+    "question": "Consider the figures given below: (In the given sequence of figures, the figure that would logically appear at Sl. No. V is)",
+    "options": {
+      "a": "Figure A",
+      "b": "Figure B",
+      "c": "Figure C",
+      "d": "Figure D"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Logical Reasoning & Puzzles",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_1997_150",
+    "year": 1997,
+    "questionNumber": 150,
+    "question": "The number of times in a day the Hour hand and the Minute hand of a clock at right angles is",
+    "options": {
+      "a": "44",
+      "b": "48",
+      "c": "24",
+      "d": "12"
+    },
+    "answer": "a",
+    "subject": "Science & Technology › Quantitative Aptitude",
+    "difficulty": "easy",
+    "explanation": ""
+  }
+]
