@@ -6,8 +6,8 @@ import { getFirestore } from 'firebase/firestore';
 import config from '../../../../firebase-applet-config.json';
 
 const firebaseConfig = {
-  // API key is injected at build time from the GOOGLE_API_KEY secret
-  apiKey: (import.meta.env.VITE_GOOGLE_API_KEY as string) || config.apiKey,
+  // API key comes from the GOOGLE_API_KEY Replit secret, exposed via envPrefix
+  apiKey: (import.meta.env.GOOGLE_API_KEY as string) || config.apiKey,
   authDomain: config.authDomain,
   projectId: config.projectId,
   storageBucket: config.storageBucket,
