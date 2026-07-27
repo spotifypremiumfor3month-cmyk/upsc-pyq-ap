@@ -17,7 +17,16 @@ function usePrelimsYearData(year: string) {
     setLoading(true);
     fetch(`${getBaseUrl()}/data/prelims/${year}.json`)
       .then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); })
-      .then(json => { if (mounted) { setData(json); setLoading(false); } })
+      .then(json => {
+        if (mounted) {
+          const parsedYear = Number(year);
+          const yearQuestions = (json as PrelimsQuestion[]).filter(q =>
+            q.year === parsedYear && q.questionNumber >= 1 && q.questionNumber <= 100
+          );
+          setData(yearQuestions.sort((a, b) => a.questionNumber - b.questionNumber));
+          setLoading(false);
+        }
+      })
       .catch(err => { if (mounted) { setError(err); setLoading(false); } });
     return () => { mounted = false; };
   }, [year]);
@@ -249,7 +258,8 @@ export default function PrelimsYear() {
                       {(['a', 'b', 'c', 'd'] as const).map(optKey => {
                         const optText = q.options[optKey];
                         if (!optText) return null;
-                        const isCorrect = q.answer === optKey;
+                        const hasAnswer = ['a', 'b', 'c', 'd'].includes(q.answer.toLowerCase());
+                        const isCorrect = hasAnswer && q.answer.toLowerCase() === optKey;
                         return (
                           <div
                             key={optKey}
@@ -262,9 +272,16 @@ export default function PrelimsYear() {
                         );
                       })}
                     </div>
-                    <div className="mt-4 ml-11 flex items-center gap-2 text-xs text-muted-foreground">
-                      <CheckCircle2 className="h-3.5 w-3.5 text-primary" />
-                      Correct answer: <span className="font-bold text-primary uppercase">{q.answer}</span>
+                    <div className="mt-4 ml-11 flex items-start gap-2 text-xs text-muted-foreground">
+                      <CheckCircle2 className="h-3.5 w-3.5 text-primary mt-0.5 shrink-0" />
+                      {['a', 'b', 'c', 'd'].includes(q.answer.toLowerCase()) ? (
+                        <span>Correct answer: <span className="font-bold text-primary uppercase">{q.answer}</span></span>
+                      ) : (
+                        <span>
+                          Answer not available in the source.
+                          {q.answerNote && <span className="block mt-1 text-muted-foreground/80">{q.answerNote}</span>}
+                        </span>
+                      )}
                     </div>
                   </div>
                 )}

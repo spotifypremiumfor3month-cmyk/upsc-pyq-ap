@@ -1,1 +1,2 @@
 - [Imported project security](imported-project-security.md) — scan tracked Replit configuration for exposed credentials before completing setup.
+- [UPSC prelims source](upsc-prelims-source.md) — year files are normalized to the first 100 GS questions from the 1995–2025 source collection.

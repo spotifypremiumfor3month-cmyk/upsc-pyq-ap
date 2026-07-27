@@ -416,6 +416,23 @@
     "explanation": ""
   },
   {
+    "id": "prelims_2020_27",
+    "year": 2020,
+    "questionNumber": 27,
+    "question": "Gandhi-Irwin Pact included which of the following?\n\n1. Invitation to Congress to participate in the Round Table Conference\n2. Withdrawal of Ordinances promulgated in connection with the Civil Disobedience Movement\n3. Acceptance of Gandhiji’s suggestion for enquiry into police excesses\n4. Release of only those prisoners who were not charged with violence\n\nSelect the correct answer using the code given below:",
+    "options": {
+      "a": "1 only",
+      "b": "1, 2 and 4 only",
+      "c": "3 only",
+      "d": "2, 3 and 4 only"
+    },
+    "answer": "x",
+    "answerNote": "The uploaded source marks the answer as unavailable (x).",
+    "subject": "Modern History › Gandhian Mass Movements (1915-1942)",
+    "difficulty": "moderate",
+    "explanation": ""
+  },
+  {
     "id": "prelims_2020_28",
     "year": 2020,
     "questionNumber": 28,
@@ -797,6 +814,23 @@
     "answer": "b",
     "subject": "Indian Economy › External Sector & Balance Of Payments",
     "difficulty": "easy",
+    "explanation": ""
+  },
+  {
+    "id": "prelims_2020_52",
+    "year": 2020,
+    "questionNumber": 52,
+    "question": "With reference to the international trade of India at present, which of the following statements is/are correct?\n\n1. India’s merchandise exports are less than its merchandise imports.\n2. India’s imports of iron and steel, chemicals, fertilisers and machinery have decreased in recent years.\n3. India’s exports of services are more than its imports of services.\n4. India suffers from an overall trade/current account deficit.\n\nSelect the correct answer using the code given below:",
+    "options": {
+      "a": "1 and 2 only",
+      "b": "2 and 4 only",
+      "c": "3 only",
+      "d": "1, 3 and 4 only"
+    },
+    "answer": "x",
+    "answerNote": "The uploaded source marks the answer as unavailable (x).",
+    "subject": "Indian Economy › External Sector & Balance Of Payments",
+    "difficulty": "moderate",
     "explanation": ""
   },
   {

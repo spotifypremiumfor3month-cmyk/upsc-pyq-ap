@@ -16,7 +16,16 @@ function usePrelimsYearData(year: string) {
     setLoading(true);
     fetch(`${getBaseUrl()}/data/prelims/${year}.json`)
       .then(r => { if (!r.ok) throw new Error('Failed'); return r.json(); })
-      .then(json => { if (mounted) { setData(json); setLoading(false); } })
+      .then(json => {
+        if (mounted) {
+          const parsedYear = Number(year);
+          const yearQuestions = (json as PrelimsQuestion[]).filter(q =>
+            q.year === parsedYear && q.questionNumber >= 1 && q.questionNumber <= 100
+          );
+          setData(yearQuestions.sort((a, b) => a.questionNumber - b.questionNumber));
+          setLoading(false);
+        }
+      })
       .catch(() => { if (mounted) setLoading(false); });
     return () => { mounted = false; };
   }, [year]);
@@ -62,9 +71,10 @@ export default function PrelimsTest() {
   }, [questions]);
 
   const startTest = () => {
+    const answerableQuestions = questions.filter(q => ['a', 'b', 'c', 'd'].includes(q.answer.toLowerCase()));
     const pool = subjectFilter === 'all'
-      ? questions
-      : questions.filter(q => q.subject?.startsWith(subjectFilter));
+      ? answerableQuestions
+      : answerableQuestions.filter(q => q.subject?.startsWith(subjectFilter));
     const picked = shuffle(pool).slice(0, numQuestions);
     if (picked.length === 0) { alert('No questions for that filter.'); return; }
     setTestQuestions(picked);
@@ -162,7 +172,9 @@ export default function PrelimsTest() {
                   </button>
                 ))}
               </div>
-              <p className="text-xs text-muted-foreground">{questions.length} questions available for {year}</p>
+              <p className="text-xs text-muted-foreground">
+                {questions.filter(q => ['a', 'b', 'c', 'd'].includes(q.answer.toLowerCase())).length} answer-key questions available for {year}
+              </p>
             </div>
 
             {uniqueSubjects.length > 0 && (

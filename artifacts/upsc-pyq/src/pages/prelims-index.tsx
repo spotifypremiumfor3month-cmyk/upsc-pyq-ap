@@ -36,11 +36,14 @@ function accentFor(year: number) {
 export default function PrelimsIndex() {
   const { data, loading, error } = usePrelimsIndex();
   const [searchYear, setSearchYear] = useState('');
+  const [selectedYear, setSelectedYear] = useState('all');
 
   const sorted = [...data].sort((a, b) => b.year - a.year);
-  const filtered = searchYear
-    ? sorted.filter(y => y.year.toString().includes(searchYear))
-    : sorted;
+  const filtered = sorted.filter(y => {
+    const matchesSearch = !searchYear || y.year.toString().includes(searchYear);
+    const matchesSelectedYear = selectedYear === 'all' || y.year.toString() === selectedYear;
+    return matchesSearch && matchesSelectedYear;
+  });
 
   const total = data.reduce((s, y) => s + y.count, 0);
 
@@ -82,16 +85,28 @@ export default function PrelimsIndex() {
         </div>
       </div>
 
-      {/* Search */}
-      <div className="relative max-w-xs">
-        <Calendar className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-        <input
-          type="text"
-          placeholder="Jump to year…"
-          value={searchYear}
-          onChange={e => setSearchYear(e.target.value)}
-          className="w-full bg-card border rounded-xl pl-10 pr-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary/50"
-        />
+      {/* Year filters */}
+      <div className="flex flex-col sm:flex-row gap-3">
+        <div className="relative flex-1 max-w-xs">
+          <Calendar className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+          <input
+            type="text"
+            inputMode="numeric"
+            placeholder="Search years…"
+            value={searchYear}
+            onChange={e => setSearchYear(e.target.value.replace(/\D/g, '').slice(0, 4))}
+            className="w-full bg-card border rounded-xl pl-10 pr-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary/50"
+          />
+        </div>
+        <select
+          value={selectedYear}
+          onChange={e => setSelectedYear(e.target.value)}
+          className="sm:w-52 bg-card border rounded-xl px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary/50 appearance-none cursor-pointer"
+          aria-label="Select prelims year"
+        >
+          <option value="all">All years (1995–2025)</option>
+          {sorted.map(yr => <option key={yr.year} value={yr.year}>{yr.year} · {yr.count} questions</option>)}
+        </select>
       </div>
 
       {/* Grid */}

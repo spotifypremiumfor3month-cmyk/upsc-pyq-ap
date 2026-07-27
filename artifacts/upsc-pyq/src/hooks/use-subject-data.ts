@@ -85,6 +85,7 @@ export type PrelimsQuestion = {
   question: string;
   options: QuestionOption;
   answer: string;
+  answerNote?: string;
   subject: string;      // topic/subject area from the paper
   difficulty: string;
   explanation: string;

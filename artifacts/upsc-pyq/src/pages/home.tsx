@@ -68,8 +68,15 @@ export default function Home() {
             Master the <span className="text-primary">Civil Services</span> Exam
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            The definitive collection of UPSC Previous Year Questions from 1979 to 2025. Practice, analyze, and conquer.
+            Study the complete 100-question UPSC Prelims papers from 1995 to 2025, then test yourself year by year.
           </p>
+          <Link
+            href="/prelims"
+            className="inline-flex items-center justify-center gap-2 bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-3 rounded-xl font-bold transition-all shadow-[0_0_20px_rgba(201,168,76,0.25)]"
+          >
+            <FileText className="h-5 w-5" />
+            Browse Year-Wise Prelims
+          </Link>
           
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-8 max-w-2xl mx-auto">
             <div className="bg-background/50 backdrop-blur rounded-xl p-4 border shadow-sm">
