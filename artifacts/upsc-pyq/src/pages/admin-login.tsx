@@ -19,8 +19,13 @@ export default function AdminLogin() {
       const { token } = await api.admin.login(password);
       saveAdminToken(token);
       navigate('/admin/posts');
-    } catch {
-      setError('Incorrect password. Please try again.');
+    } catch (err: any) {
+      const msg = err?.message ?? '';
+      if (msg.toLowerCase().includes('invalid') || msg.toLowerCase().includes('401') || msg.toLowerCase().includes('incorrect')) {
+        setError('Incorrect password. Please try again.');
+      } else {
+        setError(`Login failed: ${msg || 'Could not reach server. Please try again.'}`);
+      }
     } finally {
       setLoading(false);
     }
