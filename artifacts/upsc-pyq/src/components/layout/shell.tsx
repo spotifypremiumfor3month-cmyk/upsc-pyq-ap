@@ -122,6 +122,15 @@ export function Shell({ children }: { children: React.ReactNode }) {
               )}
             </button>
 
+            {/* Admin (desktop) */}
+            <Link href="/admin"
+              className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-semibold text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
+              title="Admin Dashboard"
+            >
+              <Shield className="h-4 w-4" />
+              <span className="hidden lg:inline">Admin</span>
+            </Link>
+
             {/* Dark mode */}
             <button
               onClick={toggle}
