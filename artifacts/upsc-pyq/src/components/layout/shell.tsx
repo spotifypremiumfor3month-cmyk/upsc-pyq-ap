@@ -147,8 +147,8 @@ export function Shell({ children }: { children: React.ReactNode }) {
               {theme === 'dark' ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
             </button>
 
-            {/* Mobile three-dot menu */}
-            <div className="relative md:hidden" ref={menuRef}>
+            {/* Three-dot menu (all screen sizes) */}
+            <div className="relative" ref={menuRef}>
               <button
                 onClick={() => setMenuOpen(v => !v)}
                 className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
