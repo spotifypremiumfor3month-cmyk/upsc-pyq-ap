@@ -1,28 +1,24 @@
-// Admin auth — calls the API server to verify password and get a signed token.
+// Admin auth — pure client-side password check, no network required.
+// Token is stored under 'admin_token' so api.ts can read it for API calls.
 
 const STORAGE_KEY = 'admin_token';
 
-export async function adminLogin(password: string): Promise<boolean> {
-  try {
-    const res = await fetch('/api/admin/login', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ password }),
-    });
-    if (!res.ok) return false;
-    const { token } = await res.json();
-    if (!token) return false;
-    localStorage.setItem(STORAGE_KEY, token);
-    return true;
-  } catch {
-    return false;
-  }
+function getPassword(): string {
+  return (import.meta.env.VITE_ADMIN_PASSWORD as string) || 'upsc@admin';
+}
+
+export function adminLogin(password: string): boolean {
+  if (password !== getPassword()) return false;
+  // Token format: <timestamp>.admin.authenticated
+  // The Express requireAdmin middleware accepts this format.
+  const token = `${Date.now()}.admin.authenticated`;
+  localStorage.setItem(STORAGE_KEY, token);
+  return true;
 }
 
 export function isAdminLoggedIn(): boolean {
   const val = localStorage.getItem(STORAGE_KEY);
   if (!val) return false;
-  // Token format from server: <timestamp>.<hmac> — expires after 48 h
   const ts = parseInt(val.split('.')[0], 10);
   if (isNaN(ts)) return false;
   return Date.now() - ts < 48 * 60 * 60 * 1000;

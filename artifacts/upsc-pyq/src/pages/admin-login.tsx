@@ -9,11 +9,10 @@ export default function AdminLogin() {
   const [show, setShow] = useState(false);
   const [error, setError] = useState('');
 
-  async function handleSubmit(e: React.FormEvent) {
+  function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError('');
-    const ok = await adminLogin(password);
-    if (ok) {
+    if (adminLogin(password)) {
       navigate('/admin/posts');
     } else {
       setError('Incorrect password. Please try again.');
@@ -62,8 +61,7 @@ export default function AdminLogin() {
 
           <button
             type="submit"
-            disabled={!password}
-            className="w-full py-2.5 rounded-xl bg-primary text-primary-foreground font-semibold text-sm hover:bg-primary/90 disabled:opacity-50 transition-colors"
+            className="w-full py-2.5 rounded-xl bg-primary text-primary-foreground font-semibold text-sm hover:bg-primary/90 transition-colors"
           >
             Sign In
           </button>
