@@ -1,50 +1,46 @@
-# UPSC PYQ Master
+# UPSC Study Studio
 
-A static UPSC previous-year-question practice app with subject browsing, prelims papers, test mode, results, and Firebase authentication.
-
-## Run & Operate
-
-- `pnpm install --frozen-lockfile` — install the imported workspace dependencies
-- `PORT=5173 BASE_PATH=/ pnpm --filter @workspace/upsc-pyq run dev` — run the website locally
-- `pnpm --filter @workspace/upsc-pyq run build` — build the static website for publishing
-- The Replit workflow `UPSC PYQ` runs the website on port 5173.
-- Firebase configuration is provided by `firebase-applet-config.json`.
+A full-stack web app for UPSC exam preparation — PYQ practice, prelims year-wise tests (1995–2025), articles, mock tests, and an admin dashboard.
 
 ## Stack
 
-- pnpm workspaces, Node.js 20, TypeScript 5.9
-- React 19 + Vite 7
-- Tailwind CSS 4
-- Firebase Authentication and Firestore
+- **Frontend**: React 19 + Vite + Tailwind CSS v4 + shadcn/ui (`artifacts/upsc-pyq`)
+- **Backend**: Express 5 API server (`artifacts/api-server`)
+- **Auth**: Firebase (Google Sign-In) + custom HMAC admin tokens
+- **Database**: Drizzle ORM (PostgreSQL via `lib/db`)
+- **Monorepo**: pnpm workspaces
 
-## Where things live
+## Running the project
 
-- `artifacts/upsc-pyq/src/` — website source
-- `artifacts/upsc-pyq/public/data/` — question and subject data
-- `artifacts/upsc-pyq/src/pages/` — app pages and practice flows
-- `artifacts/upsc-pyq/src/lib/` — Firebase, authentication, and theme helpers
-- `attached_assets/` — imported UPSC PDF reference files
-- `firebase-applet-config.json` and `firestore.rules` — Firebase project configuration
+Two workflows must both be running:
 
-## Architecture decisions
+| Workflow | Command | Port |
+|---|---|---|
+| `UPSC PYQ` | `PORT=5173 BASE_PATH=/ pnpm --filter @workspace/upsc-pyq run dev` | 5173 → external 80 |
+| `API Server` | `PORT=8080 pnpm --filter @workspace/api-server run dev` | 8080 |
 
-- The website is a static Vite build and does not require a backend service to run.
-- The app uses the root URL (`/`) for Replit preview and publishing.
-- Public question data is loaded from files under the app's public data directory.
+The frontend proxies `/api/*` to the API server on port 8080 (configured in `artifacts/upsc-pyq/vite.config.ts`).
 
-## Product
+## Admin login
 
-Users can browse UPSC subjects and previous-year prelims papers, take timed practice tests, review results, and sign in with Google to use Firebase-backed account features.
+Go to `/admin`. Default password: `upsc@admin`  
+Set the `ADMIN_PASSWORD` environment variable to change it.  
+The `SESSION_SECRET` secret is used to sign admin tokens (already configured).
+
+## Firebase config
+
+`firebase-applet-config.json` at the root holds the Firebase project settings (project ID, API key, etc.). Update this file to point to a different Firebase project.
+
+## Key directories
+
+```
+artifacts/upsc-pyq/       Frontend React app
+artifacts/api-server/     Express API server
+lib/db/                   Drizzle ORM schema & migrations
+lib/api-spec/             OpenAPI spec + codegen config
+lib/api-client-react/     Generated React Query hooks
+```
 
 ## User preferences
 
-Keep the imported GitHub project unchanged apart from the minimum Replit setup and documentation needed to run and publish it.
-
-## Gotchas
-
-- Run `pnpm install --frozen-lockfile` after importing the repository if workspace dependencies are missing.
-- Keep `BASE_PATH=/` for the current root-mounted Replit artifact.
-
-## Pointers
-
-- The production output is `artifacts/upsc-pyq/dist/public`.
+- Keep the existing monorepo structure and stack — do not restructure or migrate.
