@@ -1,0 +1,76 @@
+Build a full-stack, responsive UPSC Study Studio web application with a public student portal, daily content manager, interactive mock test engine, and password-protected admin dashboard.
+
+==================================================
+1. TECH STACK & DATABASE SCHEMA
+==================================================
+- Stack: React / Next.js frontend with Tailwind CSS styling, Node/Express or Next API routes backend, and a PostgreSQL / Supabase persistent database.
+
+Database Schema:
+Table 1: `posts`
+- `id` (primary key)
+- `title` (string)
+- `slug` (unique string)
+- `category` (enum: 'Daily Current Affairs', 'Editorial Analysis', 'GS 1', 'GS 2', 'GS 3', 'GS 4', 'PDF Downloads')
+- `content` (text / markdown)
+- `tags` (array of strings, e.g., ['Polity', 'InternalSecurity', 'PIB'])
+- `pdf_url` (string, optional URL for embedded PDF viewing)
+- `published_at` (timestamp)
+
+Table 2: `mcqs`
+- `id` (primary key)
+- `question_text` (text)
+- `option_a` (string)
+- `option_b` (string)
+- `option_c` (string)
+- `option_d` (string)
+- `correct_option` (enum: 'A', 'B', 'C', 'D')
+- `explanation` (text)
+- `year` (string / int, e.g., '2026', '2025', '2024', 'Practice')
+- `subject` (string, e.g., 'Polity', 'History', 'Economy', 'Environment', 'Geography', 'Science & Tech')
+- `topic` (string, e.g., 'Fundamental Rights', 'Preamble', 'Monetary Policy', 'Climate Change')
+
+==================================================
+2. PUBLIC STUDENT PORTAL FRONTEND
+==================================================
+- Header Navigation: Brand Logo ("UPSC Study Studio"), Navigation Links (Home, Daily Current Affairs, GS Papers, Mock Tests, PDF Library), Search Bar, and Dark/Light Mode toggle.
+- Home Page:
+  * Hero banner displaying latest daily current affairs update.
+  * Search Bar with real-time text matching across post titles, tags, and topics.
+  * Category Cards & Tag Cloud (#Polity, #Economy, #PIB, #Editorial).
+  * Recent Articles Grid with category badges and published dates.
+- Single Article View (`/post/[slug]`):
+  * Article header with category, publish date, and read time.
+  * Markdown/Rich Text body renderer for study notes.
+  * Embedded PDF Viewer (iframe/PDF previewer) if a `pdf_url` exists, plus a high-visibility "Download PDF" button.
+
+==================================================
+3. MOCK TEST & MCQ MODULE (`/mock-tests`)
+==================================================
+- Filter Bar at the top with 3 cascading dropdown selectors:
+  1. Filter by Year (All Years, 2026, 2025, 2024, Practice)
+  2. Filter by Subject (All Subjects, Polity, History, Economy, Environment, Geography, Science & Tech)
+  3. Filter by Topic (Dynamic dropdown listing topics belonging to the selected Subject)
+- Quiz Engine & UI:
+  * Display questions matching the selected filters.
+  * Live Quiz Header showing Question Count (e.g., "Question 4 of 15") and a Score Tracker (+2.00 for correct, -0.66 for incorrect).
+  * Interactive Radio buttons for options A, B, C, D.
+  * "Check Answer" button: Instantly highlights selected answer in RED (if wrong) and correct answer in GREEN.
+  * Collapsible "View Detailed Solution" card underneath displaying the explanation text.
+  * "Reset Filter" button to quickly restart practice mode.
+
+==================================================
+4. ADMIN DASHBOARD (`/admin`)
+==================================================
+- Authentication: Secure password-protected login gate for admin access.
+- Tab 1: Daily Study Material Publisher (`/admin/posts`):
+  * Form to create and edit articles: Title, Category selector, Content Editor, Tags input, Publish Date, and PDF URL field.
+  * List of published posts with search, Edit, and Delete buttons.
+- Tab 2: MCQ & Test Manager (`/admin/mcqs`):
+  * Manual Question Creator Form: Question Text, Options A-D, Correct Option selector, Explanation, Year, Subject, and Topic.
+  * CSV Bulk Uploader: Upload a `.csv` file containing headers (`question_text`, `option_a`, `option_b`, `option_c`, `option_d`, `correct_option`, `explanation`, `year`, `subject`, `topic`) to import dozens of questions at once.
+  * Management Table displaying all database questions with filtering and single-click Delete options.
+
+==================================================
+5. EXECUTION & SEED DATA
+==================================================
+- Seed the database with 3 realistic sample UPSC articles (with PDF links) and 5 sample Polity/History MCQs with detailed explanations so the app is immediately fully functional upon build.

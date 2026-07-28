@@ -2,7 +2,8 @@ import { useState, useRef, useEffect } from 'react';
 import { Link, useLocation } from 'wouter';
 import {
   BookOpen, GraduationCap, Sun, Moon, MoreVertical,
-  TrendingUp, CheckCircle2, Target, Trophy, X, BarChart3, FileText,
+  TrendingUp, CheckCircle2, Target, Trophy, X, BarChart3,
+  Newspaper, TestTube2, FileDown, Home, Shield,
 } from 'lucide-react';
 import { useTheme } from '@/lib/theme';
 import { useIndexData, SUBJECT_CATEGORIES } from '@/hooks/use-subject-data';
@@ -21,6 +22,13 @@ const SUBJECT_COLORS: Record<string, string> = {
   world_geography:  'bg-blue-600',
 };
 
+const STUDIO_NAV = [
+  { href: '/articles',                        label: 'Daily CA',    icon: <Newspaper  className="h-3.5 w-3.5" /> },
+  { href: '/articles?category=GS%201',        label: 'GS Papers',   icon: <BookOpen   className="h-3.5 w-3.5" /> },
+  { href: '/mock-tests',                      label: 'Mock Tests',  icon: <TestTube2  className="h-3.5 w-3.5" /> },
+  { href: '/articles?category=PDF%20Downloads', label: 'PDF Library', icon: <FileDown   className="h-3.5 w-3.5" /> },
+];
+
 function ScoreBadge({ score }: { score: number }) {
   if (score >= 80) return <span className="text-xs font-bold text-green-500">{score}%</span>;
   if (score >= 60) return <span className="text-xs font-bold text-primary">{score}%</span>;
@@ -30,13 +38,12 @@ function ScoreBadge({ score }: { score: number }) {
 export function Shell({ children }: { children: React.ReactNode }) {
   const { theme, toggle } = useTheme();
   const { data: subjects } = useIndexData();
-  const [, navigate] = useLocation();
+  const [location, navigate] = useLocation();
 
-  const [menuOpen, setMenuOpen] = useState(false);
+  const [menuOpen,     setMenuOpen]     = useState(false);
   const [progressOpen, setProgressOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
 
-  // Close the three-dot menu when clicking outside
   useEffect(() => {
     function handler(e: MouseEvent) {
       if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
@@ -47,38 +54,67 @@ export function Shell({ children }: { children: React.ReactNode }) {
     return () => document.removeEventListener('mousedown', handler);
   }, [menuOpen]);
 
-  const progress = getAllProgress();
+  const progress  = getAllProgress();
   const attempted = Object.keys(progress).length;
-  const passed = Object.values(progress).filter(p => p.bestScore >= 60).length;
+  const passed    = Object.values(progress).filter(p => p.bestScore >= 60).length;
+
+  const isStudio = ['/articles', '/mock-tests'].some(p => location.startsWith(p));
 
   return (
     <div className="min-h-[100dvh] flex flex-col bg-background selection:bg-primary selection:text-primary-foreground">
-      {/* Header */}
+
+      {/* ── Primary header ────────────────────────────────────────── */}
       <header className="sticky top-0 z-50 w-full border-b bg-card/80 backdrop-blur-md">
-        <div className="container mx-auto px-4 h-16 flex items-center justify-between max-w-6xl">
+        <div className="container mx-auto px-4 h-14 flex items-center justify-between max-w-6xl">
+
           {/* Logo */}
           <Link
             href="/"
-            className="flex items-center gap-2 text-primary font-bold text-xl tracking-tight transition-opacity hover:opacity-80"
+            className="flex items-center gap-2 text-primary font-bold text-lg tracking-tight transition-opacity hover:opacity-80"
           >
-            <GraduationCap className="h-7 w-7" />
-            <span className="hidden sm:inline">UPSC PYQ Master</span>
+            <GraduationCap className="h-6 w-6" />
+            <span className="hidden sm:inline">UPSC Study Studio</span>
             <span className="sm:hidden">UPSC</span>
           </Link>
 
+          {/* Studio nav links (desktop) */}
+          <nav className="hidden md:flex items-center gap-0.5">
+            <Link
+              href="/"
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
+                location === '/' ? 'bg-primary/10 text-primary' : 'text-muted-foreground hover:text-foreground hover:bg-secondary'
+              }`}
+            >
+              <Home className="h-3.5 w-3.5" /> Home
+            </Link>
+            {STUDIO_NAV.map(({ href, label, icon }) => {
+              const active = location.startsWith(href.split('?')[0]);
+              return (
+                <Link
+                  key={href}
+                  href={href}
+                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
+                    active ? 'bg-primary/10 text-primary' : 'text-muted-foreground hover:text-foreground hover:bg-secondary'
+                  }`}
+                >
+                  {icon}{label}
+                </Link>
+              );
+            })}
+          </nav>
+
           {/* Right controls */}
-          <div className="flex items-center gap-1.5 sm:gap-2">
-            {/* Google Sign In / User menu */}
+          <div className="flex items-center gap-1.5">
             <AuthButton />
 
-            {/* Progress button */}
+            {/* Progress */}
             <button
               onClick={() => setProgressOpen(true)}
-              className="relative flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm font-semibold text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
+              className="relative hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-semibold text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
               title="My Progress"
             >
               <TrendingUp className="h-4 w-4" />
-              <span className="hidden sm:inline">Progress</span>
+              <span className="hidden lg:inline">Progress</span>
               {attempted > 0 && (
                 <span className="absolute -top-0.5 -right-0.5 h-4 w-4 bg-primary text-primary-foreground rounded-full text-[10px] font-black flex items-center justify-center">
                   {attempted}
@@ -86,93 +122,46 @@ export function Shell({ children }: { children: React.ReactNode }) {
               )}
             </button>
 
-            {/* Dark mode toggle */}
+            {/* Dark mode */}
             <button
               onClick={toggle}
               className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
-              title={theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'}
+              title={theme === 'dark' ? 'Light mode' : 'Dark mode'}
             >
-              {theme === 'dark' ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+              {theme === 'dark' ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
             </button>
 
-            {/* Three-dot subject picker */}
-            <div className="relative" ref={menuRef}>
+            {/* Mobile three-dot menu */}
+            <div className="relative md:hidden" ref={menuRef}>
               <button
                 onClick={() => setMenuOpen(v => !v)}
                 className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
-                title="Jump to subject"
               >
-                <MoreVertical className="h-5 w-5" />
+                <MoreVertical className="h-4 w-4" />
               </button>
-
               {menuOpen && (
-                <div className="absolute right-0 top-full mt-2 w-72 bg-card border rounded-2xl shadow-2xl overflow-hidden z-50 animate-in fade-in zoom-in-95 duration-150">
-                  <div className="px-4 py-3 border-b bg-secondary/30">
-                    <p className="text-xs font-bold text-muted-foreground uppercase tracking-wider">Select Subject Area</p>
-                  </div>
-                   <div className="p-2 border-b">
-                     <button
-                       onClick={() => {
-                         navigate('/prelims');
-                         setMenuOpen(false);
-                       }}
-                       className="w-full flex items-center gap-3 px-3 py-2.5 rounded-xl bg-primary/10 text-left hover:bg-primary/15 transition-colors group"
-                     >
-                       <span className="h-9 w-9 rounded-lg bg-primary text-primary-foreground flex items-center justify-center shrink-0">
-                         <FileText className="h-4 w-4" />
-                       </span>
-                       <span className="min-w-0">
-                         <span className="block text-sm font-bold text-foreground group-hover:text-primary transition-colors">PYQ Papers</span>
-                         <span className="block text-xs text-muted-foreground">Year-wise UPSC Prelims</span>
-                       </span>
-                     </button>
-                   </div>
-                  <div className="py-2 max-h-96 overflow-y-auto px-2 space-y-3">
-                    {SUBJECT_CATEGORIES.map(cat => {
-                      const catSubjects = subjects.filter(s => cat.slugs.includes(s.slug));
-                      if (catSubjects.length === 0) return null;
-                      return (
-                        <div key={cat.category} className="space-y-1">
-                          <div className="px-2.5 py-1 text-[11px] font-extrabold uppercase tracking-widest text-primary/80 flex items-center gap-1.5 border-b border-border/40 pb-1">
-                            <span className="h-1.5 w-1.5 rounded-full bg-primary" />
-                            {cat.category}
-                          </div>
-                          {catSubjects.map(s => {
-                            const p = progress[s.slug];
-                            return (
-                              <button
-                                key={s.slug}
-                                onClick={() => {
-                                  navigate(`/subject/${s.slug}`);
-                                  setMenuOpen(false);
-                                }}
-                                className="w-full flex items-center gap-2.5 px-3 py-2 rounded-lg hover:bg-secondary/80 transition-colors text-left group"
-                              >
-                                <span className={`h-2 w-2 rounded-full flex-shrink-0 ${SUBJECT_COLORS[s.slug] ?? 'bg-primary'}`} />
-                                <span className="flex-1 text-sm font-medium text-foreground group-hover:text-primary transition-colors">{s.subject}</span>
-                                {p ? (
-                                  <ScoreBadge score={p.bestScore} />
-                                ) : (
-                                  <span className="text-[10px] text-muted-foreground bg-secondary px-1.5 py-0.5 rounded">New</span>
-                                )}
-                              </button>
-                            );
-                          })}
-                        </div>
-                      );
-                    })}
-                  </div>
-                  <div className="border-t px-4 py-2.5 bg-secondary/20">
-                    <button
-                      onClick={() => {
-                        navigate('/');
-                        setMenuOpen(false);
-                      }}
-                      className="w-full text-xs font-semibold text-muted-foreground hover:text-foreground py-1 transition-colors flex items-center justify-center gap-1.5"
-                    >
-                      <BookOpen className="h-3.5 w-3.5" /> View All Subjects
-                    </button>
-                  </div>
+                <div className="absolute right-0 top-full mt-1 w-52 rounded-xl border bg-card shadow-xl py-1 z-50">
+                  <Link href="/" onClick={() => setMenuOpen(false)}
+                    className="flex items-center gap-2 px-4 py-2.5 text-sm hover:bg-secondary transition-colors">
+                    <Home className="h-4 w-4 text-muted-foreground" /> Home
+                  </Link>
+                  {STUDIO_NAV.map(({ href, label, icon }) => (
+                    <Link key={href} href={href} onClick={() => setMenuOpen(false)}
+                      className="flex items-center gap-2 px-4 py-2.5 text-sm hover:bg-secondary transition-colors">
+                      <span className="text-muted-foreground">{icon}</span>{label}
+                    </Link>
+                  ))}
+                  <div className="border-t my-1" />
+                  <button
+                    onClick={() => { setProgressOpen(true); setMenuOpen(false); }}
+                    className="w-full flex items-center gap-2 px-4 py-2.5 text-sm hover:bg-secondary transition-colors"
+                  >
+                    <TrendingUp className="h-4 w-4 text-muted-foreground" /> My Progress
+                  </button>
+                  <Link href="/admin" onClick={() => setMenuOpen(false)}
+                    className="flex items-center gap-2 px-4 py-2.5 text-sm hover:bg-secondary transition-colors text-muted-foreground">
+                    <Shield className="h-4 w-4" /> Admin
+                  </Link>
                 </div>
               )}
             </div>
@@ -180,123 +169,102 @@ export function Shell({ children }: { children: React.ReactNode }) {
         </div>
       </header>
 
-      {/* Main */}
-      <main className="flex-1 w-full max-w-6xl mx-auto px-4 py-8">{children}</main>
+      {/* ── Main content ─────────────────────────────────────────── */}
+      <main className="flex-1">
+        {children}
+      </main>
 
-      {/* Footer */}
-      <footer className="border-t bg-card mt-auto">
-        <div className="container mx-auto px-4 h-16 flex items-center justify-center max-w-6xl text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} UPSC PYQ Master. A Premium Preparation Portal.
-        </div>
-      </footer>
-
-      {/* Progress Panel (slide-over) */}
+      {/* ── Progress drawer ───────────────────────────────────────── */}
       {progressOpen && (
         <>
-          {/* Backdrop */}
-          <div
-            className="fixed inset-0 bg-black/40 backdrop-blur-sm z-50 animate-in fade-in duration-200"
-            onClick={() => setProgressOpen(false)}
-          />
-          {/* Panel */}
-          <div className="fixed right-0 top-0 bottom-0 w-full max-w-sm bg-card border-l shadow-2xl z-50 flex flex-col animate-in slide-in-from-right duration-300">
-            {/* Panel header */}
-            <div className="flex items-center justify-between px-6 py-5 border-b">
-              <div className="flex items-center gap-2">
-                <BarChart3 className="h-5 w-5 text-primary" />
-                <h2 className="text-lg font-bold text-foreground">My Progress</h2>
+          <div className="fixed inset-0 z-40 bg-black/40" onClick={() => setProgressOpen(false)} />
+          <div className="fixed right-0 top-0 bottom-0 z-50 w-full max-w-sm bg-card border-l shadow-2xl flex flex-col">
+            <div className="flex items-center justify-between px-5 py-4 border-b">
+              <div>
+                <h2 className="font-bold text-base">My Progress</h2>
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  {attempted} tests · {passed} passed
+                </p>
               </div>
-              <button
-                onClick={() => setProgressOpen(false)}
-                className="p-1.5 rounded-lg hover:bg-secondary transition-colors text-muted-foreground hover:text-foreground"
-              >
+              <button onClick={() => setProgressOpen(false)} className="p-1.5 rounded-lg hover:bg-secondary transition-colors">
                 <X className="h-5 w-5" />
               </button>
             </div>
 
             {/* Summary row */}
-            <div className="grid grid-cols-3 gap-px bg-border m-6 mb-4 rounded-xl overflow-hidden border">
-              <div className="bg-card px-3 py-4 text-center">
-                <div className="text-2xl font-black text-foreground">{attempted}</div>
-                <div className="text-[11px] text-muted-foreground uppercase tracking-wide mt-0.5">Attempted</div>
-              </div>
-              <div className="bg-card px-3 py-4 text-center">
-                <div className="text-2xl font-black text-green-500">{passed}</div>
-                <div className="text-[11px] text-muted-foreground uppercase tracking-wide mt-0.5">Passed</div>
-              </div>
-              <div className="bg-card px-3 py-4 text-center">
-                <div className="text-2xl font-black text-foreground">
-                  {subjects.length > 0 ? Math.round((attempted / subjects.length) * 100) : 0}%
+            {attempted > 0 && (
+              <div className="grid grid-cols-3 gap-2 px-5 py-4 border-b">
+                <div className="text-center">
+                  <p className="text-xl font-bold text-primary">{attempted}</p>
+                  <p className="text-[11px] text-muted-foreground">Attempted</p>
                 </div>
-                <div className="text-[11px] text-muted-foreground uppercase tracking-wide mt-0.5">Coverage</div>
+                <div className="text-center">
+                  <p className="text-xl font-bold text-green-500">{passed}</p>
+                  <p className="text-[11px] text-muted-foreground">Passed</p>
+                </div>
+                <div className="text-center">
+                  <p className="text-xl font-bold text-amber-500">
+                    {attempted > 0 ? Math.round((passed / attempted) * 100) : 0}%
+                  </p>
+                  <p className="text-[11px] text-muted-foreground">Pass Rate</p>
+                </div>
               </div>
-            </div>
+            )}
 
-            {/* Subject list grouped by category */}
-            <div className="flex-1 overflow-y-auto px-6 pb-6 space-y-5">
-              {subjects.length === 0 && (
-                <p className="text-sm text-muted-foreground text-center py-10">Loading subjects…</p>
-              )}
-              {SUBJECT_CATEGORIES.map(cat => {
-                const catSubjects = subjects.filter(s => cat.slugs.includes(s.slug));
-                if (catSubjects.length === 0) return null;
+            <div className="flex-1 overflow-y-auto px-5 py-4 space-y-6">
+              {SUBJECT_CATEGORIES.map(group => {
+                const groupSubjects = subjects.filter(s => group.slugs.includes(s.slug));
+                if (!groupSubjects.length) return null;
                 return (
-                  <div key={cat.category} className="space-y-2.5">
-                    <div className="text-xs font-bold text-muted-foreground uppercase tracking-wider flex items-center gap-1.5 border-b pb-1">
-                      <span className="h-1.5 w-1.5 rounded-full bg-primary" />
-                      {cat.category}
-                    </div>
-                    {catSubjects.map(s => {
-                      const p = progress[s.slug];
-                      return (
-                        <div
-                          key={s.slug}
-                          className="bg-background rounded-xl border p-3.5 cursor-pointer hover:border-primary/40 transition-colors group"
-                          onClick={() => {
-                            navigate(`/subject/${s.slug}`);
-                            setProgressOpen(false);
-                          }}
-                        >
-                          <div className="flex items-center justify-between mb-1.5">
-                            <div className="flex items-center gap-2">
-                              <span className={`h-2 w-2 rounded-full ${SUBJECT_COLORS[s.slug] ?? 'bg-primary'}`} />
-                              <span className="text-sm font-semibold text-foreground group-hover:text-primary transition-colors">
-                                {s.subject}
-                              </span>
+                  <div key={group.category}>
+                    <h3 className="text-xs font-bold text-muted-foreground uppercase tracking-wider mb-3">
+                      {group.category}
+                    </h3>
+                    <div className="space-y-3">
+                      {groupSubjects.map(sub => {
+                        const p = progress[sub.slug];
+                        return (
+                          <div
+                            key={sub.slug}
+                            className="p-3 rounded-xl border bg-background cursor-pointer hover:border-primary/30 transition-colors"
+                            onClick={() => { navigate(`/subject/${sub.slug}`); setProgressOpen(false); }}
+                          >
+                            <div className="flex items-center justify-between mb-2">
+                              <div className="flex items-center gap-2">
+                                <div className={`h-2.5 w-2.5 rounded-full ${SUBJECT_COLORS[sub.slug] || 'bg-muted'}`} />
+                                <span className="text-sm font-medium">{sub.subject}</span>
+                              </div>
+                              {p ? (
+                                <div className="flex items-center gap-1.5">
+                                  {p.bestScore >= 60
+                                    ? <CheckCircle2 className="h-4 w-4 text-green-500" />
+                                    : <Target className="h-4 w-4 text-primary" />}
+                                  <ScoreBadge score={p.bestScore} />
+                                </div>
+                              ) : (
+                                <span className="text-xs text-muted-foreground italic">Not started</span>
+                              )}
                             </div>
                             {p ? (
-                              <div className="flex items-center gap-1.5">
-                                {p.bestScore >= 60 ? (
-                                  <CheckCircle2 className="h-4 w-4 text-green-500" />
-                                ) : (
-                                  <Target className="h-4 w-4 text-primary" />
-                                )}
-                                <span className="text-sm font-bold text-foreground">{p.bestScore}%</span>
-                              </div>
+                              <>
+                                <div className="h-1.5 w-full bg-secondary rounded-full overflow-hidden">
+                                  <div
+                                    className={`h-full rounded-full transition-all ${p.bestScore >= 60 ? 'bg-green-500' : 'bg-primary'}`}
+                                    style={{ width: `${p.bestScore}%` }}
+                                  />
+                                </div>
+                                <div className="flex justify-between text-[11px] text-muted-foreground mt-1.5">
+                                  <span>{p.attempts} attempt{p.attempts !== 1 ? 's' : ''}</span>
+                                  <span>Best: {p.bestScore}% · Last: {p.lastScore}%</span>
+                                </div>
+                              </>
                             ) : (
-                              <span className="text-xs text-muted-foreground italic">Not started</span>
+                              <div className="h-1.5 w-full bg-secondary rounded-full" />
                             )}
                           </div>
-
-                          {p ? (
-                            <>
-                              <div className="h-1.5 w-full bg-secondary rounded-full overflow-hidden">
-                                <div
-                                  className={`h-full rounded-full transition-all ${p.bestScore >= 60 ? 'bg-green-500' : 'bg-primary'}`}
-                                  style={{ width: `${p.bestScore}%` }}
-                                />
-                              </div>
-                              <div className="flex justify-between text-[11px] text-muted-foreground mt-1.5">
-                                <span>{p.attempts} attempt{p.attempts !== 1 ? 's' : ''}</span>
-                                <span>Best: {p.bestScore}% · Last: {p.lastScore}%</span>
-                              </div>
-                            </>
-                          ) : (
-                            <div className="h-1.5 w-full bg-secondary rounded-full" />
-                          )}
-                        </div>
-                      );
-                    })}
+                        );
+                      })}
+                    </div>
                   </div>
                 );
               })}

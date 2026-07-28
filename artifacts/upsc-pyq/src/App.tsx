@@ -12,6 +12,12 @@ import TestResults from '@/pages/test-results';
 import PrelimsIndex from '@/pages/prelims-index';
 import PrelimsYear from '@/pages/prelims-year';
 import PrelimsTest from '@/pages/prelims-test';
+import Articles from '@/pages/articles';
+import ArticleDetail from '@/pages/article-detail';
+import MockTests from '@/pages/mock-tests';
+import AdminLogin from '@/pages/admin-login';
+import AdminPosts from '@/pages/admin-posts';
+import AdminMcqs from '@/pages/admin-mcqs';
 import { ThemeProvider } from '@/lib/theme';
 import { AuthProvider } from '@/lib/auth-context';
 
@@ -21,6 +27,7 @@ function Router() {
   return (
     <Shell>
       <Switch>
+        {/* PYQ routes */}
         <Route path="/" component={Home} />
         <Route path="/subject/:slug" component={SubjectDetail} />
         <Route path="/test/:slug" component={TestMode} />
@@ -28,6 +35,14 @@ function Router() {
         <Route path="/prelims" component={PrelimsIndex} />
         <Route path="/prelims/:year" component={PrelimsYear} />
         <Route path="/prelims/:year/test" component={PrelimsTest} />
+        {/* Study Studio routes */}
+        <Route path="/articles" component={Articles} />
+        <Route path="/articles/:slug" component={ArticleDetail} />
+        <Route path="/mock-tests" component={MockTests} />
+        {/* Admin */}
+        <Route path="/admin" component={AdminLogin} />
+        <Route path="/admin/posts" component={AdminPosts} />
+        <Route path="/admin/mcqs" component={AdminMcqs} />
         <Route component={NotFound} />
       </Switch>
     </Shell>
