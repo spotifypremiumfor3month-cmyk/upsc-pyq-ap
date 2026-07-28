@@ -9,6 +9,9 @@ import { useTheme } from '@/lib/theme';
 import { useIndexData, SUBJECT_CATEGORIES } from '@/hooks/use-subject-data';
 import { getAllProgress } from '@/lib/progress';
 import { AuthButton } from '@/components/auth-button';
+import { useAuth } from '@/lib/auth-context';
+
+const ADMIN_EMAIL = 'spotifypremiumfor3month@gmail.com';
 
 const SUBJECT_COLORS: Record<string, string> = {
   current_affairs:  'bg-[#C9A84C]',
@@ -38,6 +41,8 @@ function ScoreBadge({ score }: { score: number }) {
 export function Shell({ children }: { children: React.ReactNode }) {
   const { theme, toggle } = useTheme();
   const { data: subjects } = useIndexData();
+  const { user } = useAuth();
+  const isAdmin = user?.email === ADMIN_EMAIL;
   const [location, navigate] = useLocation();
 
   const [menuOpen,     setMenuOpen]     = useState(false);
@@ -122,14 +127,16 @@ export function Shell({ children }: { children: React.ReactNode }) {
               )}
             </button>
 
-            {/* Admin (desktop) */}
-            <Link href="/admin"
-              className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-semibold text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
-              title="Admin Dashboard"
-            >
-              <Shield className="h-4 w-4" />
-              <span className="hidden lg:inline">Admin</span>
-            </Link>
+            {/* Admin (desktop) — only for site admin */}
+            {isAdmin && (
+              <Link href="/admin"
+                className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-semibold text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors"
+                title="Admin Dashboard"
+              >
+                <Shield className="h-4 w-4" />
+                <span className="hidden lg:inline">Admin</span>
+              </Link>
+            )}
 
             {/* Dark mode */}
             <button
@@ -167,10 +174,12 @@ export function Shell({ children }: { children: React.ReactNode }) {
                   >
                     <TrendingUp className="h-4 w-4 text-muted-foreground" /> My Progress
                   </button>
-                  <Link href="/admin" onClick={() => setMenuOpen(false)}
-                    className="flex items-center gap-2 px-4 py-2.5 text-sm hover:bg-secondary transition-colors text-muted-foreground">
-                    <Shield className="h-4 w-4" /> Admin
-                  </Link>
+                  {isAdmin && (
+                    <Link href="/admin" onClick={() => setMenuOpen(false)}
+                      className="flex items-center gap-2 px-4 py-2.5 text-sm hover:bg-secondary transition-colors text-muted-foreground">
+                      <Shield className="h-4 w-4" /> Admin
+                    </Link>
+                  )}
                 </div>
               )}
             </div>
