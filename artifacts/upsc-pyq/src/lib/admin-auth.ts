@@ -1,31 +1,31 @@
-// Simple client-side admin auth — no API calls, no network required.
-// Password is checked directly in the browser.
+// Admin auth — calls the API server to verify password and get a signed token.
 
-const STORAGE_KEY = 'upsc_admin_v2';
-const DEFAULT_PASSWORD = 'upsc@admin';
+const STORAGE_KEY = 'admin_token';
 
-function getPassword(): string {
-  // Allow override via build-time env var
-  return (import.meta.env.VITE_ADMIN_PASSWORD as string) || DEFAULT_PASSWORD;
-}
-
-export function adminLogin(password: string): boolean {
-  if (password === getPassword()) {
-    const token = `${Date.now()}.admin.authenticated`;
+export async function adminLogin(password: string): Promise<boolean> {
+  try {
+    const res = await fetch('/api/admin/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ password }),
+    });
+    if (!res.ok) return false;
+    const { token } = await res.json();
+    if (!token) return false;
     localStorage.setItem(STORAGE_KEY, token);
     return true;
+  } catch {
+    return false;
   }
-  return false;
 }
 
 export function isAdminLoggedIn(): boolean {
   const val = localStorage.getItem(STORAGE_KEY);
   if (!val) return false;
-  // Token format: <timestamp>.admin.authenticated — expires after 48 h
+  // Token format from server: <timestamp>.<hmac> — expires after 48 h
   const ts = parseInt(val.split('.')[0], 10);
   if (isNaN(ts)) return false;
-  const age = Date.now() - ts;
-  return age < 48 * 60 * 60 * 1000;
+  return Date.now() - ts < 48 * 60 * 60 * 1000;
 }
 
 export function adminLogout(): void {

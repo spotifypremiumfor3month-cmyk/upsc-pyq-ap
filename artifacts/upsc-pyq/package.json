@@ -73,5 +73,12 @@
     "vite": "^7.3.2",
     "wouter": "^3.3.5",
     "zod": "^3.25.76"
+  },
+  "dependencies": {
+    "@workspace/object-storage-web": "workspace:*",
+    "@uppy/aws-s3": "^5.0.0",
+    "@uppy/core": "^5.0.0",
+    "@uppy/dashboard": "^5.0.0",
+    "@uppy/react": "^5.0.0"
   }
 }

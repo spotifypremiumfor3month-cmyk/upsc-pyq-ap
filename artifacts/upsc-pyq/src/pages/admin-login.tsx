@@ -9,10 +9,11 @@ export default function AdminLogin() {
   const [show, setShow] = useState(false);
   const [error, setError] = useState('');
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError('');
-    if (adminLogin(password)) {
+    const ok = await adminLogin(password);
+    if (ok) {
       navigate('/admin/posts');
     } else {
       setError('Incorrect password. Please try again.');
