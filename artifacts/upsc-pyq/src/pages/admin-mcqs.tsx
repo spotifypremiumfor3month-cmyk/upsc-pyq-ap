@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { useLocation } from 'wouter';
 import { Plus, Trash2, Upload, X, Save, BookOpen, Search } from 'lucide-react';
 import { api, type Mcq } from '@/lib/api';
-import { isAdminLoggedIn, clearAdminToken } from '@/lib/admin-session';
+import { isAdminLoggedIn, adminLogout } from '@/lib/admin-auth';
 
 const SUBJECTS = ['Polity', 'History', 'Economy', 'Environment', 'Geography', 'Science & Tech'];
 const YEARS    = ['2026', '2025', '2024', '2023', '2022', '2021', 'Practice'];
@@ -72,7 +72,7 @@ export default function AdminMcqs() {
 
   useEffect(() => { load(); }, [load]);
 
-  function logout() { clearAdminToken(); navigate('/admin'); }
+  function logout() { adminLogout(); navigate('/admin'); }
 
   function setField<K extends keyof Omit<Mcq,'id'>>(k: K, v: Omit<Mcq,'id'>[K]) {
     setForm(prev => ({ ...prev, [k]: v }));

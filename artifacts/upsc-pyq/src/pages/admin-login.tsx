@@ -1,33 +1,21 @@
 import { useState } from 'react';
 import { useLocation } from 'wouter';
 import { Shield, Eye, EyeOff } from 'lucide-react';
-import { api } from '@/lib/api';
-import { saveAdminToken } from '@/lib/admin-session';
+import { adminLogin } from '@/lib/admin-auth';
 
 export default function AdminLogin() {
   const [, navigate] = useLocation();
   const [password, setPassword] = useState('');
-  const [show, setShow]         = useState(false);
-  const [error, setError]       = useState('');
-  const [loading, setLoading]   = useState(false);
+  const [show, setShow] = useState(false);
+  const [error, setError] = useState('');
 
-  async function handleSubmit(e: React.FormEvent) {
+  function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError('');
-    setLoading(true);
-    try {
-      const { token } = await api.admin.login(password);
-      saveAdminToken(token);
+    if (adminLogin(password)) {
       navigate('/admin/posts');
-    } catch (err: any) {
-      const msg = err?.message ?? '';
-      if (msg.toLowerCase().includes('invalid') || msg.toLowerCase().includes('401') || msg.toLowerCase().includes('incorrect')) {
-        setError('Incorrect password. Please try again.');
-      } else {
-        setError(`Login failed: ${msg || 'Could not reach server. Please try again.'}`);
-      }
-    } finally {
-      setLoading(false);
+    } else {
+      setError('Incorrect password. Please try again.');
     }
   }
 
@@ -52,6 +40,7 @@ export default function AdminLogin() {
                 onChange={e => setPassword(e.target.value)}
                 placeholder="Enter admin password"
                 required
+                autoComplete="current-password"
                 className="w-full pr-10 pl-4 py-2.5 rounded-xl border bg-card text-sm focus:outline-none focus:ring-2 focus:ring-primary/40"
               />
               <button
@@ -72,16 +61,15 @@ export default function AdminLogin() {
 
           <button
             type="submit"
-            disabled={loading || !password}
+            disabled={!password}
             className="w-full py-2.5 rounded-xl bg-primary text-primary-foreground font-semibold text-sm hover:bg-primary/90 disabled:opacity-50 transition-colors"
           >
-            {loading ? 'Signing in…' : 'Sign In'}
+            Sign In
           </button>
         </form>
 
         <p className="mt-6 text-center text-xs text-muted-foreground">
-          Default password: <code className="bg-secondary px-1.5 py-0.5 rounded">upsc@admin</code><br />
-          Set <code className="bg-secondary px-1.5 py-0.5 rounded">ADMIN_PASSWORD</code> env var to change it.
+          Default password: <code className="bg-secondary px-1.5 py-0.5 rounded">upsc@admin</code>
         </p>
       </div>
     </div>

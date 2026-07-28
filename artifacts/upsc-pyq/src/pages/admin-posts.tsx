@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { useLocation } from 'wouter';
 import { Plus, Pencil, Trash2, X, Save, FileText, Search } from 'lucide-react';
 import { api, type Post } from '@/lib/api';
-import { isAdminLoggedIn, clearAdminToken } from '@/lib/admin-session';
+import { isAdminLoggedIn, adminLogout } from '@/lib/admin-auth';
 
 const CATEGORIES = [
   'Daily Current Affairs', 'Editorial Analysis',
@@ -39,7 +39,7 @@ export default function AdminPosts() {
 
   useEffect(() => { load(); }, [load]);
 
-  function logout() { clearAdminToken(); navigate('/admin'); }
+  function logout() { adminLogout(); navigate('/admin'); }
 
   function openNew()          { setEditing({ ...EMPTY }); setError(''); }
   function openEdit(p: Post)  { setEditing({ ...p }); setError(''); }
